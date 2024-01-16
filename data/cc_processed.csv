@@ -1,0 +1,1491 @@
+timestamp,time,location,price,last4ccnum,purchase_type,estimated_people,rounded
+1/6/2014,7:28,Brew've Been Served,11.34,4795,coffee,0.993806964,1
+1/6/2014,7:34,Hallowed Grounds,52.22,7108,coffee,4.576419724,5
+1/6/2014,7:35,Brew've Been Served,8.33,6816,coffee,0.730018696,1
+1/6/2014,7:36,Hallowed Grounds,16.72,9617,coffee,1.46529563,2
+1/6/2014,7:37,Brew've Been Served,4.24,7384,coffee,0.371582145,1
+1/6/2014,7:38,Brew've Been Served,4.17,5368,coffee,0.365447534,1
+1/6/2014,7:42,Coffee Cameleon,28.73,7253,coffee,2.517819584,3
+1/6/2014,7:43,Brew've Been Served,9.6,4948,coffee,0.841318065,1
+1/6/2014,7:43,Brew've Been Served,16.9,9683,coffee,1.481070344,2
+1/6/2014,7:47,Hallowed Grounds,16.53,8129,coffee,1.448644543,2
+1/6/2014,7:48,Hallowed Grounds,10.66,3492,coffee,0.934213601,1
+1/6/2014,7:49,Coffee Cameleon,8.39,5921,coffee,0.735276934,1
+1/6/2014,7:52,Brew've Been Served,32.83,9405,coffee,2.877132508,3
+1/6/2014,7:54,Hallowed Grounds,16.88,7889,coffee,1.479317598,2
+1/6/2014,7:54,Coffee Cameleon,11.86,2142,coffee,1.039378359,2
+1/6/2014,7:54,Hallowed Grounds,32.93,2681,coffee,2.885896237,3
+1/6/2014,7:55,Hallowed Grounds,8.05,9551,coffee,0.705480252,1
+1/6/2014,7:55,Brew've Been Served,3.67,3484,coffee,0.321628885,1
+1/6/2014,7:59,Brew've Been Served,8.88,7819,coffee,0.77821921,1
+1/6/2014,8:00,Brew've Been Served,4.27,5407,coffee,0.374211264,1
+1/6/2014,8:00,Hallowed Grounds,9.69,6691,coffee,0.849205422,1
+1/6/2014,8:01,Hallowed Grounds,10.07,1874,coffee,0.882507595,1
+1/6/2014,8:06,Brew've Been Served,18.24,3853,coffee,1.598504323,2
+1/6/2014,8:06,Brew've Been Served,15.58,4434,coffee,1.36538911,2
+1/6/2014,8:07,Brew've Been Served,5.66,6901,coffee,0.496027109,1
+1/6/2014,8:14,Coffee Cameleon,3.2,2418,coffee,0.280439355,1
+1/6/2014,8:16,Brew've Been Served,14.97,1286,coffee,1.311930358,2
+1/6/2014,8:16,Brew've Been Served,11.2,8411,coffee,0.981537742,1
+1/6/2014,8:17,Brew've Been Served,15.39,8202,coffee,1.348738023,2
+1/6/2014,8:23,Abila Airport,4540.08,9220,industrial,1.948792547,2
+1/6/2014,9:06,Kronos Pipe and Irrigation,242.21,9220,industrial,0.10396668,1
+1/6/2014,10:02,Nationwide Refinery,761.64,9735,industrial,0.326927798,1
+1/6/2014,10:18,Maximum Iron and Steel,2859.51,9220,industrial,1.227421494,2
+1/6/2014,11:33,Stewart and Sons Fabrication,2144.62,9735,industrial,0.920560755,1
+1/6/2014,11:57,Carlyle Chemical Inc.,3959.66,9220,industrial,1.699651966,2
+1/6/2014,12:00,Coffee Shack,51.51,7117,coffee,4.514197242,5
+1/6/2014,12:00,Bean There Done That,10.28,1415,coffee,0.900911428,1
+1/6/2014,12:00,Bean There Done That,16.09,9635,coffee,1.410084132,2
+1/6/2014,12:00,Brewed Awakenings,5.72,7688,coffee,0.501285347,1
+1/6/2014,12:00,Jack's Magical Beans,11.03,6899,coffee,0.966639402,1
+1/6/2014,12:00,Brewed Awakenings,16.89,2540,coffee,1.480193971,2
+1/6/2014,12:00,Bean There Done That,8.54,1877,coffee,0.748422529,1
+1/6/2014,12:00,Brewed Awakenings,4.35,8332,coffee,0.381222248,1
+1/6/2014,12:00,Bean There Done That,5.24,1321,coffee,0.459219444,1
+1/6/2014,12:00,Bean There Done That,4.27,6895,coffee,0.374211264,1
+1/6/2014,12:00,Jack's Magical Beans,18.59,9241,coffee,1.629177378,2
+1/6/2014,12:00,Jack's Magical Beans,27.84,8156,coffee,2.439822388,3
+1/6/2014,12:00,Jack's Magical Beans,18.1,2463,coffee,1.586235102,2
+1/6/2014,12:16,Abila Airport,1873.79,8642,industrial,0.804309172,1
+1/6/2014,12:56,Katerinas Cafe,13.68,8332,restaurant,0.498437133,1
+1/6/2014,12:57,Hippokampos,9.16,8156,store,0.166449488,1
+1/6/2014,13:18,Abila Zacharo,106.93,2418,store,1.943061547,2
+1/6/2014,13:19,Gelatogalore,12.74,7253,store,0.231502891,1
+1/6/2014,13:19,Kalami Kafenion,70.1,3484,store,1.27381104,2
+1/6/2014,13:20,Hippokampos,34.03,6691,store,0.618370751,1
+1/6/2014,13:21,Hippokampos,28.23,9551,store,0.512976971,1
+1/6/2014,13:22,Ouzeri Elian,38.9,2540,restaurant,1.417339508,2
+1/6/2014,13:23,Hippokampos,13.26,4795,store,0.240951988,1
+1/6/2014,13:24,Guy's Gyros,15.44,1415,restaurant,0.562563548,1
+1/6/2014,13:27,Abila Zacharo,30.08,7688,store,0.546593953,1
+1/6/2014,13:27,Abila Zacharo,50.14,1286,store,0.911111063,1
+1/6/2014,13:28,Katerinas Cafe,33.54,8411,restaurant,1.222045427,2
+1/6/2014,13:28,Kalami Kafenion,8.64,5407,store,0.157000391,1
+1/6/2014,13:30,Guy's Gyros,16.92,7384,restaurant,0.616488033,1
+1/6/2014,13:35,Hippokampos,36.54,2681,store,0.663980819,1
+1/6/2014,13:35,Abila Zacharo,92.05,7354,store,1.672671986,2
+1/6/2014,13:37,Ouzeri Elian,20.56,6816,restaurant,0.749113118,1
+1/6/2014,13:39,Guy's Gyros,11.22,1310,restaurant,0.408805894,1
+1/6/2014,13:41,Gelatogalore,22.64,7889,store,0.411399172,1
+1/6/2014,13:42,Ouzeri Elian,20.4,6895,restaurant,0.743283444,1
+1/6/2014,13:46,Guy's Gyros,30.82,9635,restaurant,1.122940968,2
+1/6/2014,13:46,Katerinas Cafe,18.56,6899,restaurant,0.676242192,1
+1/6/2014,13:46,Guy's Gyros,99.67,2463,restaurant,3.631522591,4
+1/6/2014,13:47,Kalami Kafenion,22.13,1321,store,0.402131788,1
+1/6/2014,13:48,Ouzeri Elian,20.74,5368,restaurant,0.755671501,1
+1/6/2014,13:48,Ouzeri Elian,30.87,5921,restaurant,1.124762741,2
+1/6/2014,13:50,Katerinas Cafe,13.59,1874,restaurant,0.495157941,1
+1/6/2014,13:50,Katerinas Cafe,32.64,9617,restaurant,1.18925351,2
+1/6/2014,13:52,Kalami Kafenion,22.31,4434,store,0.405402629,1
+1/6/2014,13:52,Gelatogalore,36.33,3492,store,0.660164837,1
+1/6/2014,13:53,Katerinas Cafe,36.95,2142,restaurant,1.346290355,2
+1/6/2014,13:54,Abila Zacharo,23.15,9405,store,0.420666556,1
+1/6/2014,13:57,Hippokampos,8.64,1877,store,0.157000391,1
+1/6/2014,13:58,Hippokampos,38.25,8202,store,0.695053813,1
+1/6/2014,13:59,Katerinas Cafe,39.41,3853,restaurant,1.435921594,2
+1/6/2014,14:00,Kalami Kafenion,13.08,7117,store,0.237681147,1
+1/6/2014,14:00,Gelatogalore,23.41,7819,store,0.425391105,1
+1/6/2014,14:04,Hippokampos,30.88,4948,store,0.561131026,1
+1/6/2014,14:05,Abila Zacharo,78.11,7108,store,1.419363485,2
+1/6/2014,14:15,Kalami Kafenion,27.4,8129,store,0.497894757,1
+1/6/2014,14:17,Katerinas Cafe,19.65,6901,restaurant,0.715956847,1
+1/6/2014,15:14,Abila Airport,777.06,9220,industrial,0.333546708,1
+1/6/2014,15:39,Abila Airport,612.47,8642,industrial,0.262897784,1
+1/6/2014,17:28,U-Pump,59.51,3484,gas,1.005746155,2
+1/6/2014,18:56,Katerinas Cafe,78.65,8411,restaurant,2.86564916,3
+1/6/2014,19:08,Katerinas Cafe,26.46,8129,restaurant,0.964082349,1
+1/6/2014,19:18,Guy's Gyros,39.29,7384,restaurant,1.431549339,2
+1/6/2014,19:50,Frydos Autosupply n' More,273.87,9241,supply,1.818257598,2
+1/6/2014,20:07,Katerinas Cafe,23.63,7253,restaurant,0.860969989,1
+1/6/2014,20:08,Katerinas Cafe,12.32,1874,restaurant,0.448884903,1
+1/6/2014,20:09,Guy's Gyros,11.94,6901,restaurant,0.435039427,1
+1/6/2014,20:12,Frydos Autosupply n' More,80.85,8202,supply,0.536773384,1
+1/6/2014,20:13,Guy's Gyros,22.57,3484,restaurant,0.822348398,1
+1/6/2014,20:15,Guy's Gyros,117.82,6816,restaurant,4.292826243,5
+1/6/2014,20:15,Frydos Autosupply n' More,175.87,5368,supply,1.167623193,2
+1/6/2014,20:19,Katerinas Cafe,21.66,2418,restaurant,0.789192127,1
+1/6/2014,20:20,Hippokampos,35.34,1321,store,0.642175209,1
+1/6/2014,20:24,Guy's Gyros,28.94,7819,restaurant,1.054442297,2
+1/6/2014,20:26,Albert's Fine Clothing,276.9,9551,store,5.031644463,6
+1/6/2014,20:28,Guy's Gyros,95.29,7108,restaurant,3.471935263,4
+1/6/2014,20:29,Hippokampos,85.5,6895,store,1.553649699,2
+1/6/2014,20:29,Katerinas Cafe,17.92,9405,restaurant,0.652923496,1
+1/6/2014,20:30,Katerinas Cafe,28,6691,restaurant,1.020192962,2
+1/6/2014,20:33,Katerinas Cafe,15.52,5921,restaurant,0.565478385,1
+1/6/2014,20:36,Hippokampos,26.8,1877,store,0.486991952,1
+1/6/2014,20:46,Hippokampos,24.41,7117,store,0.443562446,1
+1/6/2014,20:46,Hippokampos,21.33,1415,store,0.387594714,1
+1/6/2014,20:47,Frydos Autosupply n' More,149.3,5407,supply,0.991221599,1
+1/6/2014,20:49,Shoppers' Delight,293.67,7354,store,5.33637786,6
+1/6/2014,20:52,Hippokampos,17.27,7688,store,0.313819068,1
+1/6/2014,20:59,Katerinas Cafe,26.1,3492,restaurant,0.950965583,1
+1/6/2014,21:03,Katerinas Cafe,10.72,9617,restaurant,0.390588163,1
+1/6/2014,21:03,Albert's Fine Clothing,121.76,4434,store,2.212542542,3
+1/6/2014,21:11,Hippokampos,28.14,8156,store,0.51134155,1
+1/6/2014,21:12,Katerinas Cafe,26.51,4948,restaurant,0.965904122,1
+1/6/2014,21:23,Frydos Autosupply n' More,197.32,2142,supply,1.310032458,2
+1/6/2014,21:32,Frydos Autosupply n' More,314.98,1310,supply,2.091192092,3
+1/6/2014,21:52,Hippokampos,20.61,8332,store,0.374511348,1
+1/7/2014,7:27,Brew've Been Served,5.08,7384,coffee,0.445197476,1
+1/7/2014,7:31,Brew've Been Served,12.74,5368,coffee,1.116499182,2
+1/7/2014,7:33,Brew've Been Served,7.09,4795,coffee,0.621348446,1
+1/7/2014,7:35,Hallowed Grounds,14.05,7889,coffee,1.231304043,2
+1/7/2014,7:37,Hallowed Grounds,8.91,8129,coffee,0.780848329,1
+1/7/2014,7:41,Hallowed Grounds,19.59,1874,coffee,1.716814676,2
+1/7/2014,7:45,Brew've Been Served,19.6,6816,coffee,1.717691049,2
+1/7/2014,7:46,Hallowed Grounds,84.44,9551,coffee,7.40009348,8
+1/7/2014,7:46,Coffee Cameleon,9.1,5921,coffee,0.797499416,1
+1/7/2014,7:47,Hallowed Grounds,7.88,1310,coffee,0.690581912,1
+1/7/2014,7:48,Hallowed Grounds,18.97,7108,coffee,1.662479551,2
+1/7/2014,7:49,Coffee Cameleon,27.66,7253,coffee,2.424047675,3
+1/7/2014,7:50,Brew've Been Served,4.39,5407,coffee,0.38472774,1
+1/7/2014,7:50,Hallowed Grounds,9.61,3492,coffee,0.842194438,1
+1/7/2014,7:52,Brew've Been Served,3,4434,coffee,0.262911895,1
+1/7/2014,7:54,Brew've Been Served,11.92,1286,coffee,1.044636597,2
+1/7/2014,7:55,Brew've Been Served,69.06,3484,coffee,6.05223183,7
+1/7/2014,7:56,Brew've Been Served,98.53,9683,coffee,8.634903015,9
+1/7/2014,7:57,Hallowed Grounds,10.33,6691,coffee,0.905293293,1
+1/7/2014,7:58,Brew've Been Served,17.4,8202,coffee,1.524888993,2
+1/7/2014,8:00,Brew've Been Served,11.91,4948,coffee,1.043760224,2
+1/7/2014,8:00,Coffee Cameleon,11.55,2142,coffee,1.012210797,2
+1/7/2014,8:01,Coffee Cameleon,52.44,2418,coffee,4.59569993,5
+1/7/2014,8:01,Hallowed Grounds,9.92,9617,coffee,0.869362,1
+1/7/2014,8:01,Hallowed Grounds,68.42,2681,coffee,5.996143959,6
+1/7/2014,8:02,Brew've Been Served,14.49,9405,coffee,1.269864454,2
+1/7/2014,8:06,Brew've Been Served,3.03,7819,coffee,0.265541014,1
+1/7/2014,8:09,Brew've Been Served,15.66,8411,coffee,1.372400093,2
+1/7/2014,8:18,Brew've Been Served,47.74,6901,coffee,4.183804627,5
+1/7/2014,9:17,Abila Airport,3840.37,3506,industrial,1.6484477,2
+1/7/2014,10:05,Stewart and Sons Fabrication,1200.9,3506,industrial,0.515476593,1
+1/7/2014,10:11,Nationwide Refinery,1347.36,9735,industrial,0.578343361,1
+1/7/2014,11:31,Stewart and Sons Fabrication,1843.33,9735,industrial,0.791234464,1
+1/7/2014,11:39,Nationwide Refinery,1562.66,7792,industrial,0.670759141,1
+1/7/2014,12:00,Coffee Shack,16.63,7117,coffee,1.457408273,2
+1/7/2014,12:00,Bean There Done That,51.25,1415,coffee,4.491411545,5
+1/7/2014,12:00,Brewed Awakenings,12.17,7688,coffee,1.066545922,2
+1/7/2014,12:00,Jack's Magical Beans,23.68,6899,coffee,2.075251227,3
+1/7/2014,12:00,Brewed Awakenings,64.84,3853,coffee,5.68240243,6
+1/7/2014,12:00,Brewed Awakenings,71.59,2540,coffee,6.273954195,7
+1/7/2014,12:00,Bean There Done That,53.89,1877,coffee,4.722774013,5
+1/7/2014,12:00,Brewed Awakenings,6.72,8332,coffee,0.588922645,1
+1/7/2014,12:00,Bean There Done That,8.03,1321,coffee,0.703727506,1
+1/7/2014,12:00,Bean There Done That,46.25,6895,coffee,4.053225053,5
+1/7/2014,12:00,Jack's Magical Beans,18.77,9241,coffee,1.644952092,2
+1/7/2014,12:00,Jack's Magical Beans,19.61,8156,coffee,1.718567422,2
+1/7/2014,12:00,Jack's Magical Beans,69.84,2463,coffee,6.120588923,7
+1/7/2014,12:02,Nationwide Refinery,1071.04,3506,industrial,0.45973524,1
+1/7/2014,12:29,Abila Airport,124.89,8642,industrial,0.05360802,1
+1/7/2014,13:08,Katerinas Cafe,59.07,7792,restaurant,2.152242796,3
+1/7/2014,13:13,Guy's Gyros,29.57,8156,restaurant,1.077396639,2
+1/7/2014,13:20,Abila Zacharo,13.52,1415,store,0.245676537,1
+1/7/2014,13:20,Gelatogalore,35.06,8332,store,0.637087233,1
+1/7/2014,13:20,Guy's Gyros,38.56,7354,restaurant,1.404951451,2
+1/7/2014,13:24,Kalami Kafenion,45.05,1286,store,0.818618935,1
+1/7/2014,13:24,Kalami Kafenion,11.64,5407,store,0.211514415,1
+1/7/2014,13:25,Abila Zacharo,82.25,6899,store,1.494592839,2
+1/7/2014,13:29,Ouzeri Elian,29.1,2142,restaurant,1.060271971,2
+1/7/2014,13:30,Gelatogalore,51.64,1310,store,0.938368075,1
+1/7/2014,13:32,Ouzeri Elian,28.37,4948,restaurant,1.033674083,2
+1/7/2014,13:33,Abila Zacharo,52.72,7688,store,0.957993124,1
+1/7/2014,13:33,Gelatogalore,34.04,7253,store,0.618552465,1
+1/7/2014,13:33,Katerinas Cafe,22.27,7889,restaurant,0.81141776,1
+1/7/2014,13:33,Guy's Gyros,11.31,6816,restaurant,0.412085086,1
+1/7/2014,13:33,Kalami Kafenion,18.06,4795,store,0.328174428,1
+1/7/2014,13:34,Ouzeri Elian,64.84,6895,restaurant,2.362475417,3
+1/7/2014,13:35,Gelatogalore,8.98,2463,store,0.163178647,1
+1/7/2014,13:37,Gelatogalore,21.52,9551,store,0.391047269,1
+1/7/2014,13:39,Gelatogalore,17.21,9405,store,0.312728787,1
+1/7/2014,13:41,Katerinas Cafe,51.41,3484,restaurant,1.87314715,2
+1/7/2014,13:41,Abila Zacharo,17.81,9683,store,0.323631592,1
+1/7/2014,13:42,Ouzeri Elian,97.71,5368,restaurant,3.560109083,4
+1/7/2014,13:44,Abila Zacharo,32.4,2418,store,0.588751465,1
+1/7/2014,13:45,Kalami Kafenion,22.83,1877,store,0.414851727,1
+1/7/2014,13:46,Guy's Gyros,10.11,9635,restaurant,0.36836253,1
+1/7/2014,13:46,Kalami Kafenion,22.14,7108,store,0.402313501,1
+1/7/2014,13:49,Gelatogalore,36.5,2681,store,0.663253965,1
+1/7/2014,13:50,Ouzeri Elian,21.85,8411,restaurant,0.796114865,1
+1/7/2014,13:52,Gelatogalore,71.77,1874,store,1.30415718,2
+1/7/2014,13:53,Hippokampos,51.69,3853,store,0.939276642,1
+1/7/2014,13:54,Gelatogalore,88.97,5921,store,1.616704254,2
+1/7/2014,13:55,Abila Zacharo,65.9,7819,store,1.197491405,2
+1/7/2014,13:56,Ouzeri Elian,16.2,1321,restaurant,0.5902545,1
+1/7/2014,13:57,Katerinas Cafe,37.44,8202,restaurant,1.364143732,2
+1/7/2014,13:57,Gelatogalore,15.4,6691,store,0.279838659,1
+1/7/2014,14:00,Hippokampos,76.11,3492,store,1.383020802,2
+1/7/2014,14:07,Katerinas Cafe,10.9,4434,restaurant,0.397146546,1
+1/7/2014,14:09,Guy's Gyros,12.57,9617,restaurant,0.457993769,1
+1/7/2014,14:09,Ouzeri Elian,59.51,6901,restaurant,2.168274399,3
+1/7/2014,14:11,Hippokampos,37.57,8129,store,0.6826973,1
+1/7/2014,14:16,Abila Scrapyard,2149.28,2276,industrial,0.922561022,1
+1/7/2014,14:19,Kronos Pipe and Irrigation,3920.82,4530,industrial,1.68298021,2
+1/7/2014,14:34,Carlyle Chemical Inc.,4803.13,7792,industrial,2.061704628,3
+1/7/2014,15:03,Stewart and Sons Fabrication,962.2,2276,industrial,0.413016552,1
+1/7/2014,15:20,Maximum Iron and Steel,3207.31,4530,industrial,1.376711825,2
+1/7/2014,15:41,Abila Airport,3411.29,8642,industrial,1.464268587,2
+1/7/2014,16:24,Nationwide Refinery,889.58,2276,industrial,0.381845006,1
+1/7/2014,19:45,Guy's Gyros,14.87,7819,restaurant,0.541795334,1
+1/7/2014,19:48,Guy's Gyros,31.23,3484,restaurant,1.137879507,2
+1/7/2014,20:01,Hippokampos,20.17,1877,store,0.366515958,1
+1/7/2014,20:02,Hippokampos,11.56,1415,store,0.210060708,1
+1/7/2014,20:04,Albert's Fine Clothing,308.36,6895,store,5.603314867,6
+1/7/2014,20:09,Katerinas Cafe,19.49,7253,restaurant,0.710127173,1
+1/7/2014,20:10,Albert's Fine Clothing,78.91,7117,store,1.433900558,2
+1/7/2014,20:10,Guy's Gyros,42.25,7384,restaurant,1.539398309,2
+1/7/2014,20:10,Guy's Gyros,26.82,4795,restaurant,0.977199116,1
+1/7/2014,20:11,Katerinas Cafe,10.07,2142,restaurant,0.366905112,1
+1/7/2014,20:11,Guy's Gyros,76.71,9683,restaurant,2.794964362,3
+1/7/2014,20:12,Katerinas Cafe,55.63,1874,restaurant,2.026904803,3
+1/7/2014,20:13,Katerinas Cafe,94.75,7889,restaurant,3.452260113,4
+1/7/2014,20:13,Katerinas Cafe,65.02,8202,restaurant,2.3690338,3
+1/7/2014,20:14,Guy's Gyros,62.33,3853,restaurant,2.271022405,3
+1/7/2014,20:15,Ouzeri Elian,11.41,9241,restaurant,0.415728632,1
+1/7/2014,20:18,Katerinas Cafe,31.6,8411,restaurant,1.151360629,2
+1/7/2014,20:19,Guy's Gyros,89.76,7354,restaurant,3.270447153,4
+1/7/2014,20:20,Frydos Autosupply n' More,312.73,6901,supply,2.076254057,3
+1/7/2014,20:32,Katerinas Cafe,19.53,5921,restaurant,0.711584591,1
+1/7/2014,20:33,Katerinas Cafe,17.26,9617,restaurant,0.62887609,1
+1/7/2014,20:33,Katerinas Cafe,25.54,6691,restaurant,0.930561723,1
+1/7/2014,20:34,Hippokampos,70.19,1321,store,1.27544646,2
+1/7/2014,20:34,Guy's Gyros,23.12,5368,restaurant,0.842387903,1
+1/7/2014,20:47,Katerinas Cafe,32.83,3492,restaurant,1.196176248,2
+1/7/2014,20:49,Ouzeri Elian,20.53,2681,restaurant,0.748020054,1
+1/7/2014,20:51,Hippokampos,32.99,8156,store,0.599472556,1
+1/7/2014,21:01,Katerinas Cafe,33.29,9405,restaurant,1.212936561,2
+1/7/2014,21:03,Hippokampos,21.2,2540,store,0.38523244,1
+1/7/2014,21:17,Hippokampos,37.88,2463,store,0.688330416,1
+1/7/2014,21:19,Katerinas Cafe,18.35,1310,restaurant,0.668590745,1
+1/7/2014,21:21,Hippokampos,35.85,7688,store,0.651442593,1
+1/7/2014,21:51,Hippokampos,22.18,8332,store,0.403040355,1
+1/8/2014,7:31,Brew've Been Served,15.66,7354,coffee,1.372400093,2
+1/8/2014,7:39,Hallowed Grounds,12.19,7108,coffee,1.068298668,2
+1/8/2014,7:39,Hallowed Grounds,8.15,1874,coffee,0.714243982,1
+1/8/2014,7:39,Hallowed Grounds,8.28,1310,coffee,0.725636831,1
+1/8/2014,7:40,Hallowed Grounds,5.85,8129,coffee,0.512678196,1
+1/8/2014,7:42,Brew've Been Served,3.09,4948,coffee,0.270799252,1
+1/8/2014,7:43,Hallowed Grounds,3.4,9617,coffee,0.297966815,1
+1/8/2014,7:47,Hallowed Grounds,3.11,3492,coffee,0.272551998,1
+1/8/2014,7:48,Brew've Been Served,32.92,3853,coffee,2.885019864,3
+1/8/2014,7:48,Brew've Been Served,8.27,6816,coffee,0.724760458,1
+1/8/2014,7:48,Brew've Been Served,19.17,9683,coffee,1.680007011,2
+1/8/2014,7:50,Brew've Been Served,33.68,9405,coffee,2.951624211,3
+1/8/2014,7:50,Hallowed Grounds,3.9,2681,coffee,0.341785464,1
+1/8/2014,7:51,Coffee Cameleon,6.59,7253,coffee,0.577529797,1
+1/8/2014,7:52,Coffee Cameleon,12.26,5921,coffee,1.074433279,2
+1/8/2014,7:55,Hallowed Grounds,79.92,7889,coffee,7.003972891,8
+1/8/2014,7:55,Brew've Been Served,91.87,3484,coffee,8.051238607,9
+1/8/2014,7:56,Hallowed Grounds,12.86,9551,coffee,1.127015658,2
+1/8/2014,7:57,Brew've Been Served,74.88,5368,coffee,6.562280907,7
+1/8/2014,7:57,Hallowed Grounds,11.63,6691,coffee,1.019221781,2
+1/8/2014,7:58,Brew've Been Served,8.4,5407,coffee,0.736153307,1
+1/8/2014,7:59,Coffee Cameleon,15.71,2142,coffee,1.376781958,2
+1/8/2014,8:00,Brew've Been Served,32.3,4795,coffee,2.830684739,3
+1/8/2014,8:01,Brew've Been Served,3.92,8202,coffee,0.34353821,1
+1/8/2014,8:01,Brew've Been Served,17.13,7819,coffee,1.501226922,2
+1/8/2014,8:01,Brew've Been Served,3.42,7384,coffee,0.299719561,1
+1/8/2014,8:03,Brew've Been Served,10.15,6901,coffee,0.889518579,1
+1/8/2014,8:09,Brew've Been Served,11.48,8411,coffee,1.006076186,2
+1/8/2014,8:16,Brew've Been Served,7.26,1286,coffee,0.636246787,1
+1/8/2014,8:18,Brew've Been Served,6.3,4434,coffee,0.55211498,1
+1/8/2014,8:22,Coffee Cameleon,16.17,2418,coffee,1.417095116,2
+1/8/2014,9:43,Carlyle Chemical Inc.,3048.31,7792,industrial,1.308462364,2
+1/8/2014,9:54,Nationwide Refinery,4513.16,9152,industrial,1.937237355,2
+1/8/2014,10:14,Nationwide Refinery,3674.32,9735,industrial,1.577172083,2
+1/8/2014,11:28,Stewart and Sons Fabrication,1738.26,9152,industrial,0.746134018,1
+1/8/2014,11:58,Stewart and Sons Fabrication,1673.77,9735,industrial,0.718452208,1
+1/8/2014,12:00,Coffee Shack,13.13,7117,coffee,1.150677728,2
+1/8/2014,12:00,Bean There Done That,17.45,1415,coffee,1.529270858,2
+1/8/2014,12:00,Bean There Done That,12.07,9635,coffee,1.057782192,2
+1/8/2014,12:00,Brewed Awakenings,11.73,7688,coffee,1.027985511,2
+1/8/2014,12:00,Jack's Magical Beans,3.96,6899,coffee,0.347043702,1
+1/8/2014,12:00,Brewed Awakenings,12.32,2540,coffee,1.079691517,2
+1/8/2014,12:00,Bean There Done That,8.06,1877,coffee,0.706356625,1
+1/8/2014,12:00,Brewed Awakenings,15.03,8332,coffee,1.317188595,2
+1/8/2014,12:00,Bean There Done That,94.96,1321,coffee,8.322037859,9
+1/8/2014,12:00,Jack's Magical Beans,18.78,9241,coffee,1.645828465,2
+1/8/2014,12:00,Jack's Magical Beans,12.37,8156,coffee,1.084073382,2
+1/8/2014,12:00,Jack's Magical Beans,31.25,2463,coffee,2.738665576,3
+1/8/2014,12:29,Frank's Fuel,65.34,3853,gas,1.104275815,2
+1/8/2014,12:45,Abila Airport,2723.18,8642,industrial,1.168902946,2
+1/8/2014,12:56,Chostus Hotel,107.51,2540,hotel,0.61915903,1
+1/8/2014,13:03,Carlyle Chemical Inc.,4983.52,4530,industrial,2.139135573,3
+1/8/2014,13:10,Abila Zacharo,22.13,5407,store,0.402131788,1
+1/8/2014,13:12,Hippokampos,26.55,8332,store,0.482449117,1
+1/8/2014,13:15,Hippokampos,9.03,4795,store,0.164087214,1
+1/8/2014,13:19,Katerinas Cafe,29.26,7792,restaurant,1.066101646,2
+1/8/2014,13:19,Chostus Hotel,111.89,9683,hotel,0.644383814,1
+1/8/2014,13:21,Ouzeri Elian,109.73,8156,restaurant,3.998063348,4
+1/8/2014,13:23,Abila Zacharo,36.85,2463,store,0.669613935,1
+1/8/2014,13:26,Hippokampos,16.59,7253,store,0.301462556,1
+1/8/2014,13:27,Gelatogalore,32.79,8411,store,0.595838288,1
+1/8/2014,13:28,Katerinas Cafe,8.53,6899,restaurant,0.310794499,1
+1/8/2014,13:28,Gelatogalore,20.72,9405,store,0.376510196,1
+1/8/2014,13:29,Kalami Kafenion,24.08,5921,store,0.437565903,1
+1/8/2014,13:31,Hippokampos,37.89,1321,store,0.68851213,1
+1/8/2014,13:32,Guy's Gyros,30.12,7384,restaurant,1.097436144,2
+1/8/2014,13:34,Abila Zacharo,14.41,1415,store,0.261849031,1
+1/8/2014,13:34,Katerinas Cafe,88.98,1310,restaurant,3.242027492,4
+1/8/2014,13:38,Gelatogalore,50.36,1286,store,0.915108758,1
+1/8/2014,13:39,Gelatogalore,119.75,3484,store,2.176018145,3
+1/8/2014,13:40,Guy's Gyros,77.9,3853,restaurant,2.838322563,3
+1/8/2014,13:41,Katerinas Cafe,26.45,2142,restaurant,0.963717995,1
+1/8/2014,13:42,Gelatogalore,35.29,7889,store,0.641266642,1
+1/8/2014,13:42,Kalami Kafenion,22.49,8202,store,0.40867347,1
+1/8/2014,13:42,Katerinas Cafe,57.04,6895,restaurant,2.078278806,3
+1/8/2014,13:43,Hippokampos,39.8,9551,store,0.723219392,1
+1/8/2014,13:44,Kalami Kafenion,31.96,7354,store,0.580756075,1
+1/8/2014,13:45,Kalami Kafenion,23.82,3492,store,0.432841355,1
+1/8/2014,13:46,Abila Zacharo,28.25,2681,store,0.513340398,1
+1/8/2014,13:47,Katerinas Cafe,27.05,1877,restaurant,0.985579272,1
+1/8/2014,13:47,Gelatogalore,22.27,2418,store,0.404675775,1
+1/8/2014,13:47,Ouzeri Elian,104.92,5368,restaurant,3.822808771,4
+1/8/2014,13:48,Hippokampos,28.79,9635,store,0.523152922,1
+1/8/2014,13:48,Gelatogalore,116.72,7819,store,2.120958981,3
+1/8/2014,13:51,Guy's Gyros,15.86,1874,restaurant,0.577866442,1
+1/8/2014,13:51,Abila Zacharo,30.85,6901,store,0.560585885,1
+1/8/2014,13:52,Kalami Kafenion,14.77,6816,store,0.268390714,1
+1/8/2014,13:53,Abila Zacharo,16.2,9617,store,0.294375732,1
+1/8/2014,13:57,Guy's Gyros,10.34,4434,restaurant,0.376742687,1
+1/8/2014,14:06,Katerinas Cafe,22.94,7108,restaurant,0.83582952,1
+1/8/2014,14:09,Kronos Pipe and Irrigation,3615.61,4530,industrial,1.551971291,2
+1/8/2014,14:15,Kalami Kafenion,34.98,7117,store,0.635633526,1
+1/8/2014,14:17,Gelatogalore,39.94,4948,store,0.72576338,1
+1/8/2014,14:19,Kalami Kafenion,31.43,8129,store,0.571125264,1
+1/8/2014,14:26,Carlyle Chemical Inc.,4901.88,7792,industrial,2.104092265,3
+1/8/2014,15:18,Maximum Iron and Steel,3136.01,4530,industrial,1.346106878,2
+1/8/2014,15:29,Abila Airport,2769.12,8642,industrial,1.188622319,2
+1/8/2014,19:21,Hippokampos,10.52,1415,store,0.191162513,1
+1/8/2014,19:28,Hippokampos,16.54,2540,store,0.300553989,1
+1/8/2014,19:32,Katerinas Cafe,34.25,5407,restaurant,1.247914606,2
+1/8/2014,19:36,Guy's Gyros,15.69,7354,restaurant,0.571672413,1
+1/8/2014,19:48,Guy's Gyros,30.48,4434,restaurant,1.11055291,2
+1/8/2014,20:00,Katerinas Cafe,13.83,8411,restaurant,0.503902452,1
+1/8/2014,20:02,Hippokampos,32.66,6895,store,0.593476014,1
+1/8/2014,20:07,Guy's Gyros,28.81,7384,restaurant,1.049705687,2
+1/8/2014,20:07,Frydos Autosupply n' More,214.07,2418,supply,1.421237828,2
+1/8/2014,20:08,Guy's Gyros,33.02,5368,restaurant,1.203098986,2
+1/8/2014,20:08,Katerinas Cafe,31.59,1310,restaurant,1.150996274,2
+1/8/2014,20:12,Ouzeri Elian,62.2,1286,restaurant,2.266285795,3
+1/8/2014,20:15,Guy's Gyros,99.08,3484,restaurant,3.610025668,4
+1/8/2014,20:17,Frydos Autosupply n' More,182.56,3853,supply,1.21203895,2
+1/8/2014,20:17,Guy's Gyros,18.24,9683,restaurant,0.664582844,1
+1/8/2014,20:27,Katerinas Cafe,33.31,2142,restaurant,1.21366527,2
+1/8/2014,20:28,Hippokampos,96.75,7117,store,1.758077291,2
+1/8/2014,20:28,Frydos Autosupply n' More,268.89,6691,supply,1.785194748,2
+1/8/2014,20:31,Katerinas Cafe,36.6,7889,restaurant,1.333537943,2
+1/8/2014,20:35,Katerinas Cafe,16.93,8202,restaurant,0.616852388,1
+1/8/2014,20:42,Katerinas Cafe,92.83,5921,restaurant,3.382304024,4
+1/8/2014,20:45,Albert's Fine Clothing,136.01,9635,store,2.471484158,3
+1/8/2014,20:49,Hippokampos,15.64,8332,store,0.284199781,1
+1/8/2014,20:53,Hippokampos,26.31,7688,store,0.478087995,1
+1/8/2014,20:57,Guy's Gyros,10.28,6901,restaurant,0.374556559,1
+1/8/2014,20:58,Guy's Gyros,22.91,7819,restaurant,0.834736456,1
+1/8/2014,21:00,General Grocer,265.84,7108,store,4.830669426,5
+1/8/2014,21:02,Katerinas Cafe,28.86,4948,restaurant,1.05152746,2
+1/8/2014,21:09,Katerinas Cafe,27.87,1874,restaurant,1.015456352,2
+1/8/2014,21:16,Ouzeri Elian,30.81,9551,restaurant,1.122576613,2
+1/8/2014,21:17,Ouzeri Elian,29.85,6899,restaurant,1.087598569,2
+1/8/2014,21:32,Hippokampos,78.99,2463,store,1.435354266,2
+1/9/2014,7:35,Coffee Cameleon,12.47,7253,coffee,1.092837111,2
+1/9/2014,7:36,Brew've Been Served,70.71,9683,coffee,6.196833372,7
+1/9/2014,7:37,Hallowed Grounds,17.56,1310,coffee,1.538910961,2
+1/9/2014,7:37,Coffee Cameleon,19.99,5921,coffee,1.751869596,2
+1/9/2014,7:42,Hallowed Grounds,56.77,7108,coffee,4.975169432,5
+1/9/2014,7:43,Brew've Been Served,5.43,5368,coffee,0.47587053,1
+1/9/2014,7:46,Hallowed Grounds,75.24,8129,coffee,6.593830334,7
+1/9/2014,7:46,Brew've Been Served,4.4,4948,coffee,0.385604113,1
+1/9/2014,7:48,Brew've Been Served,5.3,7384,coffee,0.464477682,1
+1/9/2014,7:48,Brew've Been Served,34.85,7354,coffee,3.05415985,4
+1/9/2014,7:48,Brew've Been Served,5.13,4795,coffee,0.449579341,1
+1/9/2014,7:50,Hallowed Grounds,34.45,9551,coffee,3.019104931,4
+1/9/2014,7:51,Hallowed Grounds,19.22,7889,coffee,1.684388876,2
+1/9/2014,7:56,Brew've Been Served,98.25,8202,coffee,8.610364571,9
+1/9/2014,7:57,Hallowed Grounds,18.48,9617,coffee,1.619537275,2
+1/9/2014,7:57,Brew've Been Served,5.26,8411,coffee,0.46097219,1
+1/9/2014,7:57,Hallowed Grounds,50.25,9405,coffee,4.403774246,5
+1/9/2014,7:58,Brew've Been Served,19.47,6901,coffee,1.706298201,2
+1/9/2014,8:00,Brew've Been Served,6.61,7819,coffee,0.579282543,1
+1/9/2014,8:00,Brew've Been Served,6.21,4434,coffee,0.544227623,1
+1/9/2014,8:01,Brew've Been Served,92.12,3484,coffee,8.073147932,9
+1/9/2014,8:03,Coffee Cameleon,16.13,2142,coffee,1.413589624,2
+1/9/2014,8:07,Hallowed Grounds,65.68,3492,coffee,5.756017761,6
+1/9/2014,8:14,Brew've Been Served,17.64,1286,coffee,1.545921944,2
+1/9/2014,8:15,Brew've Been Served,5.57,5407,coffee,0.488139752,1
+1/9/2014,8:15,Hallowed Grounds,15.33,2681,coffee,1.343479785,2
+1/9/2014,9:26,Abila Airport,2358.22,3506,industrial,1.012246824,2
+1/9/2014,9:54,Carlyle Chemical Inc.,529.47,7792,industrial,0.227270707,1
+1/9/2014,10:16,Nationwide Refinery,674.28,9735,industrial,0.289429226,1
+1/9/2014,10:38,Stewart and Sons Fabrication,1015.65,3506,industrial,0.435959532,1
+1/9/2014,11:21,Carlyle Chemical Inc.,732.82,4530,industrial,0.314557046,1
+1/9/2014,11:34,Nationwide Refinery,289.3,7792,industrial,0.12417968,1
+1/9/2014,11:37,Stewart and Sons Fabrication,3544,9735,industrial,1.521233279,2
+1/9/2014,12:00,Coffee Shack,5.01,7117,coffee,0.439062865,1
+1/9/2014,12:00,Bean There Done That,13,1415,coffee,1.13928488,2
+1/9/2014,12:00,Brewed Awakenings,11.76,7688,coffee,1.03061463,2
+1/9/2014,12:00,Jack's Magical Beans,10.11,6899,coffee,0.886013087,1
+1/9/2014,12:00,Jack's Magical Beans,6,3853,coffee,0.525823791,1
+1/9/2014,12:00,Brewed Awakenings,13.16,2540,coffee,1.153306847,2
+1/9/2014,12:00,Bean There Done That,4.06,1877,coffee,0.355807432,1
+1/9/2014,12:00,Brewed Awakenings,17.66,8332,coffee,1.54767469,2
+1/9/2014,12:00,Bean There Done That,15.53,1321,coffee,1.361007245,2
+1/9/2014,12:00,Jack's Magical Beans,12.13,9241,coffee,1.06304043,2
+1/9/2014,12:00,Jack's Magical Beans,15.55,8156,coffee,1.362759991,2
+1/9/2014,12:00,Jack's Magical Beans,37.43,2463,coffee,3.28026408,4
+1/9/2014,12:13,Abila Airport,202.93,8642,industrial,0.087106058,1
+1/9/2014,12:49,Nationwide Refinery,1440.39,3506,industrial,0.618275734,1
+1/9/2014,12:59,Ouzeri Elian,31.03,8332,restaurant,1.130592415,2
+1/9/2014,13:03,Katerinas Cafe,17.02,7253,restaurant,0.620131579,1
+1/9/2014,13:12,Gelatogalore,19.2,5407,store,0.348889757,1
+1/9/2014,13:18,Abila Airport,4792.5,2276,industrial,2.057141786,3
+1/9/2014,13:21,Ouzeri Elian,26.09,7688,restaurant,0.950601228,1
+1/9/2014,13:21,Gelatogalore,23.45,4795,store,0.426117958,1
+1/9/2014,13:21,Guy's Gyros,105.4,7354,restaurant,3.840297793,4
+1/9/2014,13:23,Gelatogalore,8.6,6899,store,0.156273537,1
+1/9/2014,13:23,Gelatogalore,56.74,2540,store,1.031041917,2
+1/9/2014,13:23,Ouzeri Elian,22.4,6816,restaurant,0.81615437,1
+1/9/2014,13:23,Katerinas Cafe,16.98,7792,restaurant,0.618674161,1
+1/9/2014,13:24,Abila Zacharo,8.16,3484,store,0.148278147,1
+1/9/2014,13:27,Kalami Kafenion,110.76,6895,store,2.012657785,3
+1/9/2014,13:27,Katerinas Cafe,25.85,8156,restaurant,0.941856717,1
+1/9/2014,13:28,Guy's Gyros,13.59,7889,restaurant,0.495157941,1
+1/9/2014,13:29,Hippokampos,27.47,2418,store,0.499166751,1
+1/9/2014,13:32,Abila Zacharo,8.6,2463,store,0.156273537,1
+1/9/2014,13:35,Katerinas Cafe,10.42,3853,restaurant,0.379657524,1
+1/9/2014,13:35,Gelatogalore,23.23,8411,store,0.422120263,1
+1/9/2014,13:36,Hippokampos,27.93,9683,store,0.507525568,1
+1/9/2014,13:37,Hippokampos,9.12,1321,store,0.165722635,1
+1/9/2014,13:38,Kalami Kafenion,18.14,7384,store,0.329628135,1
+1/9/2014,13:40,Abila Zacharo,20.73,1874,store,0.376691909,1
+1/9/2014,13:40,Gelatogalore,11.94,9405,store,0.216965818,1
+1/9/2014,13:41,Abila Zacharo,89.41,9551,store,1.624699644,2
+1/9/2014,13:41,Hippokampos,8.43,9635,store,0.153184409,1
+1/9/2014,13:41,Hippokampos,39.22,5368,store,0.712680014,1
+1/9/2014,13:43,Guy's Gyros,74.91,1415,restaurant,2.729380529,3
+1/9/2014,13:44,Guy's Gyros,15,9617,restaurant,0.546531944,1
+1/9/2014,13:45,Gelatogalore,24.68,2681,store,0.448468708,1
+1/9/2014,13:47,Abila Zacharo,48.39,1286,store,0.879311216,1
+1/9/2014,13:51,Hippokampos,13.84,1310,store,0.251491366,1
+1/9/2014,13:53,Hippokampos,16.65,2142,store,0.302552836,1
+1/9/2014,13:56,Kalami Kafenion,19.84,4948,store,0.360519415,1
+1/9/2014,13:56,Hippokampos,65.7,4434,store,1.193857137,2
+1/9/2014,13:56,Guy's Gyros,8.87,6901,restaurant,0.323182556,1
+1/9/2014,14:03,Kalami Kafenion,35.99,6691,store,0.653986581,1
+1/9/2014,14:04,Kalami Kafenion,10.94,8129,store,0.198794476,1
+1/9/2014,14:04,Ouzeri Elian,32.89,7108,restaurant,1.198362376,2
+1/9/2014,14:06,Katerinas Cafe,8.01,1877,restaurant,0.291848058,1
+1/9/2014,14:09,Guy's Gyros,27.69,8202,restaurant,1.008897969,2
+1/9/2014,14:12,Abila Scrapyard,1158.36,2276,industrial,0.497216643,1
+1/9/2014,14:13,Guy's Gyros,17.44,5921,restaurant,0.635434474,1
+1/9/2014,14:15,Abila Zacharo,14.37,7819,store,0.261122177,1
+1/9/2014,14:18,Gelatogalore,36.75,7117,store,0.6677968,1
+1/9/2014,14:26,Carlyle Chemical Inc.,382.43,7792,industrial,0.164154978,1
+1/9/2014,14:28,Kronos Pipe and Irrigation,423.14,4530,industrial,0.181629416,1
+1/9/2014,15:00,Stewart and Sons Fabrication,918.6,2276,industrial,0.394301606,1
+1/9/2014,15:16,Maximum Iron and Steel,1527.14,4530,industrial,0.655512469,1
+1/9/2014,15:50,Abila Airport,4538.52,8642,industrial,1.948122929,2
+1/9/2014,16:22,Carlyle Chemical Inc.,2176.2,7792,industrial,0.934116214,1
+1/9/2014,16:27,Nationwide Refinery,1322.5,2276,industrial,0.567672407,1
+1/9/2014,19:25,Katerinas Cafe,35.92,8129,restaurant,1.308761829,2
+1/9/2014,19:30,Katerinas Cafe,26.6,5921,restaurant,0.969183314,1
+1/9/2014,19:32,Frydos Autosupply n' More,138.02,3484,supply,0.916332251,1
+1/9/2014,19:41,Guy's Gyros,31.81,7354,restaurant,1.159012076,2
+1/9/2014,19:42,Ouzeri Elian,27.08,6899,restaurant,0.986672336,1
+1/9/2014,19:43,Ouzeri Elian,31.07,9241,restaurant,1.132049833,2
+1/9/2014,19:52,Guy's Gyros,29.96,6816,restaurant,1.09160647,2
+1/9/2014,20:05,Hippokampos,15.02,2540,store,0.272933549,1
+1/9/2014,20:06,Katerinas Cafe,26.6,4948,restaurant,0.969183314,1
+1/9/2014,20:08,Katerinas Cafe,19.02,3492,restaurant,0.693002505,1
+1/9/2014,20:09,Katerinas Cafe,90.97,6691,restaurant,3.314534063,4
+1/9/2014,20:15,Hippokampos,70.68,1877,store,1.284350418,2
+1/9/2014,20:19,General Grocer,285.34,4795,store,5.185010586,6
+1/9/2014,20:20,Katerinas Cafe,91.14,9405,restaurant,3.320728092,4
+1/9/2014,20:20,Frydos Autosupply n' More,31.24,6901,supply,0.207406315,1
+1/9/2014,20:21,Albert's Fine Clothing,224.52,7117,store,4.079829595,5
+1/9/2014,20:21,Frydos Autosupply n' More,120.65,1321,supply,0.801010623,1
+1/9/2014,20:22,Katerinas Cafe,29.82,8202,restaurant,1.086505505,2
+1/9/2014,20:23,Guy's Gyros,8.23,7889,restaurant,0.29986386,1
+1/9/2014,20:24,Guy's Gyros,18.26,1286,restaurant,0.665311553,1
+1/9/2014,20:27,Katerinas Cafe,53.78,5407,restaurant,1.959499197,2
+1/9/2014,20:29,Guy's Gyros,23.34,7253,restaurant,0.850403705,1
+1/9/2014,20:38,Katerinas Cafe,30.69,2418,restaurant,1.118204358,2
+1/9/2014,20:38,Guy's Gyros,8.23,5368,restaurant,0.29986386,1
+1/9/2014,20:39,Guy's Gyros,35.05,7384,restaurant,1.277062976,2
+1/9/2014,20:41,Hippokampos,9.13,2463,store,0.165904348,1
+1/9/2014,20:45,Frydos Autosupply n' More,276.75,3853,supply,1.837378283,2
+1/9/2014,21:01,Hippokampos,24.96,6895,store,0.453556684,1
+1/9/2014,21:09,Guy's Gyros,31.31,4434,restaurant,1.140794345,2
+1/9/2014,21:12,Hippokampos,23.66,8156,store,0.42993394,1
+1/9/2014,21:13,Shoppers' Delight,258.43,2681,store,4.696019786,5
+1/9/2014,21:18,Katerinas Cafe,8.57,1310,restaurant,0.312251917,1
+1/9/2014,21:27,Albert's Fine Clothing,229.98,8332,store,4.17904512,5
+1/9/2014,21:38,Hippokampos,10.12,9635,store,0.183893976,1
+1/10/2014,7:34,Hallowed Grounds,16.75,8129,coffee,1.467924749,2
+1/10/2014,7:35,Brew've Been Served,15.85,6816,coffee,1.38905118,2
+1/10/2014,7:40,Coffee Cameleon,8.51,7253,coffee,0.74579341,1
+1/10/2014,7:41,Hallowed Grounds,12.03,1874,coffee,1.0542767,2
+1/10/2014,7:41,Hallowed Grounds,8.34,9617,coffee,0.730895069,1
+1/10/2014,7:41,Hallowed Grounds,11.49,1310,coffee,1.006952559,2
+1/10/2014,7:45,Brew've Been Served,5.01,3484,coffee,0.439062865,1
+1/10/2014,7:45,Hallowed Grounds,11.38,3492,coffee,0.997312456,1
+1/10/2014,7:46,Hallowed Grounds,17.63,2681,coffee,1.545045571,2
+1/10/2014,7:47,Brew've Been Served,44.88,4948,coffee,3.933161954,4
+1/10/2014,7:47,Coffee Cameleon,11.54,5921,coffee,1.011334424,2
+1/10/2014,7:48,Brew've Been Served,13.32,9405,coffee,1.167328815,2
+1/10/2014,7:49,Hallowed Grounds,10.34,7889,coffee,0.906169666,1
+1/10/2014,7:49,Brew've Been Served,89.93,9683,coffee,7.881222248,8
+1/10/2014,7:50,Hallowed Grounds,10.76,7108,coffee,0.942977331,1
+1/10/2014,7:51,Brew've Been Served,12.77,5407,coffee,1.119128301,2
+1/10/2014,7:54,Brew've Been Served,83.44,7384,coffee,7.312456181,8
+1/10/2014,7:54,Coffee Cameleon,9.69,2418,coffee,0.849205422,1
+1/10/2014,7:55,Brew've Been Served,85.91,5368,coffee,7.528920308,8
+1/10/2014,7:56,Brew've Been Served,97.25,4795,coffee,8.522727273,9
+1/10/2014,7:56,Brew've Been Served,90.72,7354,coffee,7.950455714,8
+1/10/2014,7:59,Abila Airport,4039.36,9614,industrial,1.733862545,2
+1/10/2014,8:01,Brew've Been Served,5.89,1286,coffee,0.516183688,1
+1/10/2014,8:01,Brew've Been Served,5.31,6901,coffee,0.465354055,1
+1/10/2014,8:06,Hallowed Grounds,9.34,6691,coffee,0.818532367,1
+1/10/2014,8:09,Brew've Been Served,14.45,3853,coffee,1.266358962,2
+1/10/2014,8:09,Brew've Been Served,3.03,7819,coffee,0.265541014,1
+1/10/2014,8:11,Coffee Cameleon,13.25,2142,coffee,1.161194204,2
+1/10/2014,8:17,Brew've Been Served,8.47,8202,coffee,0.742287918,1
+1/10/2014,8:17,Brew've Been Served,12.64,4434,coffee,1.107735452,2
+1/10/2014,8:20,Brew've Been Served,14.36,8411,coffee,1.258471606,2
+1/10/2014,9:09,Carlyle Chemical Inc.,227.81,9614,industrial,0.097785596,1
+1/10/2014,9:30,Kronos Mart,203.91,7688,store,3.705318247,4
+1/10/2014,10:00,Nationwide Refinery,1552.82,9735,industrial,0.666535401,1
+1/10/2014,10:40,Nationwide Refinery,2302.73,9614,industrial,0.988428191,1
+1/10/2014,11:49,Stewart and Sons Fabrication,4074.1,9735,industrial,1.748774408,2
+1/10/2014,12:00,Bean There Done That,15.39,1415,coffee,1.348738023,2
+1/10/2014,12:00,Bean There Done That,3.92,9635,coffee,0.34353821,1
+1/10/2014,12:00,Brewed Awakenings,13.82,7688,coffee,1.211147464,2
+1/10/2014,12:00,Jack's Magical Beans,15.69,6899,coffee,1.375029212,2
+1/10/2014,12:00,Brewed Awakenings,6.17,2540,coffee,0.540722131,1
+1/10/2014,12:00,Bean There Done That,13.41,1877,coffee,1.175216172,2
+1/10/2014,12:00,Brewed Awakenings,13.9,8332,coffee,1.218158448,2
+1/10/2014,12:00,Bean There Done That,18.67,1321,coffee,1.636188362,2
+1/10/2014,12:00,Bean There Done That,9.3,6895,coffee,0.815026875,1
+1/10/2014,12:00,Jack's Magical Beans,16.29,9241,coffee,1.427611591,2
+1/10/2014,12:00,Jack's Magical Beans,5.46,8156,coffee,0.478499649,1
+1/10/2014,12:00,Jack's Magical Beans,8.22,2463,coffee,0.720378593,1
+1/10/2014,12:10,Stewart and Sons Fabrication,4195.49,9614,industrial,1.800880082,2
+1/10/2014,13:08,Chostus Hotel,133.25,9683,hotel,0.76739783,1
+1/10/2014,13:11,Chostus Hotel,197.41,2540,hotel,1.136900605,2
+1/10/2014,13:12,Guy's Gyros,36.44,8156,restaurant,1.327708269,2
+1/10/2014,13:16,Ouzeri Elian,30.71,9551,restaurant,1.118933067,2
+1/10/2014,13:20,Hippokampos,79.26,4795,store,1.440260528,2
+1/10/2014,13:25,Guy's Gyros,26.76,6816,restaurant,0.975012988,1
+1/10/2014,13:27,Guy's Gyros,15.93,7253,restaurant,0.580416925,1
+1/10/2014,13:29,Abila Zacharo,113.33,6899,store,2.059358133,3
+1/10/2014,13:30,Katerinas Cafe,34.76,7688,restaurant,1.266496692,2
+1/10/2014,13:30,Kalami Kafenion,35.69,3484,store,0.648535178,1
+1/10/2014,13:35,Gelatogalore,26.15,1415,store,0.47518058,1
+1/10/2014,13:35,Ouzeri Elian,35.24,3853,restaurant,1.283985714,2
+1/10/2014,13:35,Kalami Kafenion,101.5,9241,store,1.844391163,2
+1/10/2014,13:36,Abila Zacharo,36.73,1310,store,0.667433374,1
+1/10/2014,13:36,Katerinas Cafe,25.36,7354,restaurant,0.92400334,1
+1/10/2014,13:38,Guy's Gyros,26.68,7384,restaurant,0.972098151,1
+1/10/2014,13:38,Katerinas Cafe,21.22,2418,restaurant,0.773160524,1
+1/10/2014,13:40,Hippokampos,32.01,2463,store,0.581664642,1
+1/10/2014,13:44,Guy's Gyros,38.15,8411,restaurant,1.390012911,2
+1/10/2014,13:44,Ouzeri Elian,20.46,9405,restaurant,0.745469572,1
+1/10/2014,13:45,Kalami Kafenion,27.48,5407,store,0.499348465,1
+1/10/2014,13:46,Abila Zacharo,31.34,2681,store,0.569489843,1
+1/10/2014,13:47,Guy's Gyros,31.5,9635,restaurant,1.147717082,2
+1/10/2014,13:47,Katerinas Cafe,25.62,6895,restaurant,0.93347656,1
+1/10/2014,13:47,Katerinas Cafe,24.33,2142,restaurant,0.886474813,1
+1/10/2014,13:50,Ouzeri Elian,15.25,1877,restaurant,0.55564081,1
+1/10/2014,13:52,Guy's Gyros,31.05,1321,restaurant,1.131321124,2
+1/10/2014,13:53,Kalami Kafenion,24.3,4434,store,0.441563599,1
+1/10/2014,13:57,Guy's Gyros,16.34,8129,restaurant,0.595355464,1
+1/10/2014,13:57,Ouzeri Elian,24.74,5368,restaurant,0.901413353,1
+1/10/2014,13:58,Hippokampos,39.89,6901,store,0.724854813,1
+1/10/2014,13:59,Abila Zacharo,8.22,1874,store,0.149368427,1
+1/10/2014,14:01,Abila Zacharo,16.12,3492,store,0.292922025,1
+1/10/2014,14:03,Abila Zacharo,36.38,7819,store,0.661073404,1
+1/10/2014,14:07,Hippokampos,11.61,7117,store,0.210969275,1
+1/10/2014,14:07,Ouzeri Elian,30.93,9617,restaurant,1.126948869,2
+1/10/2014,14:08,Katerinas Cafe,77.62,7108,restaurant,2.828120633,3
+1/10/2014,14:09,Abila Zacharo,9.32,6691,store,0.169356903,1
+1/10/2014,14:11,Gelatogalore,32.19,8202,store,0.584935483,1
+1/10/2014,14:20,Hippokampos,10.16,4948,store,0.18462083,1
+1/10/2014,14:41,Octavio's Office Supplies,139.72,4795,supply,0.927618767,1
+1/10/2014,16:07,Octavio's Office Supplies,64.51,7253,supply,0.428290056,1
+1/10/2014,18:52,Ouzeri Elian,19.92,6899,restaurant,0.725794422,1
+1/10/2014,18:57,Frydos Autosupply n' More,98.39,7889,supply,0.653223665,1
+1/10/2014,19:45,Guy's Gyros,23.61,6816,restaurant,0.86024128,1
+1/10/2014,19:46,Hippokampos,48.22,1415,store,0.876222087,1
+1/10/2014,19:50,Katerinas Cafe,19.57,8129,restaurant,0.71304201,1
+1/10/2014,19:54,Guy's Gyros,27.78,4795,restaurant,1.01217716,2
+1/10/2014,19:56,Hippokampos,19.88,7117,store,0.361246269,1
+1/10/2014,19:56,Katerinas Cafe,21.89,5921,restaurant,0.797572284,1
+1/10/2014,20:02,Frydos Autosupply n' More,43.65,8202,supply,0.289797875,1
+1/10/2014,20:08,Katerinas Cafe,15.76,9405,restaurant,0.574222896,1
+1/10/2014,20:09,Hippokampos,70.48,7688,store,1.280716149,2
+1/10/2014,20:09,Katerinas Cafe,8.14,8411,restaurant,0.296584668,1
+1/10/2014,20:09,Guy's Gyros,29.81,6901,restaurant,1.08614115,2
+1/10/2014,20:11,Albert's Fine Clothing,126.13,6895,store,2.291951304,3
+1/10/2014,20:15,Frydos Autosupply n' More,237.08,7384,supply,1.574004131,2
+1/10/2014,20:17,Shoppers' Delight,279.53,7819,store,5.079435091,6
+1/10/2014,20:20,Guy's Gyros,35.54,7108,restaurant,1.294916353,2
+1/10/2014,20:23,Guy's Gyros,37.37,3853,restaurant,1.36159325,2
+1/10/2014,20:42,Katerinas Cafe,21.28,5407,restaurant,0.775346651,1
+1/10/2014,20:50,Hippokampos,17.21,8332,store,0.312728787,1
+1/10/2014,21:11,Roberts and Sons,241.2,7354,store,4.382927571,5
+1/10/2014,21:13,Guy's Gyros,25.81,5368,restaurant,0.940399298,1
+1/10/2014,21:17,Hippokampos,27,8156,store,0.490626221,1
+1/10/2014,21:28,General Grocer,227.28,4434,store,4.129982498,5
+1/10/2014,22:21,Hippokampos,79.97,2463,store,1.45316218,2
+1/11/2014,13:19,Katerinas Cafe,45.22,8156,restaurant,1.647611634,2
+1/11/2014,13:23,Katerinas Cafe,45.21,2418,restaurant,1.647247279,2
+1/11/2014,13:32,Katerinas Cafe,29.1,6895,restaurant,1.060271971,2
+1/11/2014,13:32,Abila Zacharo,54.82,1310,store,0.996152941,1
+1/11/2014,13:33,Abila Zacharo,89.54,2540,store,1.627061919,2
+1/11/2014,13:35,Gelatogalore,17.31,9617,store,0.314545921,1
+1/11/2014,13:36,Hippokampos,103.38,4434,store,1.878553285,2
+1/11/2014,13:37,Hippokampos,75.62,9551,store,1.374116845,2
+1/11/2014,13:37,Hippokampos,82.23,6691,store,1.494229412,2
+1/11/2014,13:40,Ouzeri Elian,19.11,8129,restaurant,0.696281697,1
+1/11/2014,13:43,Katerinas Cafe,71.65,3484,restaurant,2.610600919,3
+1/11/2014,13:47,Hippokampos,31.1,7688,store,0.565128721,1
+1/11/2014,13:50,Katerinas Cafe,23.45,1321,restaurant,0.854411606,1
+1/11/2014,13:51,Abila Zacharo,32.02,7253,store,0.581846355,1
+1/11/2014,13:59,Gelatogalore,18.74,3853,store,0.34053094,1
+1/11/2014,14:09,Kalami Kafenion,35.66,7117,store,0.647990038,1
+1/11/2014,14:16,Kalami Kafenion,39.36,7108,store,0.715224002,1
+1/11/2014,14:17,Katerinas Cafe,26.02,2142,restaurant,0.948050746,1
+1/11/2014,14:19,Abila Zacharo,45.2,6901,store,0.821344636,1
+1/11/2014,15:15,Shoppers' Delight,157.45,9617,store,2.86107772,3
+1/11/2014,15:20,Shoppers' Delight,238.52,2418,store,4.334228376,5
+1/11/2014,15:31,General Grocer,78.02,8129,store,1.417728064,2
+1/11/2014,16:00,Roberts and Sons,256.24,1310,store,4.656224548,5
+1/11/2014,16:01,Albert's Fine Clothing,211.47,4434,store,3.842693588,4
+1/11/2014,16:09,Frydos Autosupply n' More,52.73,7688,supply,0.350081145,1
+1/11/2014,16:24,Ahaggo Museum,89.32,4795,museum,1.206157724,2
+1/11/2014,17:16,Ahaggo Museum,52.14,9683,museum,0.704087144,1
+1/11/2014,19:08,Katerinas Cafe,55.67,9617,restaurant,2.028362222,3
+1/11/2014,19:17,Kalami Kafenion,23.86,7819,store,0.433568208,1
+1/11/2014,19:21,Ouzeri Elian,69.36,6899,restaurant,2.527163709,3
+1/11/2014,19:26,Hippokampos,66.21,7688,store,1.203124521,2
+1/11/2014,19:27,Albert's Fine Clothing,105.33,8156,store,1.913987401,2
+1/11/2014,19:27,Hippokampos,32.63,9683,store,0.592930873,1
+1/11/2014,19:29,Hippokampos,63.21,4795,store,1.148610497,2
+1/11/2014,19:31,Katerinas Cafe,33.18,2142,restaurant,1.20892866,2
+1/11/2014,19:32,Katerinas Cafe,20.71,6691,restaurant,0.754578437,1
+1/11/2014,19:33,Hippokampos,11.13,1877,store,0.202247031,1
+1/11/2014,19:34,Guy's Gyros,55.36,6816,restaurant,2.017067228,3
+1/11/2014,19:40,Katerinas Cafe,57.36,2540,restaurant,2.089938154,3
+1/11/2014,19:44,Shoppers' Delight,149.2,9551,store,2.711164153,3
+1/11/2014,19:45,Hippokampos,63.21,8332,store,1.148610497,2
+1/11/2014,19:50,Katerinas Cafe,12.55,7889,restaurant,0.45726506,1
+1/11/2014,19:51,Katerinas Cafe,45.68,1310,restaurant,1.664371947,2
+1/11/2014,19:52,Katerinas Cafe,15.72,8411,restaurant,0.572765477,1
+1/11/2014,19:53,Hippokampos,67.37,9635,store,1.224203277,2
+1/11/2014,19:57,Guy's Gyros,36.2,5368,restaurant,1.318963758,2
+1/11/2014,20:00,Katerinas Cafe,25.76,4948,restaurant,0.938577525,1
+1/11/2014,20:04,Kalami Kafenion,50.2,1286,store,0.912201344,1
+1/11/2014,20:04,Ouzeri Elian,16.69,2681,restaurant,0.608107876,1
+1/11/2014,20:06,Katerinas Cafe,52.45,8202,restaurant,1.911040031,2
+1/11/2014,20:06,Guy's Gyros,33.65,7384,restaurant,1.226053328,2
+1/11/2014,20:09,Guy's Gyros,16.33,7354,restaurant,0.59499111,1
+1/11/2014,20:13,Frydos Autosupply n' More,211.15,5407,supply,1.401851579,2
+1/11/2014,20:13,Katerinas Cafe,9.78,9405,restaurant,0.356338828,1
+1/11/2014,20:22,Frydos Autosupply n' More,236.25,8129,supply,1.568493656,2
+1/11/2014,20:23,Hippokampos,70.23,1415,store,1.276173314,2
+1/11/2014,20:24,Katerinas Cafe,94.68,2418,restaurant,3.449709631,4
+1/11/2014,20:26,Frydos Autosupply n' More,261,6901,supply,1.732812039,2
+1/11/2014,20:27,Hippokampos,69.8,7117,store,1.268359637,2
+1/11/2014,20:30,Kalami Kafenion,46.78,7108,store,0.850055356,1
+1/11/2014,20:46,Katerinas Cafe,57.6,1874,restaurant,2.098682665,3
+1/12/2014,3:39,Kronos Mart,277.26,8156,store,5.038186146,6
+1/12/2014,13:03,Ouzeri Elian,38.55,8332,restaurant,1.404587096,2
+1/12/2014,13:17,Ouzeri Elian,98.45,5407,restaurant,3.587071326,4
+1/12/2014,13:25,Hippokampos,12.55,2142,store,0.228050336,1
+1/12/2014,13:28,Ouzeri Elian,24.72,7819,restaurant,0.900684644,1
+1/12/2014,13:30,Ouzeri Elian,72.32,1310,restaurant,2.63501268,3
+1/12/2014,13:31,Guy's Gyros,34.74,6901,restaurant,1.265767982,2
+1/12/2014,13:32,Ouzeri Elian,117.22,8156,restaurant,4.270964965,5
+1/12/2014,13:35,Hippokampos,29.2,7117,store,0.530603172,1
+1/12/2014,13:40,Gelatogalore,20.09,1286,store,0.365062251,1
+1/12/2014,13:45,Abila Zacharo,11.2,9683,store,0.203519025,1
+1/12/2014,13:45,Desafio Golf Course,129.33,2463,golf,0.838783948,1
+1/12/2014,13:52,Kalami Kafenion,54.36,2540,store,0.987794124,1
+1/12/2014,13:54,Hippokampos,8.54,7889,store,0.155183256,1
+1/12/2014,13:55,Kalami Kafenion,14.59,3492,store,0.265119873,1
+1/12/2014,14:04,Hippokampos,12.57,1874,store,0.228413763,1
+1/12/2014,14:06,Hippokampos,71.99,9551,store,1.308154875,2
+1/12/2014,14:13,Desafio Golf Course,220.77,7688,golf,1.431828131,2
+1/12/2014,14:14,Desafio Golf Course,198.46,8332,golf,1.287134171,2
+1/12/2014,14:16,Guy's Gyros,30.47,8129,restaurant,1.110188556,2
+1/12/2014,15:10,Shoppers' Delight,135.78,1310,store,2.46730475,3
+1/12/2014,15:24,Shoppers' Delight,86.22,1286,store,1.566733065,2
+1/12/2014,15:32,Shoppers' Delight,204.37,7819,store,3.713677064,4
+1/12/2014,15:46,General Grocer,159.3,7117,store,2.894694702,3
+1/12/2014,15:49,Albert's Fine Clothing,195.81,2142,store,3.55813038,4
+1/12/2014,16:08,Shoppers' Delight,51.5,3547,store,0.935824088,1
+1/12/2014,16:27,Ahaggo Museum,120.2,6901,museum,1.623154483,2
+1/12/2014,19:18,Katerinas Cafe,12.64,7889,restaurant,0.460544252,1
+1/12/2014,19:21,Katerinas Cafe,11.81,7253,restaurant,0.430302817,1
+1/12/2014,19:22,Hippokampos,27.15,1321,store,0.493351922,1
+1/12/2014,19:26,Guy's Gyros,42.32,7108,restaurant,1.541948791,2
+1/12/2014,19:26,Shoppers' Delight,211.03,7384,store,3.834698198,4
+1/12/2014,19:29,Hippokampos,66.63,1415,store,1.210756485,2
+1/12/2014,19:32,Guy's Gyros,34.41,3853,restaurant,1.25374428,2
+1/12/2014,19:35,Hippokampos,49.23,6895,store,0.894575142,1
+1/12/2014,19:36,Guy's Gyros,12.32,7354,restaurant,0.448884903,1
+1/12/2014,19:43,Katerinas Cafe,40.94,5407,restaurant,1.491667853,2
+1/12/2014,19:44,Hippokampos,26.79,8332,store,0.486810239,1
+1/12/2014,19:47,Katerinas Cafe,17.36,3492,restaurant,0.632519637,1
+1/12/2014,19:50,Gelatogalore,36.2,1286,store,0.657802563,1
+1/12/2014,19:51,Hippokampos,52.21,8156,store,0.94872574,1
+1/12/2014,19:52,Frydos Autosupply n' More,88.93,5368,supply,0.590417527,1
+1/12/2014,19:58,Albert's Fine Clothing,63.36,1877,store,1.151336198,2
+1/12/2014,19:59,Ouzeri Elian,55.55,6899,restaurant,2.023989966,3
+1/12/2014,20:04,Katerinas Cafe,39.3,8129,restaurant,1.431913693,2
+1/12/2014,20:05,Hippokampos,78.21,9635,store,1.421180619,2
+1/12/2014,20:11,Katerinas Cafe,67.14,3547,restaurant,2.446276982,3
+1/12/2014,20:12,Katerinas Cafe,15.37,9405,restaurant,0.560013065,1
+1/12/2014,20:13,Katerinas Cafe,39.55,2142,restaurant,1.441022559,2
+1/12/2014,20:15,Hippokampos,69.41,2540,store,1.261272814,2
+1/12/2014,20:17,Katerinas Cafe,16.34,8411,restaurant,0.595355464,1
+1/12/2014,20:35,Katerinas Cafe,40.25,4948,restaurant,1.466527383,2
+1/12/2014,20:38,Hippokampos,63.32,7688,store,1.150609344,2
+1/12/2014,20:43,Frydos Autosupply n' More,161.96,8202,supply,1.075272942,2
+1/12/2014,20:48,Katerinas Cafe,87.09,1874,restaurant,3.173164467,4
+1/13/2014,3:00,Kronos Mart,147.3,5407,store,2.676638604,3
+1/13/2014,6:04,Daily Dealz,2.01,9551,store,0.036524396,1
+1/13/2014,7:32,Hallowed Grounds,9.16,7889,coffee,0.802757654,1
+1/13/2014,7:36,Brew've Been Served,16.39,5368,coffee,1.436375321,2
+1/13/2014,7:38,Brew've Been Served,8.04,7384,coffee,0.704603879,1
+1/13/2014,7:40,Coffee Cameleon,19.93,3547,coffee,1.746611358,2
+1/13/2014,7:40,Brew've Been Served,8,9683,coffee,0.701098387,1
+1/13/2014,7:42,Hallowed Grounds,3.02,1310,coffee,0.264664641,1
+1/13/2014,7:43,Brew've Been Served,24.18,6816,coffee,2.119069876,3
+1/13/2014,7:43,Hallowed Grounds,13.68,3492,coffee,1.198878243,2
+1/13/2014,7:43,Brew've Been Served,18.71,4795,coffee,1.639693854,2
+1/13/2014,7:44,Hallowed Grounds,5.85,9405,coffee,0.512678196,1
+1/13/2014,7:53,Brew've Been Served,19.64,7354,coffee,1.721196541,2
+1/13/2014,7:54,Hallowed Grounds,19.18,7108,coffee,1.680883384,2
+1/13/2014,7:55,Coffee Cameleon,17.49,2418,coffee,1.53277635,2
+1/13/2014,7:55,Brew've Been Served,6.08,5407,coffee,0.532834774,1
+1/13/2014,7:56,Brew've Been Served,9.53,4948,coffee,0.835183454,1
+1/13/2014,7:57,Brew've Been Served,78.23,3484,coffee,6.855865857,7
+1/13/2014,7:57,Hallowed Grounds,6.32,6691,coffee,0.553867726,1
+1/13/2014,8:00,Brew've Been Served,13.37,8411,coffee,1.17171068,2
+1/13/2014,8:01,Kronos Mart,159.06,6816,store,2.89033358,3
+1/13/2014,8:02,Coffee Cameleon,4.88,7253,coffee,0.427670016,1
+1/13/2014,8:04,Brew've Been Served,16.05,4434,coffee,1.40657864,2
+1/13/2014,8:06,Hallowed Grounds,55.96,2681,coffee,4.90418322,5
+1/13/2014,8:07,Brew've Been Served,11.49,1286,coffee,1.006952559,2
+1/13/2014,8:12,Coffee Cameleon,17.76,2142,coffee,1.55643842,2
+1/13/2014,8:15,Abila Airport,3617.47,9220,industrial,1.552769681,2
+1/13/2014,8:21,Brew've Been Served,13.19,6901,coffee,1.155935966,2
+1/13/2014,8:22,Brew've Been Served,6.69,7819,coffee,0.586293527,1
+1/13/2014,8:23,Brew've Been Served,19.89,8202,coffee,1.743105866,2
+1/13/2014,8:58,Kronos Pipe and Irrigation,2892.74,9220,industrial,1.241685202,2
+1/13/2014,10:12,Nationwide Refinery,204.58,9735,industrial,0.087814307,1
+1/13/2014,10:20,Maximum Iron and Steel,689.85,9220,industrial,0.296112522,1
+1/13/2014,12:00,Coffee Shack,4.09,7117,coffee,0.358436551,1
+1/13/2014,12:00,Bean There Done That,7.93,1415,coffee,0.694963777,1
+1/13/2014,12:00,Bean There Done That,98.02,9635,coffee,8.590207993,9
+1/13/2014,12:00,Brewed Awakenings,12.69,7688,coffee,1.112117317,2
+1/13/2014,12:00,Jack's Magical Beans,18.31,6899,coffee,1.604638934,2
+1/13/2014,12:00,Brewed Awakenings,56.4,2540,coffee,4.942743632,5
+1/13/2014,12:00,Bean There Done That,19.56,1877,coffee,1.714185557,2
+1/13/2014,12:00,Brewed Awakenings,16.25,8332,coffee,1.4241061,2
+1/13/2014,12:00,Bean There Done That,5.54,1321,coffee,0.485510633,1
+1/13/2014,12:00,Bean There Done That,10.37,1874,coffee,0.908798785,1
+1/13/2014,12:00,Bean There Done That,15.24,9617,coffee,1.335592428,2
+1/13/2014,12:00,Bean There Done That,18.59,6895,coffee,1.629177378,2
+1/13/2014,12:00,Carlyle Chemical Inc.,1718.96,9220,industrial,0.737849649,1
+1/13/2014,12:00,Jack's Magical Beans,5.22,9241,coffee,0.457466698,1
+1/13/2014,12:00,Jack's Magical Beans,9.64,8156,coffee,0.844823557,1
+1/13/2014,12:00,Jack's Magical Beans,17.52,2463,coffee,1.535405469,2
+1/13/2014,12:11,Abila Airport,4417.03,8642,industrial,1.895974332,2
+1/13/2014,12:27,Hippokampos,17.17,4434,store,0.312001934,1
+1/13/2014,12:55,Ouzeri Elian,19.82,9220,restaurant,0.722150875,1
+1/13/2014,13:03,Gelatogalore,32.83,8156,store,0.596565142,1
+1/13/2014,13:18,U-Pump,55.25,9551,gas,0.933750211,1
+1/13/2014,13:19,Gelatogalore,46.45,8332,store,0.844058813,1
+1/13/2014,13:20,Abila Zacharo,79.95,6816,store,1.452798753,2
+1/13/2014,13:21,Abila Zacharo,64.5,1286,store,1.172051527,2
+1/13/2014,13:23,Katerinas Cafe,38.98,2418,restaurant,1.420254345,2
+1/13/2014,13:24,Hippokampos,35.73,7253,store,0.649262032,1
+1/13/2014,13:27,Abila Zacharo,8.72,9683,store,0.158454098,1
+1/13/2014,13:28,Hippokampos,30.51,9551,store,0.554407629,1
+1/13/2014,13:33,Guy's Gyros,27.49,2540,restaurant,1.001610876,2
+1/13/2014,13:34,Katerinas Cafe,26.15,6899,restaurant,0.952787356,1
+1/13/2014,13:34,Abila Zacharo,27.3,1321,store,0.496077623,1
+1/13/2014,13:34,Hippokampos,59.9,7354,store,1.088463356,2
+1/13/2014,13:36,Katerinas Cafe,17.21,9405,restaurant,0.627054317,1
+1/13/2014,13:37,Ouzeri Elian,95.03,4795,restaurant,3.462462043,4
+1/13/2014,13:39,Guy's Gyros,37.37,2142,restaurant,1.36159325,2
+1/13/2014,13:40,Katerinas Cafe,8.29,1874,restaurant,0.302049988,1
+1/13/2014,13:40,Guy's Gyros,29.25,2463,restaurant,1.065737291,2
+1/13/2014,13:41,Gelatogalore,36.93,1415,store,0.671067642,1
+1/13/2014,13:42,Abila Zacharo,11.99,9635,store,0.217874385,1
+1/13/2014,13:48,Abila Zacharo,116.32,3853,store,2.113690444,3
+1/13/2014,13:48,Ouzeri Elian,8.32,1310,restaurant,0.303143052,1
+1/13/2014,13:48,Katerinas Cafe,24.26,3492,restaurant,0.883924331,1
+1/13/2014,13:50,Hippokampos,91.97,7384,store,1.671218278,2
+1/13/2014,13:51,Abila Zacharo,17.41,7819,store,0.316363056,1
+1/13/2014,13:51,Guy's Gyros,21.03,8411,restaurant,0.766237786,1
+1/13/2014,13:52,Katerinas Cafe,29.55,3547,restaurant,1.07666793,2
+1/13/2014,13:55,Kalami Kafenion,20.33,5368,store,0.369423373,1
+1/13/2014,14:00,Guy's Gyros,38.07,7117,restaurant,1.387098074,2
+1/13/2014,14:00,Gelatogalore,36.24,8202,store,0.658529416,1
+1/13/2014,14:01,Gelatogalore,117.17,2681,store,2.129136084,3
+1/13/2014,14:04,Hippokampos,25.09,9617,store,0.455918958,1
+1/13/2014,14:06,Ouzeri Elian,29.75,1877,restaurant,1.083955022,2
+1/13/2014,14:13,Guy's Gyros,12.76,6901,restaurant,0.464916507,1
+1/13/2014,14:21,Hippokampos,26.96,4948,store,0.489899367,1
+1/13/2014,14:33,Guy's Gyros,116.87,8129,restaurant,4.258212553,5
+1/13/2014,16:56,Abila Airport,2228.08,8642,industrial,0.956385283,1
+1/13/2014,19:20,Frydos Autosupply n' More,10000,9551,supply,66.39126586,67
+1/13/2014,19:27,Shoppers' Delight,216.43,3853,store,3.932823442,4
+1/13/2014,19:30,Ouzeri Elian,28.75,9551,restaurant,1.047519559,2
+1/13/2014,19:41,Frydos Autosupply n' More,188.57,8129,supply,1.2519401,2
+1/13/2014,19:50,Katerinas Cafe,89.83,3547,restaurant,3.272997636,4
+1/13/2014,19:59,Frydos Autosupply n' More,64.6,8411,supply,0.428887577,1
+1/13/2014,19:59,Katerinas Cafe,30.84,6691,restaurant,1.123669677,2
+1/13/2014,20:09,Guy's Gyros,22.34,7354,restaurant,0.813968242,1
+1/13/2014,20:11,Guy's Gyros,20.47,4795,restaurant,0.745833926,1
+1/13/2014,20:15,Guy's Gyros,36.89,7384,restaurant,1.344104228,2
+1/13/2014,20:18,Guy's Gyros,15.84,7819,restaurant,0.577137733,1
+1/13/2014,20:24,Katerinas Cafe,35.7,2142,restaurant,1.300746027,2
+1/13/2014,20:33,Katerinas Cafe,91.36,1310,restaurant,3.328743894,4
+1/13/2014,20:35,Albert's Fine Clothing,288,7688,store,5.233346354,6
+1/13/2014,20:35,Hippokampos,29.22,2463,store,0.530966599,1
+1/13/2014,20:42,Hippokampos,31.59,1415,store,0.574032678,1
+1/13/2014,20:42,Albert's Fine Clothing,49.48,1321,store,0.899117978,1
+1/13/2014,20:42,Guy's Gyros,88.57,1286,restaurant,3.227088952,4
+1/13/2014,20:43,Ouzeri Elian,21.83,2681,restaurant,0.795386156,1
+1/13/2014,20:44,Katerinas Cafe,93.57,5407,restaurant,3.409266267,4
+1/13/2014,20:44,Guy's Gyros,15.55,9683,restaurant,0.566571449,1
+1/13/2014,20:45,Shoppers' Delight,144.4,6901,store,2.623941714,3
+1/13/2014,20:47,Katerinas Cafe,22.24,7253,restaurant,0.810324696,1
+1/13/2014,20:51,Katerinas Cafe,55.82,7889,restaurant,2.033827541,3
+1/13/2014,20:59,Guy's Gyros,37.5,7108,restaurant,1.36632986,2
+1/13/2014,21:00,Katerinas Cafe,27.59,1874,restaurant,1.005254422,2
+1/13/2014,21:08,Guy's Gyros,19.77,5368,restaurant,0.720329102,1
+1/13/2014,21:11,Frydos Autosupply n' More,202.05,2418,supply,1.341435527,2
+1/13/2014,21:12,Hippokampos,31.47,8332,store,0.571852117,1
+1/13/2014,21:13,Hippokampos,32.29,7117,store,0.586752617,1
+1/13/2014,21:16,Katerinas Cafe,33.11,9405,restaurant,1.206378178,2
+1/13/2014,21:27,Hippokampos,99.63,8156,store,1.810410754,2
+1/14/2014,7:27,Brew've Been Served,14.67,5368,coffee,1.285639168,2
+1/14/2014,7:31,Brew've Been Served,4.72,4795,coffee,0.413648049,1
+1/14/2014,7:35,Hallowed Grounds,10.75,7889,coffee,0.942100958,1
+1/14/2014,7:35,Brew've Been Served,7.31,7354,coffee,0.640628652,1
+1/14/2014,7:37,Coffee Cameleon,9.8,3547,coffee,0.858845525,1
+1/14/2014,7:40,Brew've Been Served,5.87,9683,coffee,0.514430942,1
+1/14/2014,7:42,Hallowed Grounds,4.59,1310,coffee,0.4022552,1
+1/14/2014,7:44,Hallowed Grounds,16.67,8129,coffee,1.460913765,2
+1/14/2014,7:45,Brew've Been Served,14.04,4948,coffee,1.23042767,2
+1/14/2014,7:45,Hallowed Grounds,13,7108,coffee,1.13928488,2
+1/14/2014,7:45,Brew've Been Served,10.96,3484,coffee,0.960504791,1
+1/14/2014,7:45,Brew've Been Served,16.53,9405,coffee,1.448644543,2
+1/14/2014,7:48,Brew've Been Served,6.45,3853,coffee,0.565260575,1
+1/14/2014,7:52,Coffee Cameleon,11.67,2418,coffee,1.022727273,2
+1/14/2014,7:53,Coffee Cameleon,15.63,7253,coffee,1.369770975,2
+1/14/2014,7:53,Brew've Been Served,9.53,8202,coffee,0.835183454,1
+1/14/2014,7:53,Brew've Been Served,8.24,7384,coffee,0.722131339,1
+1/14/2014,7:53,Brew've Been Served,3.66,6816,coffee,0.320752512,1
+1/14/2014,7:54,Hallowed Grounds,19.99,1874,coffee,1.751869596,2
+1/14/2014,7:54,Hallowed Grounds,50.21,9617,coffee,4.400268754,5
+1/14/2014,7:56,Coffee Cameleon,7.84,2142,coffee,0.68707642,1
+1/14/2014,7:58,Brew've Been Served,11.94,7819,coffee,1.046389343,2
+1/14/2014,8:03,Brew've Been Served,3.21,1286,coffee,0.281315728,1
+1/14/2014,8:07,Brew've Been Served,16.39,5407,coffee,1.436375321,2
+1/14/2014,8:12,Hallowed Grounds,39.52,3492,coffee,3.463426034,4
+1/14/2014,8:12,Hallowed Grounds,10.65,2681,coffee,0.933337228,1
+1/14/2014,8:13,Brew've Been Served,11.53,8411,coffee,1.010458051,2
+1/14/2014,8:13,Brew've Been Served,12.31,6901,coffee,1.078815144,2
+1/14/2014,8:16,Hallowed Grounds,6.16,6691,coffee,0.539845758,1
+1/14/2014,8:20,Kronos Mart,58.85,6899,store,1.069383448,2
+1/14/2014,9:34,Carlyle Chemical Inc.,3630.57,7792,industrial,1.55839275,2
+1/14/2014,10:03,Nationwide Refinery,965.72,9735,industrial,0.414527484,1
+1/14/2014,11:01,Stewart and Sons Fabrication,600.19,3506,industrial,0.257626694,1
+1/14/2014,11:45,Nationwide Refinery,570.95,7792,industrial,0.24507566,1
+1/14/2014,11:55,Stewart and Sons Fabrication,278.52,9735,industrial,0.119552453,1
+1/14/2014,12:00,Coffee Shack,3.63,7117,coffee,0.318123393,1
+1/14/2014,12:00,Bean There Done That,7.28,1415,coffee,0.637999533,1
+1/14/2014,12:00,Bean There Done That,19.37,9635,coffee,1.697534471,2
+1/14/2014,12:00,Brewed Awakenings,17.14,7688,coffee,1.502103295,2
+1/14/2014,12:00,Brewed Awakenings,8.3,2540,coffee,0.727389577,1
+1/14/2014,12:00,Bean There Done That,14.56,1877,coffee,1.275999065,2
+1/14/2014,12:00,Brewed Awakenings,11.35,8332,coffee,0.994683337,1
+1/14/2014,12:00,Bean There Done That,67.82,1321,coffee,5.94356158,6
+1/14/2014,12:00,Bean There Done That,5.9,6895,coffee,0.517060061,1
+1/14/2014,12:00,Jack's Magical Beans,63.36,9241,coffee,5.552699229,6
+1/14/2014,12:00,Jack's Magical Beans,95.7,8156,coffee,8.38688946,9
+1/14/2014,12:30,Abila Airport,228.41,8642,industrial,0.098043141,1
+1/14/2014,13:00,Nationwide Refinery,1341.01,3506,industrial,0.575617675,1
+1/14/2014,13:06,Abila Airport,3379.21,2276,industrial,1.450498507,2
+1/14/2014,13:14,Katerinas Cafe,29.12,8156,restaurant,1.061000681,2
+1/14/2014,13:17,Hippokampos,36.01,7253,store,0.654350008,1
+1/14/2014,13:17,Chostus Hotel,109.54,2540,hotel,0.630849969,1
+1/14/2014,13:21,Katerinas Cafe,34.45,7792,restaurant,1.255201698,2
+1/14/2014,13:21,Chostus Hotel,113.08,9683,hotel,0.651237123,1
+1/14/2014,13:22,Katerinas Cafe,10.03,6895,restaurant,0.365447693,1
+1/14/2014,13:24,Kalami Kafenion,17.38,9635,store,0.315817915,1
+1/14/2014,13:24,Kalami Kafenion,15.15,8332,store,0.275295824,1
+1/14/2014,13:25,Hippokampos,23.69,7688,store,0.43047908,1
+1/14/2014,13:32,Gelatogalore,27.26,7384,store,0.495350769,1
+1/14/2014,13:32,Gelatogalore,32.82,2142,store,0.596383428,1
+1/14/2014,13:32,Katerinas Cafe,20.95,7354,restaurant,0.763322949,1
+1/14/2014,13:33,Gelatogalore,39.17,2463,store,0.711771447,1
+1/14/2014,13:34,Katerinas Cafe,29.1,4795,restaurant,1.060271971,2
+1/14/2014,13:35,Abila Zacharo,31.09,8411,store,0.564947007,1
+1/14/2014,13:35,Abila Zacharo,15.26,9405,store,0.277294671,1
+1/14/2014,13:36,Guy's Gyros,13.27,1415,restaurant,0.483498593,1
+1/14/2014,13:37,Hippokampos,19.07,3853,store,0.346527483,1
+1/14/2014,13:37,Abila Zacharo,10.24,1310,store,0.186074537,1
+1/14/2014,13:38,Abila Zacharo,8.41,6816,store,0.152820982,1
+1/14/2014,13:40,Ouzeri Elian,107.32,3484,restaurant,3.910253882,4
+1/14/2014,13:40,Kalami Kafenion,33.13,5407,store,0.602016544,1
+1/14/2014,13:41,Ouzeri Elian,79.58,6899,restaurant,2.89953414,3
+1/14/2014,13:41,Katerinas Cafe,75.46,3547,restaurant,2.749420033,3
+1/14/2014,13:42,Hippokampos,98.81,7889,store,1.795510254,2
+1/14/2014,13:42,Kalami Kafenion,23.1,3492,store,0.419757989,1
+1/14/2014,13:43,Katerinas Cafe,31.69,6691,restaurant,1.15463982,2
+1/14/2014,13:44,Guy's Gyros,16.35,1874,restaurant,0.595719819,1
+1/14/2014,13:49,Gelatogalore,70.98,1877,store,1.28980182,2
+1/14/2014,13:49,Guy's Gyros,38.26,9617,restaurant,1.394020812,2
+1/14/2014,13:50,Kalami Kafenion,27.65,4948,store,0.502437593,1
+1/14/2014,13:51,Kalami Kafenion,15.27,1321,store,0.277476385,1
+1/14/2014,13:51,Ouzeri Elian,62.3,7108,restaurant,2.269929341,3
+1/14/2014,13:53,Ouzeri Elian,33.67,2681,restaurant,1.226782037,2
+1/14/2014,13:57,Gelatogalore,35.97,5368,store,0.653623154,1
+1/14/2014,13:57,Hippokampos,17.18,6901,store,0.312183647,1
+1/14/2014,13:58,Katerinas Cafe,33.54,7819,restaurant,1.222045427,2
+1/14/2014,13:59,Guy's Gyros,50.4,1286,restaurant,1.836347332,2
+1/14/2014,14:01,Ouzeri Elian,19.7,7117,restaurant,0.71777862,1
+1/14/2014,14:03,Gelatogalore,102.03,8129,store,1.854021974,2
+1/14/2014,14:03,Abila Zacharo,24.87,4434,store,0.451921263,1
+1/14/2014,14:13,Abila Scrapyard,4277.4,2276,industrial,1.836039286,2
+1/14/2014,14:16,Hippokampos,16.73,8202,store,0.304006543,1
+1/14/2014,14:21,Carlyle Chemical Inc.,854.88,7792,industrial,0.366950312,1
+1/14/2014,15:32,Abila Airport,4918.39,8642,industrial,2.111179048,3
+1/14/2014,15:49,Octavio's Office Supplies,131.73,6816,supply,0.874572145,1
+1/14/2014,16:16,Carlyle Chemical Inc.,3470.99,7792,industrial,1.489894328,2
+1/14/2014,16:28,Nationwide Refinery,4429.76,2276,industrial,1.901438581,2
+1/14/2014,19:44,Hippokampos,39.64,1415,store,0.720311977,1
+1/14/2014,19:59,Guy's Gyros,94.26,7108,restaurant,3.434406736,4
+1/14/2014,20:01,Guy's Gyros,23.59,4795,restaurant,0.859512571,1
+1/14/2014,20:05,Albert's Fine Clothing,50.77,3484,store,0.922559008,1
+1/14/2014,20:09,Katerinas Cafe,91.8,7889,restaurant,3.344775498,4
+1/14/2014,20:15,Katerinas Cafe,27.67,8129,restaurant,1.008169259,2
+1/14/2014,20:15,Guy's Gyros,18.11,6816,restaurant,0.659846234,1
+1/14/2014,20:17,Guy's Gyros,35.12,5368,restaurant,1.279613458,2
+1/14/2014,20:17,Katerinas Cafe,36.95,3547,restaurant,1.346290355,2
+1/14/2014,20:19,Guy's Gyros,12.96,7384,restaurant,0.4722036,1
+1/14/2014,20:19,Katerinas Cafe,31.94,5407,restaurant,1.163748686,2
+1/14/2014,20:22,Hippokampos,9.55,2463,store,0.173536311,1
+1/14/2014,20:25,Guy's Gyros,10.85,3853,restaurant,0.395324773,1
+1/14/2014,20:26,Katerinas Cafe,12.65,1874,restaurant,0.460908606,1
+1/14/2014,20:29,Guy's Gyros,25.28,7819,restaurant,0.921088503,1
+1/14/2014,20:32,Ouzeri Elian,11.86,6899,restaurant,0.43212459,1
+1/14/2014,20:33,Frydos Autosupply n' More,42.72,4434,supply,0.283623488,1
+1/14/2014,20:34,Katerinas Cafe,11.89,3492,restaurant,0.433217654,1
+1/14/2014,20:41,Ouzeri Elian,24.06,9241,restaurant,0.876637238,1
+1/14/2014,20:42,Katerinas Cafe,46.61,8202,restaurant,1.698256927,2
+1/14/2014,20:43,Frydos Autosupply n' More,146.74,6901,supply,0.974225435,1
+1/14/2014,20:46,Ouzeri Elian,80.95,2681,restaurant,2.949450725,3
+1/14/2014,20:48,Hippokampos,43.56,8332,store,0.791543636,1
+1/14/2014,20:50,Albert's Fine Clothing,228.72,9635,store,4.156149229,5
+1/14/2014,20:50,Katerinas Cafe,25.4,8411,restaurant,0.925460759,1
+1/14/2014,21:04,Hippokampos,28.45,6895,store,0.516974666,1
+1/14/2014,21:10,Katerinas Cafe,18.35,9617,restaurant,0.668590745,1
+1/14/2014,21:14,Roberts and Sons,223.81,9405,store,4.066927943,5
+1/14/2014,21:28,Frydos Autosupply n' More,49.21,4948,supply,0.326711419,1
+1/14/2014,21:31,Hippokampos,22.13,2540,store,0.402131788,1
+1/14/2014,21:31,Guy's Gyros,26.14,7354,restaurant,0.952423001,1
+1/15/2014,7:33,Hallowed Grounds,11.98,7889,coffee,1.049894835,2
+1/15/2014,7:34,Brew've Been Served,3.71,7384,coffee,0.325134377,1
+1/15/2014,7:36,Hallowed Grounds,5.28,9617,coffee,0.462724936,1
+1/15/2014,7:36,Brew've Been Served,15.5,6816,coffee,1.358378126,2
+1/15/2014,7:39,Hallowed Grounds,5.95,8129,coffee,0.521441926,1
+1/15/2014,7:40,Brew've Been Served,19.87,9683,coffee,1.74135312,2
+1/15/2014,7:44,Hallowed Grounds,12.17,7108,coffee,1.066545922,2
+1/15/2014,7:45,Coffee Cameleon,19.93,2142,coffee,1.746611358,2
+1/15/2014,7:45,Brew've Been Served,11.47,9405,coffee,1.005199813,2
+1/15/2014,7:48,Brew've Been Served,6.58,7819,coffee,0.576653424,1
+1/15/2014,7:49,Brew've Been Served,11.23,1286,coffee,0.984166861,1
+1/15/2014,7:50,Brew've Been Served,19.24,7354,coffee,1.686141622,2
+1/15/2014,7:51,Coffee Cameleon,14.47,3547,coffee,1.268111708,2
+1/15/2014,7:51,Hallowed Grounds,78.69,6691,coffee,6.896179014,7
+1/15/2014,7:56,Coffee Cameleon,5.49,7253,coffee,0.481128768,1
+1/15/2014,7:57,Brew've Been Served,4.92,4795,coffee,0.431175508,1
+1/15/2014,7:58,Brew've Been Served,3.14,4948,coffee,0.275181117,1
+1/15/2014,7:58,Brew've Been Served,5.75,8411,coffee,0.503914466,1
+1/15/2014,7:58,Brew've Been Served,14.06,3484,coffee,1.232180416,2
+1/15/2014,7:59,Hallowed Grounds,14.33,3492,coffee,1.255842487,2
+1/15/2014,8:00,Brew've Been Served,8.42,5368,coffee,0.737906053,1
+1/15/2014,8:00,Hallowed Grounds,15.27,1310,coffee,1.338221547,2
+1/15/2014,8:01,Brew've Been Served,49.7,4434,coffee,4.355573732,5
+1/15/2014,8:02,Brew've Been Served,15.58,3853,coffee,1.36538911,2
+1/15/2014,8:05,Coffee Cameleon,56.31,2418,coffee,4.934856275,5
+1/15/2014,8:05,Brew've Been Served,12.39,5407,coffee,1.085826128,2
+1/15/2014,8:06,Brew've Been Served,3.47,8202,coffee,0.304101426,1
+1/15/2014,8:13,Hallowed Grounds,14.39,2681,coffee,1.261100724,2
+1/15/2014,8:14,Brew've Been Served,18.58,6901,coffee,1.628301005,2
+1/15/2014,9:34,Carlyle Chemical Inc.,3608.08,7792,industrial,1.5487391,2
+1/15/2014,10:00,Nationwide Refinery,1903.77,9152,industrial,0.817177844,1
+1/15/2014,10:14,Nationwide Refinery,1391.24,9735,industrial,0.597178495,1
+1/15/2014,11:18,Stewart and Sons Fabrication,4545.38,9152,industrial,1.951067529,2
+1/15/2014,11:44,Stewart and Sons Fabrication,4740.68,9735,industrial,2.034898471,3
+1/15/2014,11:55,Nationwide Refinery,3004.98,7792,industrial,1.289863312,2
+1/15/2014,12:00,Bean There Done That,5.34,9635,coffee,0.467983174,1
+1/15/2014,12:00,Jack's Magical Beans,11.15,6899,coffee,0.977155878,1
+1/15/2014,12:00,Brewed Awakenings,91.62,2540,coffee,8.029329283,9
+1/15/2014,12:00,Bean There Done That,93.13,1877,coffee,8.161661603,9
+1/15/2014,12:00,Brewed Awakenings,3.62,8332,coffee,0.31724702,1
+1/15/2014,12:00,Bean There Done That,18.96,1321,coffee,1.661603178,2
+1/15/2014,12:00,Bean There Done That,15.24,6895,coffee,1.335592428,2
+1/15/2014,12:00,Jack's Magical Beans,5.3,9241,coffee,0.464477682,1
+1/15/2014,12:00,Jack's Magical Beans,84.06,8156,coffee,7.366791306,8
+1/15/2014,12:00,Jack's Magical Beans,19.54,2463,coffee,1.712432811,2
+1/15/2014,12:25,Abila Airport,3152.41,8642,industrial,1.353146445,2
+1/15/2014,13:08,Kalami Kafenion,22.39,8156,store,0.406856336,1
+1/15/2014,13:10,Ouzeri Elian,8.93,7253,restaurant,0.325368684,1
+1/15/2014,13:12,Hippokampos,36.7,8332,store,0.666888233,1
+1/15/2014,13:12,Hippokampos,118.89,9683,store,2.160390792,3
+1/15/2014,13:13,Katerinas Cafe,24.15,7792,restaurant,0.87991643,1
+1/15/2014,13:17,Katerinas Cafe,88.56,2418,restaurant,3.226724598,4
+1/15/2014,13:22,Guy's Gyros,14.37,1415,restaurant,0.523577602,1
+1/15/2014,13:22,Abila Zacharo,31,7889,store,0.563311587,1
+1/15/2014,13:22,Ouzeri Elian,12.9,3484,restaurant,0.470017472,1
+1/15/2014,13:24,Hippokampos,13,6899,store,0.23622744,1
+1/15/2014,13:26,Abila Zacharo,23.51,7688,store,0.427208239,1
+1/15/2014,13:27,Katerinas Cafe,55.6,1286,restaurant,2.025811739,3
+1/15/2014,13:31,Ouzeri Elian,36.47,1321,restaurant,1.328801333,2
+1/15/2014,13:35,Kalami Kafenion,26.17,1874,store,0.475544007,1
+1/15/2014,13:36,Kalami Kafenion,37.15,8411,store,0.675065337,1
+1/15/2014,13:37,Kalami Kafenion,38.5,5407,store,0.699596648,1
+1/15/2014,13:39,Hippokampos,8.75,9405,store,0.158999238,1
+1/15/2014,13:39,Gelatogalore,9.61,2463,store,0.174626592,1
+1/15/2014,13:40,Ouzeri Elian,25.7,5368,restaurant,0.936391397,1
+1/15/2014,13:41,Hippokampos,82.61,2540,store,1.501134522,2
+1/15/2014,13:41,Guy's Gyros,49.34,7354,restaurant,1.797725741,2
+1/15/2014,13:42,Hippokampos,32.4,1877,store,0.588751465,1
+1/15/2014,13:42,Ouzeri Elian,22.86,7108,restaurant,0.832914683,1
+1/15/2014,13:44,Guy's Gyros,15.89,2142,restaurant,0.578959506,1
+1/15/2014,13:45,Abila Zacharo,88.83,9635,store,1.614160266,2
+1/15/2014,13:45,Kalami Kafenion,47.86,6895,store,0.869680405,1
+1/15/2014,13:45,Guy's Gyros,12.19,6691,restaurant,0.444148293,1
+1/15/2014,13:46,Gelatogalore,24.96,7117,store,0.453556684,1
+1/15/2014,13:46,Guy's Gyros,16.58,8202,restaurant,0.604099975,1
+1/15/2014,13:47,Abila Zacharo,20.44,7384,store,0.37142222,1
+1/15/2014,13:51,Ouzeri Elian,26.61,8129,restaurant,0.969547669,1
+1/15/2014,13:55,Gelatogalore,31.21,3853,store,0.567127568,1
+1/15/2014,13:58,Gelatogalore,39.4,7819,store,0.715950855,1
+1/15/2014,13:58,Abila Zacharo,33.8,3547,store,0.614191343,1
+1/15/2014,13:59,Gelatogalore,42.36,2681,store,0.769738026,1
+1/15/2014,14:00,Guy's Gyros,25.58,9617,restaurant,0.932019142,1
+1/15/2014,14:00,Katerinas Cafe,12.12,1310,restaurant,0.441597811,1
+1/15/2014,14:02,Hippokampos,118.23,4434,store,2.148397706,3
+1/15/2014,14:02,Abila Zacharo,24.53,3492,store,0.445743007,1
+1/15/2014,14:04,Abila Zacharo,46.82,4948,store,0.850782209,1
+1/15/2014,14:12,Kronos Pipe and Irrigation,2564,4530,industrial,1.100576221,2
+1/15/2014,14:13,Kalami Kafenion,28.82,6901,store,0.523698062,1
+1/15/2014,14:25,Carlyle Chemical Inc.,1112.04,7792,industrial,0.477334158,1
+1/15/2014,15:11,Maximum Iron and Steel,4788.22,4530,industrial,2.055304631,3
+1/15/2014,15:40,Abila Airport,875.87,8642,industrial,0.375960099,1
+1/15/2014,17:01,Carlyle Chemical Inc.,1392.73,7792,industrial,0.597818066,1
+1/15/2014,19:18,Ouzeri Elian,28.86,9241,restaurant,1.05152746,2
+1/15/2014,19:50,Katerinas Cafe,39.23,3492,restaurant,1.429363211,2
+1/15/2014,19:52,Frydos Autosupply n' More,18.91,2540,supply,0.125545884,1
+1/15/2014,19:53,Guy's Gyros,98.04,3484,restaurant,3.572132786,4
+1/15/2014,19:55,Hippokampos,13.02,1415,store,0.236590866,1
+1/15/2014,19:55,Guy's Gyros,31.04,4434,restaurant,1.13095677,2
+1/15/2014,19:56,General Grocer,126.2,7819,store,2.293223298,3
+1/15/2014,19:59,Katerinas Cafe,25.08,8129,restaurant,0.91380141,1
+1/15/2014,20:00,Katerinas Cafe,29.84,2142,restaurant,1.087234214,2
+1/15/2014,20:02,Guy's Gyros,28.75,7354,restaurant,1.047519559,2
+1/15/2014,20:04,Frydos Autosupply n' More,235.27,9683,supply,1.561987312,2
+1/15/2014,20:05,Katerinas Cafe,11.45,9617,restaurant,0.417186051,1
+1/15/2014,20:06,Guy's Gyros,44.91,5368,restaurant,1.63631664,2
+1/15/2014,20:08,Guy's Gyros,36.35,6816,restaurant,1.324429078,2
+1/15/2014,20:10,Hippokampos,35.12,9635,store,0.638177514,1
+1/15/2014,20:10,Shoppers' Delight,162,8332,store,2.943757324,3
+1/15/2014,20:16,Hippokampos,11.8,7688,store,0.21442183,1
+1/15/2014,20:17,Katerinas Cafe,29.33,8411,restaurant,1.068652128,2
+1/15/2014,20:23,Hippokampos,10.35,1321,store,0.188073385,1
+1/15/2014,20:23,Katerinas Cafe,39.63,1310,restaurant,1.443937396,2
+1/15/2014,20:24,Hippokampos,16.37,1877,store,0.29746486,1
+1/15/2014,20:26,Katerinas Cafe,61.61,8202,restaurant,2.244788871,3
+1/15/2014,20:29,Ouzeri Elian,23.18,6899,restaurant,0.844574031,1
+1/15/2014,20:29,Katerinas Cafe,29.66,2418,restaurant,1.080675831,2
+1/15/2014,20:33,Frydos Autosupply n' More,18.66,1874,supply,0.123886102,1
+1/15/2014,20:46,Albert's Fine Clothing,228.15,7117,store,4.145791565,5
+1/15/2014,20:57,Frydos Autosupply n' More,276.88,4948,supply,1.838241369,2
+1/15/2014,20:59,Guy's Gyros,61.43,3853,restaurant,2.238230488,3
+1/15/2014,21:05,Katerinas Cafe,13.77,7253,restaurant,0.501716325,1
+1/15/2014,21:05,Guy's Gyros,27.01,1286,restaurant,0.984121854,1
+1/15/2014,21:05,Ouzeri Elian,8.57,2681,restaurant,0.312251917,1
+1/15/2014,21:08,Hippokampos,101.14,6895,store,1.83784948,2
+1/15/2014,21:21,Katerinas Cafe,27.48,3547,restaurant,1.001246521,2
+1/15/2014,21:42,Hippokampos,37.16,8156,store,0.67524705,1
+1/16/2014,7:30,Kronos Mart,298.83,7108,store,5.430141982,6
+1/16/2014,7:33,Brew've Been Served,25.05,5368,coffee,2.195314326,3
+1/16/2014,7:34,Brew've Been Served,8.18,7354,coffee,0.716873101,1
+1/16/2014,7:36,Brew've Been Served,19.9,3484,coffee,1.743982239,2
+1/16/2014,7:38,Coffee Cameleon,67.19,3547,coffee,5.888350082,6
+1/16/2014,7:44,Hallowed Grounds,13.84,7889,coffee,1.21290021,2
+1/16/2014,7:44,Hallowed Grounds,18.2,7108,coffee,1.594998832,2
+1/16/2014,7:44,Hallowed Grounds,17.74,3492,coffee,1.554685674,2
+1/16/2014,7:45,Hallowed Grounds,17.92,8129,coffee,1.570460388,2
+1/16/2014,7:50,Brew've Been Served,7.31,7384,coffee,0.640628652,1
+1/16/2014,7:51,Hallowed Grounds,44.98,9617,coffee,3.941925684,4
+1/16/2014,7:51,Hallowed Grounds,9.6,1310,coffee,0.841318065,1
+1/16/2014,7:52,Brew've Been Served,12.67,1286,coffee,1.110364571,2
+1/16/2014,7:53,Brew've Been Served,4.7,4795,coffee,0.411895303,1
+1/16/2014,7:54,Brew've Been Served,83.84,4948,coffee,7.347511101,8
+1/16/2014,7:54,Hallowed Grounds,7.22,1874,coffee,0.632741295,1
+1/16/2014,7:55,Brew've Been Served,12.83,6816,coffee,1.124386539,2
+1/16/2014,7:56,Brew've Been Served,4.33,9683,coffee,0.379469502,1
+1/16/2014,8:02,Brew've Been Served,5.82,3853,coffee,0.510049077,1
+1/16/2014,8:03,Coffee Cameleon,63.14,2418,coffee,5.533419023,6
+1/16/2014,8:03,Hallowed Grounds,72.61,9405,coffee,6.363344239,7
+1/16/2014,8:03,Brew've Been Served,16.67,6901,coffee,1.460913765,2
+1/16/2014,8:05,Hallowed Grounds,12.19,9551,coffee,1.068298668,2
+1/16/2014,8:07,Hallowed Grounds,18.23,6691,coffee,1.59762795,2
+1/16/2014,8:08,Brew've Been Served,90.33,8202,coffee,7.916277168,8
+1/16/2014,8:09,Brew've Been Served,17.44,4434,coffee,1.528394485,2
+1/16/2014,8:09,Hallowed Grounds,4.6,2681,coffee,0.403131573,1
+1/16/2014,8:19,Brew've Been Served,16.9,7819,coffee,1.481070344,2
+1/16/2014,8:23,Brew've Been Served,11.21,8411,coffee,0.982414115,1
+1/16/2014,9:18,Abila Airport,1676.53,3506,industrial,0.719636916,1
+1/16/2014,9:52,Carlyle Chemical Inc.,419.93,7792,industrial,0.180251549,1
+1/16/2014,10:16,Nationwide Refinery,1494.44,9735,industrial,0.641476259,1
+1/16/2014,11:06,Stewart and Sons Fabrication,940.3,3506,industrial,0.403616155,1
+1/16/2014,11:25,Nationwide Refinery,4742.67,7792,industrial,2.035752662,3
+1/16/2014,11:45,Stewart and Sons Fabrication,4543.31,9735,industrial,1.950178998,2
+1/16/2014,12:00,Coffee Shack,10.48,7117,coffee,0.918438888,1
+1/16/2014,12:00,Bean There Done That,19.82,1415,coffee,1.736971255,2
+1/16/2014,12:00,Bean There Done That,12.33,9635,coffee,1.08056789,2
+1/16/2014,12:00,Brewed Awakenings,17.91,7688,coffee,1.569584015,2
+1/16/2014,12:00,Jack's Magical Beans,9.12,6899,coffee,0.799252162,1
+1/16/2014,12:00,Brewed Awakenings,6.53,2540,coffee,0.572271559,1
+1/16/2014,12:00,Bean There Done That,5.56,1877,coffee,0.487263379,1
+1/16/2014,12:00,Brewed Awakenings,6.39,8332,coffee,0.560002337,1
+1/16/2014,12:00,Bean There Done That,98.34,1321,coffee,8.618251928,9
+1/16/2014,12:00,Bean There Done That,17.4,6895,coffee,1.524888993,2
+1/16/2014,12:00,Jack's Magical Beans,14.86,9241,coffee,1.302290255,2
+1/16/2014,12:00,Jack's Magical Beans,12.56,8156,coffee,1.100724468,2
+1/16/2014,12:00,Jack's Magical Beans,6.95,2463,coffee,0.609079224,1
+1/16/2014,12:32,Nationwide Refinery,2047.28,3506,industrial,0.878778349,1
+1/16/2014,12:40,Abila Airport,3917.3,8642,industrial,1.681469279,2
+1/16/2014,13:17,Katerinas Cafe,11.08,9683,restaurant,0.403704929,1
+1/16/2014,13:19,Katerinas Cafe,27.82,7688,restaurant,1.013634579,2
+1/16/2014,13:19,Hippokampos,17.66,8332,store,0.320905891,1
+1/16/2014,13:22,Abila Zacharo,64.71,1286,store,1.175867509,2
+1/16/2014,13:22,Abila Airport,3138.98,2276,industrial,1.347381726,2
+1/16/2014,13:22,Hippokampos,26.15,8156,store,0.47518058,1
+1/16/2014,13:23,Guy's Gyros,31.48,7889,restaurant,1.146988373,2
+1/16/2014,13:23,Katerinas Cafe,34.9,7792,restaurant,1.271597656,2
+1/16/2014,13:26,Hippokampos,36.17,6899,store,0.657257422,1
+1/16/2014,13:27,Katerinas Cafe,34.02,3484,restaurant,1.239534449,2
+1/16/2014,13:27,Katerinas Cafe,39.74,5407,restaurant,1.447945297,2
+1/16/2014,13:27,Abila Zacharo,31.31,3547,store,0.568944703,1
+1/16/2014,13:28,Guy's Gyros,10.27,9551,restaurant,0.374192204,1
+1/16/2014,13:30,Hippokampos,16.53,7253,store,0.300372275,1
+1/16/2014,13:30,Hippokampos,10.38,2540,store,0.188618525,1
+1/16/2014,13:33,Gelatogalore,12.33,2463,store,0.224052641,1
+1/16/2014,13:35,Hippokampos,13.05,6691,store,0.237136007,1
+1/16/2014,13:36,Hippokampos,31.14,1415,store,0.565855575,1
+1/16/2014,13:37,Gelatogalore,22.19,9405,store,0.403222068,1
+1/16/2014,13:39,Abila Zacharo,69.27,4795,store,1.258728826,2
+1/16/2014,13:42,Guy's Gyros,29.7,7819,restaurant,1.082133249,2
+1/16/2014,13:43,Hippokampos,14.89,1321,store,0.270571275,1
+1/16/2014,13:43,Katerinas Cafe,38.32,5368,restaurant,1.39620694,2
+1/16/2014,13:44,Guy's Gyros,13.48,6816,restaurant,0.49115004,1
+1/16/2014,13:44,Hippokampos,18.18,7354,store,0.330354989,1
+1/16/2014,13:45,Ouzeri Elian,12.47,3853,restaurant,0.454350223,1
+1/16/2014,13:45,Kalami Kafenion,9.27,8202,store,0.168448336,1
+1/16/2014,13:45,Ouzeri Elian,18.27,2142,restaurant,0.665675908,1
+1/16/2014,13:47,Abila Zacharo,36.02,7108,store,0.654531721,1
+1/16/2014,13:48,Kalami Kafenion,91.38,9635,store,1.660497187,2
+1/16/2014,13:48,Abila Zacharo,24.38,4948,store,0.443017306,1
+1/16/2014,13:48,Gelatogalore,32.4,1874,store,0.588751465,1
+1/16/2014,13:48,Hippokampos,29.93,9617,store,0.543868251,1
+1/16/2014,13:48,Kalami Kafenion,11.83,3492,store,0.21496697,1
+1/16/2014,13:49,Kalami Kafenion,8.86,7384,store,0.160998086,1
+1/16/2014,13:54,Hippokampos,8.07,1310,store,0.146642726,1
+1/16/2014,13:55,Hippokampos,30.02,8411,store,0.545503672,1
+1/16/2014,13:55,Abila Zacharo,8.43,6901,store,0.153184409,1
+1/16/2014,14:00,Ouzeri Elian,8.52,2418,restaurant,0.310430144,1
+1/16/2014,14:01,Ouzeri Elian,8.47,7117,restaurant,0.308608371,1
+1/16/2014,14:05,Guy's Gyros,32.8,1877,restaurant,1.195083184,2
+1/16/2014,15:58,Octavio's Office Supplies,131.01,5368,supply,0.869791974,1
+1/16/2014,16:56,Abila Scrapyard,1897.05,2276,industrial,0.814293339,1
+1/16/2014,17:07,Gelatogalore,10.62,4434,store,0.192979647,1
+1/16/2014,17:17,Carlyle Chemical Inc.,1814.24,7792,industrial,0.778747817,1
+1/16/2014,18:49,Katerinas Cafe,93.68,8411,restaurant,3.413274168,4
+1/16/2014,19:04,Guy's Gyros,25.57,7384,restaurant,0.931654787,1
+1/16/2014,19:09,Guy's Gyros,8.31,3484,restaurant,0.302778697,1
+1/16/2014,19:39,Katerinas Cafe,10.93,7889,restaurant,0.39823961,1
+1/16/2014,19:40,Guy's Gyros,37.8,4795,restaurant,1.377260499,2
+1/16/2014,19:45,Frydos Autosupply n' More,53.37,1874,supply,0.354330186,1
+1/16/2014,19:47,Katerinas Cafe,34.34,3547,restaurant,1.251193797,2
+1/16/2014,20:05,Katerinas Cafe,69.3,5407,restaurant,2.524977581,3
+1/16/2014,20:08,Albert's Fine Clothing,283.38,7117,store,5.149394756,6
+1/16/2014,20:09,Katerinas Cafe,18.79,8129,restaurant,0.684622349,1
+1/16/2014,20:09,Guy's Gyros,28.27,6901,restaurant,1.030030537,2
+1/16/2014,20:13,Hippokampos,29.13,1321,store,0.529331178,1
+1/16/2014,20:14,Guy's Gyros,111.31,9683,restaurant,4.055631379,5
+1/16/2014,20:17,Guy's Gyros,25.78,3853,restaurant,0.939306234,1
+1/16/2014,20:17,Guy's Gyros,30.76,6816,restaurant,1.12075484,2
+1/16/2014,20:23,Katerinas Cafe,13.91,9617,restaurant,0.506817289,1
+1/16/2014,20:25,Ouzeri Elian,23.89,6899,restaurant,0.87044321,1
+1/16/2014,20:25,Albert's Fine Clothing,91.71,7819,store,1.66649373,2
+1/16/2014,20:25,Katerinas Cafe,35.43,2418,restaurant,1.290908452,2
+1/16/2014,20:25,Roberts and Sons,155.76,4434,store,2.830368153,3
+1/16/2014,20:25,Ouzeri Elian,22.65,2681,restaurant,0.825263236,1
+1/16/2014,20:28,Ouzeri Elian,9.91,9551,restaurant,0.361075438,1
+1/16/2014,20:28,Katerinas Cafe,30.84,9405,restaurant,1.123669677,2
+1/16/2014,20:35,Guy's Gyros,11.31,7108,restaurant,0.412085086,1
+1/16/2014,20:36,Katerinas Cafe,19.44,2142,restaurant,0.708305399,1
+1/16/2014,20:39,Katerinas Cafe,30.56,8202,restaurant,1.113467747,2
+1/16/2014,20:42,Hippokampos,114,6895,store,2.071532932,3
+1/16/2014,20:43,Hippokampos,27.74,2463,store,0.504073013,1
+1/16/2014,20:45,Shoppers' Delight,160.69,1877,store,2.919952867,3
+1/16/2014,20:50,Shoppers' Delight,16.84,1286,store,0.306005391,1
+1/16/2014,20:51,Katerinas Cafe,34.58,3492,restaurant,1.259938308,2
+1/16/2014,20:52,Roberts and Sons,240.66,7354,store,4.373115047,5
+1/16/2014,20:54,Frydos Autosupply n' More,130.01,4948,supply,0.863152847,1
+1/16/2014,20:58,Hippokampos,12.47,8332,store,0.226596629,1
+1/16/2014,21:13,Hippokampos,20.84,7688,store,0.378690757,1
+1/16/2014,21:16,Ouzeri Elian,29.99,9241,restaurant,1.092699533,2
+1/17/2014,7:29,Brew've Been Served,52.56,7384,coffee,4.606216406,5
+1/17/2014,7:31,Hallowed Grounds,3.25,1310,coffee,0.28482122,1
+1/17/2014,7:33,Hallowed Grounds,14.58,7889,coffee,1.277751811,2
+1/17/2014,7:36,Brew've Been Served,11.69,5368,coffee,1.024480019,2
+1/17/2014,7:38,Coffee Cameleon,10.27,3547,coffee,0.900035055,1
+1/17/2014,7:39,Hallowed Grounds,15.98,9617,coffee,1.400444029,2
+1/17/2014,7:41,Hallowed Grounds,10.52,8129,coffee,0.92194438,1
+1/17/2014,7:50,Brew've Been Served,8.07,4948,coffee,0.707232998,1
+1/17/2014,7:51,Coffee Cameleon,6.81,7253,coffee,0.596810002,1
+1/17/2014,7:52,Hallowed Grounds,18.6,1874,coffee,1.630053751,2
+1/17/2014,7:52,Coffee Cameleon,9.16,6816,coffee,0.802757654,1
+1/17/2014,7:56,Hallowed Grounds,9.72,5010,coffee,0.851834541,1
+1/17/2014,7:57,Brew've Been Served,10.52,7354,coffee,0.92194438,1
+1/17/2014,7:59,Hallowed Grounds,5.52,6691,coffee,0.483757887,1
+1/17/2014,7:59,Brew've Been Served,19.39,4795,coffee,1.699287217,2
+1/17/2014,8:03,Brew've Been Served,13.66,3484,coffee,1.197125497,2
+1/17/2014,8:03,Hallowed Grounds,38.22,3492,coffee,3.349497546,4
+1/17/2014,8:04,Hallowed Grounds,9.4,9551,coffee,0.823790605,1
+1/17/2014,8:04,Brew've Been Served,16.62,9405,coffee,1.4565319,2
+1/17/2014,8:07,Coffee Cameleon,7.49,2418,coffee,0.656403365,1
+1/17/2014,8:08,Kronos Mart,286.24,1415,store,5.201364793,6
+1/17/2014,8:09,Brew've Been Served,9.3,8202,coffee,0.815026875,1
+1/17/2014,8:12,Brew've Been Served,18.15,5407,coffee,1.590616967,2
+1/17/2014,8:12,Hallowed Grounds,6.39,2681,coffee,0.560002337,1
+1/17/2014,8:13,Coffee Cameleon,14.99,4434,coffee,1.313683104,2
+1/17/2014,8:15,Brew've Been Served,3.09,3853,coffee,0.270799252,1
+1/17/2014,8:17,Brew've Been Served,5.29,6901,coffee,0.463601309,1
+1/17/2014,8:19,Brew've Been Served,14.58,8411,coffee,1.277751811,2
+1/17/2014,8:22,Brew've Been Served,15.46,7819,coffee,1.354872634,2
+1/17/2014,8:23,Brew've Been Served,51.04,1286,coffee,4.473007712,5
+1/17/2014,11:32,Stewart and Sons Fabrication,1753.17,9735,industrial,0.752534015,1
+1/17/2014,12:00,Coffee Shack,19.16,7117,coffee,1.679130638,2
+1/17/2014,12:00,Bean There Done That,19.67,1415,coffee,1.72382566,2
+1/17/2014,12:00,Bean There Done That,8.21,9635,coffee,0.71950222,1
+1/17/2014,12:00,Brewed Awakenings,8.16,7688,coffee,0.715120355,1
+1/17/2014,12:00,Jack's Magical Beans,7.57,6899,coffee,0.663414349,1
+1/17/2014,12:00,Brewed Awakenings,88.69,2540,coffee,7.772551998,8
+1/17/2014,12:00,Bean There Done That,19.56,1877,coffee,1.714185557,2
+1/17/2014,12:00,Brewed Awakenings,6,8332,coffee,0.525823791,1
+1/17/2014,12:00,Bean There Done That,18.72,1321,coffee,1.640570227,2
+1/17/2014,12:00,Bean There Done That,5.77,6895,coffee,0.505667212,1
+1/17/2014,12:00,Jack's Magical Beans,19.11,9241,coffee,1.674748773,2
+1/17/2014,13:11,Abila Zacharo,68.78,8332,store,1.249824869,2
+1/17/2014,13:16,Kalami Kafenion,140.78,7253,store,2.558161457,3
+1/17/2014,13:16,Hippokampos,38.21,2418,store,0.694326959,1
+1/17/2014,13:17,Gelatogalore,15.84,8156,store,0.287834049,1
+1/17/2014,13:18,Guy's Gyros,8.64,7688,restaurant,0.3148024,1
+1/17/2014,13:21,Guy's Gyros,22.18,3484,restaurant,0.808138568,1
+1/17/2014,13:27,Hippokampos,14.57,4795,store,0.264756446,1
+1/17/2014,13:28,Abila Zacharo,15.95,5010,store,0.289832897,1
+1/17/2014,13:31,Hippokampos,15.77,6816,store,0.286562056,1
+1/17/2014,13:33,Gelatogalore,23.23,9635,store,0.422120263,1
+1/17/2014,13:37,Kalami Kafenion,105.32,2463,store,1.913805688,2
+1/17/2014,13:38,Ouzeri Elian,14.01,1415,restaurant,0.510460836,1
+1/17/2014,13:38,Guy's Gyros,39.14,3853,restaurant,1.426084019,2
+1/17/2014,13:38,Hippokampos,52.31,1286,store,0.950542874,1
+1/17/2014,13:38,Kalami Kafenion,39.43,5407,store,0.716495996,1
+1/17/2014,13:39,Kalami Kafenion,27.7,9405,store,0.50334616,1
+1/17/2014,13:40,Gelatogalore,37.3,1310,store,0.677791038,1
+1/17/2014,13:41,Abila Zacharo,14.51,2142,store,0.263666165,1
+1/17/2014,13:42,Katerinas Cafe,21.01,3547,restaurant,0.765509076,1
+1/17/2014,13:45,Abila Zacharo,79.67,7354,store,1.447710778,2
+1/17/2014,13:47,Gelatogalore,18.1,2681,store,0.328901281,1
+1/17/2014,13:48,Katerinas Cafe,13.11,1321,restaurant,0.477668919,1
+1/17/2014,13:49,Chostus Hotel,114.22,9683,hotel,0.657802478,1
+1/17/2014,13:51,Kalami Kafenion,20.02,1874,store,0.363790257,1
+1/17/2014,13:51,Gelatogalore,34.59,7819,store,0.628546703,1
+1/17/2014,13:52,Hippokampos,108.35,9617,store,1.968864852,2
+1/17/2014,13:53,Kalami Kafenion,24.21,8411,store,0.439928178,1
+1/17/2014,13:53,Katerinas Cafe,35.52,4434,restaurant,1.294187643,2
+1/17/2014,13:54,Chostus Hotel,159.62,2540,hotel,0.919264853,1
+1/17/2014,13:55,Guy's Gyros,32.31,6901,restaurant,1.177229807,2
+1/17/2014,13:57,Gelatogalore,21.62,3492,store,0.392864403,1
+1/17/2014,13:58,Hippokampos,21.81,1877,store,0.396316958,1
+1/17/2014,13:58,Kalami Kafenion,27.73,7108,store,0.5038913,1
+1/17/2014,14:00,Guy's Gyros,15.12,8202,restaurant,0.5509042,1
+1/17/2014,14:05,Guy's Gyros,21.1,7117,restaurant,0.768788268,1
+1/17/2014,14:06,Abila Zacharo,51.95,5368,store,0.944001191,1
+1/17/2014,14:15,Katerinas Cafe,70.72,4948,restaurant,2.576715939,3
+1/17/2014,14:32,Ouzeri Elian,26.1,8129,restaurant,0.950965583,1
+1/17/2014,19:24,Katerinas Cafe,22.18,3492,restaurant,0.808138568,1
+1/17/2014,19:29,Guy's Gyros,19.68,6816,restaurant,0.717049911,1
+1/17/2014,19:40,Hippokampos,19.76,7117,store,0.359065708,1
+1/17/2014,19:40,Ouzeri Elian,38.6,6899,restaurant,1.406408869,2
+1/17/2014,19:44,Albert's Fine Clothing,1239.41,1321,store,22.52174238,23
+1/17/2014,19:46,Guy's Gyros,16.83,6901,restaurant,0.613208841,1
+1/17/2014,19:53,Guy's Gyros,35.1,4795,restaurant,1.278884749,2
+1/17/2014,19:57,Katerinas Cafe,34.93,8129,restaurant,1.27269072,2
+1/17/2014,19:57,Frydos Autosupply n' More,124.52,4948,supply,0.826704042,1
+1/17/2014,20:03,Hippokampos,8.92,2540,store,0.162088366,1
+1/17/2014,20:05,Shoppers' Delight,155.01,7384,store,2.816739647,3
+1/17/2014,20:07,Katerinas Cafe,21.22,1310,restaurant,0.773160524,1
+1/17/2014,20:07,Ouzeri Elian,70.21,9241,restaurant,2.558133853,3
+1/17/2014,20:16,Guy's Gyros,37.55,3484,restaurant,1.368151633,2
+1/17/2014,20:19,Katerinas Cafe,36.12,8202,restaurant,1.316048921,2
+1/17/2014,20:20,Katerinas Cafe,19.09,7253,restaurant,0.695552987,1
+1/17/2014,20:21,Guy's Gyros,8.31,7819,restaurant,0.302778697,1
+1/17/2014,20:21,Shoppers' Delight,289.33,1286,store,5.257514238,6
+1/17/2014,20:24,Guy's Gyros,8.54,3853,restaurant,0.311158853,1
+1/17/2014,20:24,Katerinas Cafe,72.13,7889,restaurant,2.628089942,3
+1/17/2014,20:28,Ouzeri Elian,35.81,9551,restaurant,1.304753928,2
+1/17/2014,20:35,Ouzeri Elian,26.4,2681,restaurant,0.961896222,1
+1/17/2014,20:41,General Grocer,98.03,7108,store,1.781336608,2
+1/17/2014,20:41,Frydos Autosupply n' More,260.08,7354,supply,1.726704042,2
+1/17/2014,20:54,Hippokampos,11.93,7688,store,0.216784104,1
+1/17/2014,20:58,Katerinas Cafe,38.21,2142,restaurant,1.392199039,2
+1/17/2014,20:59,Guy's Gyros,29.71,9683,restaurant,1.082497604,2
+1/17/2014,21:05,Katerinas Cafe,33.73,5407,restaurant,1.228968165,2
+1/17/2014,21:06,Katerinas Cafe,27.49,9405,restaurant,1.001610876,2
+1/17/2014,21:07,Guy's Gyros,55.4,4434,restaurant,2.018524647,3
+1/17/2014,21:15,Frydos Autosupply n' More,67.29,5368,supply,0.446746828,1
+1/17/2014,21:29,Hippokampos,38.19,2463,store,0.693963532,1
+1/17/2014,21:58,Hippokampos,12.86,9635,store,0.233683452,1
+1/18/2014,12:03,Chostus Hotel,600,5010,hotel,3.455449892,4
+1/18/2014,13:04,Abila Zacharo,111.93,8156,store,2.033918255,3
+1/18/2014,13:05,Abila Zacharo,25.59,2540,store,0.465004629,1
+1/18/2014,13:15,Katerinas Cafe,34.54,6691,restaurant,1.25848089,2
+1/18/2014,13:18,Ouzeri Elian,33.57,6895,restaurant,1.223138491,2
+1/18/2014,13:19,Kalami Kafenion,30.12,5368,store,0.547320806,1
+1/18/2014,13:21,Hippokampos,100.11,1877,store,1.819132998,2
+1/18/2014,13:25,Abila Zacharo,18.45,7253,store,0.335261251,1
+1/18/2014,13:27,Guy's Gyros,55.21,7384,restaurant,2.011601909,3
+1/18/2014,13:28,Guy's Gyros,27.4,1874,restaurant,0.998331684,1
+1/18/2014,13:28,Kalami Kafenion,38.91,2463,store,0.707046898,1
+1/18/2014,13:32,Abila Zacharo,16.59,9551,store,0.301462556,1
+1/18/2014,13:34,Katerinas Cafe,19.3,3484,restaurant,0.703204435,1
+1/18/2014,13:34,Ouzeri Elian,25.75,3547,restaurant,0.938213171,1
+1/18/2014,13:58,Kalami Kafenion,24.14,1321,store,0.438656184,1
+1/18/2014,13:58,Gelatogalore,84.38,2681,store,1.533297796,2
+1/18/2014,14:00,Katerinas Cafe,37.26,8411,restaurant,1.357585349,2
+1/18/2014,14:02,Kalami Kafenion,42.73,8202,store,0.776461423,1
+1/18/2014,14:03,Katerinas Cafe,96.36,7688,restaurant,3.510921209,4
+1/18/2014,14:05,Guy's Gyros,47.89,9617,restaurant,1.74489432,2
+1/18/2014,14:06,Katerinas Cafe,24.14,7819,restaurant,0.879552075,1
+1/18/2014,14:17,Kalami Kafenion,53.36,6901,store,0.969622783,1
+1/18/2014,14:51,Ahaggo Museum,55.55,1286,museum,0.750135038,1
+1/18/2014,14:55,Ahaggo Museum,120.2,7384,museum,1.623154483,2
+1/18/2014,15:20,Albert's Fine Clothing,35.66,6895,store,0.647990038,1
+1/18/2014,15:31,Frydos Autosupply n' More,103.41,5368,supply,0.68655208,1
+1/18/2014,15:31,General Grocer,477.6,3547,store,8.678632704,9
+1/18/2014,15:32,Frydos Autosupply n' More,361.54,1874,supply,2.400309826,3
+1/18/2014,15:40,Shoppers' Delight,258.33,8156,store,4.694202651,5
+1/18/2014,15:41,Roberts and Sons,62.47,7253,store,1.135163704,2
+1/18/2014,15:51,Frydos Autosupply n' More,103.55,1877,supply,0.687481558,1
+1/18/2014,15:53,Frydos Autosupply n' More,120.67,2463,supply,0.801143405,1
+1/18/2014,15:57,Albert's Fine Clothing,189.52,6691,store,3.443832642,4
+1/18/2014,18:39,Frank's Fuel,52.66,9635,gas,0.889978029,1
+1/18/2014,18:51,Frydos Autosupply n' More,234.53,5407,supply,1.557074358,2
+1/18/2014,18:59,Albert's Fine Clothing,226.49,8156,store,4.115627138,5
+1/18/2014,19:08,Guy's Gyros,39.68,3484,restaurant,1.445759169,2
+1/18/2014,19:17,Katerinas Cafe,21.63,8129,restaurant,0.788099063,1
+1/18/2014,19:20,Roberts and Sons,266.69,9617,store,4.846115066,5
+1/18/2014,19:21,Ouzeri Elian,57.63,6899,restaurant,2.099775729,3
+1/18/2014,19:21,Hippokampos,21.34,1321,store,0.387776428,1
+1/18/2014,19:21,Guy's Gyros,28.07,5368,restaurant,1.022743445,2
+1/18/2014,19:26,Ouzeri Elian,61.56,9551,restaurant,2.242967098,3
+1/18/2014,19:30,Katerinas Cafe,8.14,7889,restaurant,0.296584668,1
+1/18/2014,19:31,Katerinas Cafe,22.74,1874,restaurant,0.828542427,1
+1/18/2014,19:32,Katerinas Cafe,33.41,4434,restaurant,1.217308817,2
+1/18/2014,19:35,Hippokampos,27.21,6895,store,0.494442202,1
+1/18/2014,19:36,Katerinas Cafe,35.79,6691,restaurant,1.304025218,2
+1/18/2014,19:36,Abila Zacharo,21.29,4795,store,0.386867861,1
+1/18/2014,19:36,Hippokampos,53.21,2463,store,0.966897082,1
+1/18/2014,19:39,Kalami Kafenion,71.14,9635,store,1.292709235,2
+1/18/2014,19:39,Guy's Gyros,78.36,6816,restaurant,2.855082876,3
+1/18/2014,19:42,Hippokampos,63.21,8332,store,1.148610497,2
+1/18/2014,19:46,Roberts and Sons,125.35,7688,store,2.277777658,3
+1/18/2014,19:46,Katerinas Cafe,11.19,8202,restaurant,0.40771283,1
+1/18/2014,19:46,Ouzeri Elian,14.9,2681,restaurant,0.542888398,1
+1/18/2014,19:47,Katerinas Cafe,16.48,4948,restaurant,0.600456429,1
+1/18/2014,19:53,Katerinas Cafe,76.1,3547,restaurant,2.772738729,3
+1/18/2014,19:54,Katerinas Cafe,33.63,1310,restaurant,1.225324619,2
+1/18/2014,19:56,Katerinas Cafe,32.68,2418,restaurant,1.190710929,2
+1/18/2014,20:01,Hippokampos,49.21,1286,store,0.894211716,1
+1/18/2014,20:01,Katerinas Cafe,17.37,9405,restaurant,0.632883991,1
+1/18/2014,20:04,Katerinas Cafe,45.88,8411,restaurant,1.67165904,2
+1/18/2014,20:07,General Grocer,108.49,6901,store,1.97140884,2
+1/18/2014,20:09,Katerinas Cafe,19.31,7354,restaurant,0.703568789,1
+1/18/2014,20:11,Hippokampos,72.5,1415,store,1.317422259,2
+1/18/2014,20:13,Katerinas Cafe,9.72,3853,restaurant,0.3541527,1
+1/18/2014,20:15,Katerinas Cafe,37.21,7819,restaurant,1.355763576,2
+1/18/2014,20:23,Hippokampos,29.21,1877,store,0.530784885,1
+1/18/2014,20:26,Hippokampos,55.03,7117,store,0.999968923,1
+1/19/2014,3:13,Kronos Mart,87.66,3484,store,1.592899796,2
+1/19/2014,3:45,Kronos Mart,194.51,9551,store,3.534507636,4
+1/19/2014,3:48,Kronos Mart,150.36,8332,store,2.732242909,3
+1/19/2014,12:41,Desafio Golf Course,150.07,8156,golf,0.973295501,1
+1/19/2014,12:57,Desafio Golf Course,145.72,7688,golf,0.945083097,1
+1/19/2014,13:00,Katerinas Cafe,35.01,7354,restaurant,1.275605557,2
+1/19/2014,13:09,Gelatogalore,22.36,6895,store,0.406311196,1
+1/19/2014,13:23,Katerinas Cafe,70.22,4795,restaurant,2.558498207,3
+1/19/2014,13:26,Ahaggo Museum,26.91,9241,museum,0.363386748,1
+1/19/2014,13:27,Ouzeri Elian,23.65,3484,restaurant,0.861698698,1
+1/19/2014,13:33,Hippokampos,64.37,2142,store,1.169689253,2
+1/19/2014,13:51,Desafio Golf Course,190.91,8332,golf,1.238167815,2
+1/19/2014,13:53,Katerinas Cafe,26.76,4434,restaurant,0.975012988,1
+1/19/2014,14:01,Katerinas Cafe,12.78,1310,restaurant,0.465645216,1
+1/19/2014,14:08,Ouzeri Elian,45.32,7384,restaurant,1.65125518,2
+1/19/2014,14:20,Katerinas Cafe,54.2,3492,restaurant,1.974802091,2
+1/19/2014,14:20,Abila Zacharo,47.8,6901,store,0.868590124,1
+1/19/2014,15:03,General Grocer,70.22,6895,store,1.275991601,2
+1/19/2014,15:15,Desafio Golf Course,110.02,2463,golf,0.713546818,1
+1/19/2014,15:26,Frydos Autosupply n' More,56.09,3484,supply,0.37238861,1
+1/19/2014,15:39,Albert's Fine Clothing,274.66,2142,store,4.990940658,5
+1/19/2014,15:46,Desafio Golf Course,148.22,5010,golf,0.961297122,1
+1/19/2014,15:53,Frydos Autosupply n' More,209.76,4795,supply,1.392623193,2
+1/19/2014,18:54,Katerinas Cafe,72.25,3547,restaurant,2.632462197,3
+1/19/2014,19:43,Hippokampos,101.25,9635,store,1.839848328,2
+1/19/2014,19:43,Hippokampos,48.23,8332,store,0.876403801,1
+1/19/2014,19:44,Hippokampos,88.27,1321,store,1.603984315,2
+1/19/2014,19:44,Hippokampos,46.32,6895,store,0.841696539,1
+1/19/2014,19:45,Guy's Gyros,65.21,7384,restaurant,2.375956538,3
+1/19/2014,19:45,Guy's Gyros,23.21,1286,restaurant,0.845667095,1
+1/19/2014,19:45,Guy's Gyros,58.35,3484,restaurant,2.126009262,3
+1/19/2014,19:45,Frydos Autosupply n' More,98.04,9405,supply,0.65089997,1
+1/19/2014,19:45,Guy's Gyros,25.79,5010,restaurant,0.939670589,1
+1/19/2014,19:48,Ouzeri Elian,67.98,6899,restaurant,2.47688277,3
+1/19/2014,19:49,Ouzeri Elian,32.77,9551,restaurant,1.19399012,2
+1/19/2014,19:49,Guy's Gyros,100.36,6816,restaurant,3.65666306,4
+1/19/2014,19:53,Katerinas Cafe,34.03,7889,restaurant,1.239898804,2
+1/19/2014,19:56,Shoppers' Delight,30.39,2142,store,0.552227068,1
+1/19/2014,19:56,Hippokampos,63.17,2463,store,1.147883643,2
+1/19/2014,20:00,Guy's Gyros,18.08,7354,restaurant,0.65875317,1
+1/19/2014,20:02,Albert's Fine Clothing,254.29,2540,store,4.620790432,5
+1/19/2014,20:05,Katerinas Cafe,33.79,1874,restaurant,1.231154293,2
+1/19/2014,20:14,Guy's Gyros,36.87,7108,restaurant,1.343375518,2
+1/19/2014,20:16,Hippokampos,78.96,1415,store,1.434809125,2
+1/19/2014,20:16,Guy's Gyros,37.48,9683,restaurant,1.365601151,2
+1/19/2014,20:22,Katerinas Cafe,38.9,9617,restaurant,1.417339508,2
+1/19/2014,20:25,Guy's Gyros,20.94,3853,restaurant,0.762958594,1
+1/19/2014,20:30,Guy's Gyros,31.94,4434,restaurant,1.163748686,2
+1/19/2014,20:51,Guy's Gyros,39.6,6901,restaurant,1.442844332,2

@@ -1,0 +1,884 @@
+Car_ID,Location,Employee_Name,Date,Time,AM_PM
+14,Bean There Done That,Lidelse Dedos,01/13/14,07:23,AM
+14,Hallowed Grounds,Lidelse Dedos,01/14/14,07:46,AM
+14,Hallowed Grounds,Lidelse Dedos,01/17/14,07:31,AM
+14,Hallowed Grounds,Lidelse Dedos,01/06/14,07:29,AM
+14,Hallowed Grounds,Lidelse Dedos,01/07/14,07:04,AM
+14,Hallowed Grounds,Lidelse Dedos,01/08/14,07:15,AM
+14,Hallowed Grounds,Lidelse Dedos,01/09/14,07:20,AM
+14,Hallowed Grounds,Lidelse Dedos,01/10/14,07:11,AM
+14,Hallowed Grounds,Lidelse Dedos,01/16/14,07:16,AM
+14,Brew've Been Served,Lidelse Dedos,01/18/14,12:40,PM
+14,General Grocer,Lidelse Dedos,01/07/14,12:18,PM
+14,Brew've Been Served,Lidelse Dedos,01/08/14,12:28,PM
+14,Roberts and Sons,Lidelse Dedos,01/09/14,12:08,PM
+14,Roberts and Sons,Lidelse Dedos,01/10/14,12:27,PM
+14,Albert's Fine Clothing,Lidelse Dedos,01/12/14,12:38,PM
+14,Brew've Been Served,Lidelse Dedos,01/14/14,12:08,PM
+14,General Grocer,Lidelse Dedos,01/16/14,12:23,PM
+14,Shoppers' Delight,Lidelse Dedos,01/10/14,06:59,PM
+13,Brew've Been Served,Inga Ferro,01/06/14,07:20,PM
+13,Frydos Autosupply n' More,Inga Ferro,01/14/14,08:37,PM
+13,Frydos Autosupply n' More,Inga Ferro,01/12/14,03:44,PM
+13,General Grocer,Inga Ferro,01/15/14,07:12,PM
+13,General Grocer,Inga Ferro,01/06/14,12:15,PM
+13,Frydos Autosupply n' More,Inga Ferro,01/06/14,05:44,PM
+13,Brew've Been Served,Inga Ferro,01/06/14,07:21,PM
+13,Roberts and Sons,Inga Ferro,01/07/14,12:27,PM
+13,Frydos Autosupply n' More,Inga Ferro,01/07/14,05:33,PM
+13,Brew've Been Served,Inga Ferro,01/07/14,06:37,PM
+13,General Grocer,Inga Ferro,01/08/14,12:10,PM
+13,Frydos Autosupply n' More,Inga Ferro,01/08/14,05:31,PM
+13,Brew've Been Served,Inga Ferro,01/08/14,07:07,PM
+13,Roberts and Sons,Inga Ferro,01/09/14,12:27,PM
+13,Roberts and Sons,Inga Ferro,01/10/14,12:25,PM
+13,Frydos Autosupply n' More,Inga Ferro,01/10/14,05:32,PM
+13,Roberts and Sons,Inga Ferro,01/13/14,12:42,PM
+13,Frydos Autosupply n' More,Inga Ferro,01/13/14,05:52,PM
+13,Brew've Been Served,Inga Ferro,01/13/14,07:14,PM
+13,Frydos Autosupply n' More,Inga Ferro,01/14/14,05:31,PM
+13,Brew've Been Served,Inga Ferro,01/14/14,07:16,PM
+13,General Grocer,Inga Ferro,01/15/14,12:19,PM
+13,Frydos Autosupply n' More,Inga Ferro,01/15/14,05:43,PM
+13,Brew've Been Served,Inga Ferro,01/16/14,12:27,PM
+13,Frydos Autosupply n' More,Inga Ferro,01/16/14,05:32,PM
+13,Albert's Fine Clothing,Inga Ferro,01/16/14,06:45,PM
+13,General Grocer,Inga Ferro,01/17/14,12:10,PM
+13,Frydos Autosupply n' More,Inga Ferro,01/17/14,05:33,PM
+13,Brew've Been Served,Inga Ferro,01/17/14,06:38,PM
+13,Frydos Autosupply n' More,Inga Ferro,01/18/14,02:09,PM
+12,General Grocer,Hideki Cocinaro,01/08/14,07:31,PM
+12,Hallowed Grounds,Hideki Cocinaro,01/10/14,07:35,AM
+12,Hallowed Grounds,Hideki Cocinaro,01/13/14,07:45,AM
+12,Hallowed Grounds,Hideki Cocinaro,01/14/14,07:21,AM
+12,Hallowed Grounds,Hideki Cocinaro,01/16/14,07:32,AM
+12,Hallowed Grounds,Hideki Cocinaro,01/06/14,07:11,AM
+12,Hallowed Grounds,Hideki Cocinaro,01/07/14,07:14,AM
+12,Hallowed Grounds,Hideki Cocinaro,01/08/14,07:16,AM
+12,Hallowed Grounds,Hideki Cocinaro,01/09/14,07:10,AM
+12,Brew've Been Served,Hideki Cocinaro,01/12/14,06:31,PM
+12,Brew've Been Served,Hideki Cocinaro,01/14/14,07:29,PM
+12,Hallowed Grounds,Hideki Cocinaro,01/15/14,07:17,AM
+12,Kronos Mart,Hideki Cocinaro,01/15/14,06:57,PM
+12,Roberts and Sons,Hideki Cocinaro,01/06/14,12:36,PM
+12,Brew've Been Served,Hideki Cocinaro,01/06/14,06:55,PM
+12,General Grocer,Hideki Cocinaro,01/08/14,07:33,PM
+12,Brew've Been Served,Hideki Cocinaro,01/10/14,07:00,PM
+12,Brew've Been Served,Hideki Cocinaro,01/13/14,12:14,PM
+12,Roberts and Sons,Hideki Cocinaro,01/16/14,12:25,PM
+12,Brew've Been Served,Hideki Cocinaro,01/16/14,07:31,PM
+12,General Grocer,Hideki Cocinaro,01/17/14,07:03,PM
+12,Brew've Been Served,Hideki Cocinaro,01/19/14,06:25,PM
+12,Brew've Been Served,Hideki Cocinaro,01/13/14,06:52,PM
+15,Frydos Autosupply n' More,Loreto Bodrogi,01/12/14,07:34,PM
+15,Frydos Autosupply n' More,Loreto Bodrogi,01/15/14,09:01,PM
+15,Frydos Autosupply n' More,Loreto Bodrogi,01/18/14,03:24,PM
+15,Frydos Autosupply n' More,Loreto Bodrogi,01/07/14,08:25,PM
+15,Frydos Autosupply n' More,Loreto Bodrogi,01/09/14,08:49,PM
+15,Frydos Autosupply n' More,Loreto Bodrogi,01/10/14,08:32,PM
+15,Frydos Autosupply n' More,Loreto Bodrogi,01/07/14,05:30,PM
+15,Brew've Been Served,Loreto Bodrogi,01/08/14,12:46,PM
+15,Jack's Magical Beans,Loreto Bodrogi,01/09/14,07:26,AM
+15,Brew've Been Served,Loreto Bodrogi,01/16/14,07:20,PM
+15,Albert's Fine Clothing,Loreto Bodrogi,01/07/14,12:24,PM
+15,Brew've Been Served,Loreto Bodrogi,01/07/14,06:31,PM
+15,Frydos Autosupply n' More,Loreto Bodrogi,01/08/14,05:41,PM
+15,Frydos Autosupply n' More,Loreto Bodrogi,01/09/14,05:37,PM
+15,Frydos Autosupply n' More,Loreto Bodrogi,01/10/14,05:29,PM
+15,Brew've Been Served,Loreto Bodrogi,01/10/14,07:03,PM
+15,General Grocer,Loreto Bodrogi,01/11/14,12:48,PM
+15,Brew've Been Served,Loreto Bodrogi,01/12/14,06:30,PM
+15,Roberts and Sons,Loreto Bodrogi,01/13/14,12:21,PM
+15,Frydos Autosupply n' More,Loreto Bodrogi,01/13/14,05:15,PM
+15,Albert's Fine Clothing,Loreto Bodrogi,01/14/14,12:14,PM
+15,Frydos Autosupply n' More,Loreto Bodrogi,01/14/14,05:41,PM
+15,Brew've Been Served,Loreto Bodrogi,01/14/14,07:24,PM
+15,General Grocer,Loreto Bodrogi,01/15/14,12:17,PM
+15,Frydos Autosupply n' More,Loreto Bodrogi,01/15/14,05:17,PM
+15,Brew've Been Served,Loreto Bodrogi,01/15/14,07:09,PM
+15,Frydos Autosupply n' More,Loreto Bodrogi,01/16/14,05:40,PM
+15,Brew've Been Served,Loreto Bodrogi,01/17/14,12:36,PM
+15,Frydos Autosupply n' More,Loreto Bodrogi,01/17/14,05:26,PM
+15,Brew've Been Served,Loreto Bodrogi,01/17/14,06:57,PM
+15,Brew've Been Served,Loreto Bodrogi,01/19/14,06:29,PM
+15,Frydos Autosupply n' More,Loreto Bodrogi,01/18/14,03:26,PM
+17,Brew've Been Served,Sven Flecha,01/09/14,07:27,PM
+17,Brew've Been Served,Sven Flecha,01/18/14,12:16,PM
+17,Brew've Been Served,Sven Flecha,01/08/14,07:23,PM
+17,Brew've Been Served,Sven Flecha,01/16/14,06:19,PM
+17,Brew've Been Served,Sven Flecha,01/06/14,12:26,PM
+17,Brew've Been Served,Sven Flecha,01/06/14,06:22,PM
+17,Brew've Been Served,Sven Flecha,01/07/14,06:52,PM
+17,Brew've Been Served,Sven Flecha,01/08/14,12:17,PM
+17,Brew've Been Served,Sven Flecha,01/09/14,07:31,PM
+17,Brew've Been Served,Sven Flecha,01/10/14,12:17,PM
+17,Brew've Been Served,Sven Flecha,01/11/14,06:54,PM
+17,Albert's Fine Clothing,Sven Flecha,01/13/14,12:26,PM
+17,Brew've Been Served,Sven Flecha,01/13/14,06:49,PM
+17,General Grocer,Sven Flecha,01/14/14,12:29,PM
+17,Brew've Been Served,Sven Flecha,01/14/14,06:44,PM
+17,Roberts and Sons,Sven Flecha,01/15/14,12:22,PM
+17,Brew've Been Served,Sven Flecha,01/15/14,06:59,PM
+17,Brew've Been Served,Sven Flecha,01/18/14,12:20,PM
+17,Brew've Been Served,Sven Flecha,01/19/14,06:26,PM
+17,Ahaggo Museum,Sven Flecha,01/18/14,01:35,PM
+10,Albert's Fine Clothing,Ada Campo-Corrente,01/06/14,07:50,PM
+10,Albert's Fine Clothing,Ada Campo-Corrente,01/07/14,07:53,PM
+10,Albert's Fine Clothing,Ada Campo-Corrente,01/12/14,06:00,PM
+10,Desafio Golf Course,Ada Campo-Corrente,01/12/14,01:13,PM
+10,Albert's Fine Clothing,Ada Campo-Corrente,01/10/14,12:26,PM
+10,Roberts and Sons,Ada Campo-Corrente,01/17/14,12:20,PM
+10,Albert's Fine Clothing,Ada Campo-Corrente,01/17/14,07:44,PM
+10,General Grocer,Ada Campo-Corrente,01/07/14,12:16,PM
+10,Albert's Fine Clothing,Ada Campo-Corrente,01/08/14,12:06,PM
+10,Albert's Fine Clothing,Ada Campo-Corrente,01/08/14,07:45,PM
+10,Albert's Fine Clothing,Ada Campo-Corrente,01/09/14,07:45,PM
+10,Albert's Fine Clothing,Ada Campo-Corrente,01/10/14,07:50,PM
+10,Albert's Fine Clothing,Ada Campo-Corrente,01/11/14,06:21,PM
+10,Albert's Fine Clothing,Ada Campo-Corrente,01/12/14,06:05,PM
+10,General Grocer,Ada Campo-Corrente,01/13/14,12:11,PM
+10,Albert's Fine Clothing,Ada Campo-Corrente,01/13/14,07:32,PM
+10,Albert's Fine Clothing,Ada Campo-Corrente,01/14/14,07:33,PM
+10,Albert's Fine Clothing,Ada Campo-Corrente,01/15/14,12:06,PM
+10,Albert's Fine Clothing,Ada Campo-Corrente,01/16/14,12:13,PM
+10,Albert's Fine Clothing,Ada Campo-Corrente,01/16/14,07:33,PM
+10,Albert's Fine Clothing,Ada Campo-Corrente,01/18/14,06:21,PM
+10,Albert's Fine Clothing,Ada Campo-Corrente,01/19/14,06:21,PM
+10,Albert's Fine Clothing,Ada Campo-Corrente,01/06/14,07:54,PM
+10,Albert's Fine Clothing,Ada Campo-Corrente,01/07/14,07:55,PM
+10,Desafio Golf Course,Ada Campo-Corrente,01/12/14,01:26,PM
+10,Kronos Mart,Ada Campo-Corrente,01/18/14,01:29,PM
+10,Desafio Golf Course,Ada Campo-Corrente,01/19/14,12:39,PM
+18,Hallowed Grounds,Birgitta Frente,01/17/14,07:16,AM
+18,Hallowed Grounds,Birgitta Frente,01/06/14,07:14,AM
+18,Hallowed Grounds,Birgitta Frente,01/07/14,07:50,AM
+18,Hallowed Grounds,Birgitta Frente,01/08/14,07:23,AM
+18,Hallowed Grounds,Birgitta Frente,01/09/14,07:32,AM
+18,Hallowed Grounds,Birgitta Frente,01/10/14,07:32,AM
+18,Bean There Done That,Birgitta Frente,01/13/14,07:22,AM
+18,Hallowed Grounds,Birgitta Frente,01/14/14,07:44,AM
+18,Hallowed Grounds,Birgitta Frente,01/15/14,07:01,AM
+18,Hallowed Grounds,Birgitta Frente,01/17/14,07:18,AM
+18,General Grocer,Birgitta Frente,01/11/14,12:54,PM
+18,Hallowed Grounds,Birgitta Frente,01/16/14,07:27,AM
+18,General Grocer,Birgitta Frente,01/17/14,07:43,PM
+18,Roberts and Sons,Birgitta Frente,01/18/14,06:46,PM
+18,Roberts and Sons,Birgitta Frente,01/08/14,12:32,PM
+18,Brew've Been Served,Birgitta Frente,01/09/14,12:23,PM
+18,Albert's Fine Clothing,Birgitta Frente,01/13/14,12:21,PM
+18,Brew've Been Served,Birgitta Frente,01/14/14,12:10,PM
+18,Brew've Been Served,Birgitta Frente,01/15/14,12:27,PM
+18,Albert's Fine Clothing,Birgitta Frente,01/16/14,12:41,PM
+18,Albert's Fine Clothing,Birgitta Frente,01/17/14,12:22,PM
+18,Brew've Been Served,Birgitta Frente,01/18/14,01:02,PM
+18,Brew've Been Served,Birgitta Frente,01/07/14,12:11,PM
+18,Shoppers' Delight,Birgitta Frente,01/10/14,07:12,PM
+19,Bean There Done That,Vira Frente,01/06/14,06:55,AM
+19,Shoppers' Delight,Vira Frente,01/10/14,08:15,PM
+19,Albert's Fine Clothing,Vira Frente,01/12/14,06:20,PM
+19,Albert's Fine Clothing,Vira Frente,01/14/14,07:33,PM
+19,Bean There Done That,Vira Frente,01/10/14,07:40,AM
+19,Bean There Done That,Vira Frente,01/16/14,07:22,AM
+19,Bean There Done That,Vira Frente,01/17/14,07:42,AM
+19,General Grocer,Vira Frente,01/19/14,12:49,PM
+19,Bean There Done That,Vira Frente,01/06/14,06:57,AM
+19,Bean There Done That,Vira Frente,01/07/14,07:03,AM
+19,Albert's Fine Clothing,Vira Frente,01/07/14,07:10,PM
+19,Bean There Done That,Vira Frente,01/08/14,07:13,AM
+19,Albert's Fine Clothing,Vira Frente,01/08/14,07:24,PM
+19,Bean There Done That,Vira Frente,01/09/14,07:06,AM
+19,Shoppers' Delight,Vira Frente,01/10/14,07:08,PM
+19,Albert's Fine Clothing,Vira Frente,01/10/14,07:41,PM
+19,Bean There Done That,Vira Frente,01/13/14,07:15,AM
+19,Bean There Done That,Vira Frente,01/14/14,07:14,AM
+19,Bean There Done That,Vira Frente,01/15/14,07:10,AM
+19,Albert's Fine Clothing,Vira Frente,01/06/14,07:24,PM
+19,Albert's Fine Clothing,Vira Frente,01/09/14,07:24,PM
+19,Albert's Fine Clothing,Vira Frente,01/12/14,06:24,PM
+19,Roberts and Sons,Vira Frente,01/13/14,12:04,PM
+19,Albert's Fine Clothing,Vira Frente,01/14/14,07:35,PM
+19,Albert's Fine Clothing,Vira Frente,01/15/14,07:53,PM
+19,Albert's Fine Clothing,Vira Frente,01/16/14,07:20,PM
+19,Roberts and Sons,Vira Frente,01/17/14,12:01,PM
+19,Albert's Fine Clothing,Vira Frente,01/18/14,06:24,PM
+19,Albert's Fine Clothing,Vira Frente,01/19/14,06:36,PM
+19,Albert's Fine Clothing,Vira Frente,01/18/14,01:27,PM
+19,General Grocer,Vira Frente,01/19/14,01:11,PM
+19,Shoppers' Delight,Vira Frente,01/10/14,08:18,PM
+11,Shoppers' Delight,Axel Calzas,01/07/14,08:36,PM
+11,Shoppers' Delight,Axel Calzas,01/12/14,07:24,PM
+11,Bean There Done That,Axel Calzas,01/07/14,07:39,AM
+11,Bean There Done That,Axel Calzas,01/08/14,07:38,AM
+11,Bean There Done That,Axel Calzas,01/13/14,07:45,AM
+11,Bean There Done That,Axel Calzas,01/14/14,07:21,AM
+11,Bean There Done That,Axel Calzas,01/15/14,07:54,AM
+11,Bean There Done That,Axel Calzas,01/16/14,07:43,AM
+11,Bean There Done That,Axel Calzas,01/17/14,07:43,AM
+11,Bean There Done That,Axel Calzas,01/06/14,07:05,AM
+11,Albert's Fine Clothing,Axel Calzas,01/08/14,12:35,PM
+11,Bean There Done That,Axel Calzas,01/09/14,07:25,AM
+11,Bean There Done That,Axel Calzas,01/10/14,07:09,AM
+11,Albert's Fine Clothing,Axel Calzas,01/12/14,06:34,PM
+11,Shoppers' Delight,Axel Calzas,01/13/14,05:41,PM
+11,Shoppers' Delight,Axel Calzas,01/15/14,05:17,PM
+11,Shoppers' Delight,Axel Calzas,01/17/14,05:32,PM
+11,Albert's Fine Clothing,Axel Calzas,01/18/14,06:35,PM
+11,Shoppers' Delight,Axel Calzas,01/06/14,05:25,PM
+11,Albert's Fine Clothing,Axel Calzas,01/06/14,06:32,PM
+11,Shoppers' Delight,Axel Calzas,01/07/14,05:35,PM
+11,Albert's Fine Clothing,Axel Calzas,01/07/14,07:14,PM
+11,Shoppers' Delight,Axel Calzas,01/08/14,05:21,PM
+11,Albert's Fine Clothing,Axel Calzas,01/08/14,06:23,PM
+11,Albert's Fine Clothing,Axel Calzas,01/09/14,12:19,PM
+11,Shoppers' Delight,Axel Calzas,01/09/14,05:36,PM
+11,Brew've Been Served,Axel Calzas,01/10/14,12:20,PM
+11,Shoppers' Delight,Axel Calzas,01/10/14,05:42,PM
+11,Roberts and Sons,Axel Calzas,01/13/14,12:26,PM
+11,Albert's Fine Clothing,Axel Calzas,01/16/14,12:07,PM
+11,Shoppers' Delight,Axel Calzas,01/16/14,05:29,PM
+11,Albert's Fine Clothing,Axel Calzas,01/16/14,06:32,PM
+11,Albert's Fine Clothing,Axel Calzas,01/17/14,06:25,PM
+11,Albert's Fine Clothing,Axel Calzas,01/19/14,06:21,PM
+11,Albert's Fine Clothing,Axel Calzas,01/13/14,06:41,PM
+11,Albert's Fine Clothing,Axel Calzas,01/15/14,06:10,PM
+11,Shoppers' Delight,Axel Calzas,01/10/14,06:45,PM
+11,Shoppers' Delight,Axel Calzas,01/18/14,02:05,PM
+16,Roberts and Sons,Isia Vann,01/10/14,07:35,PM
+16,Brew've Been Served,Isia Vann,01/11/14,06:02,PM
+16,Frydos Autosupply n' More,Isia Vann,01/13/14,08:11,PM
+16,Frydos Autosupply n' More,Isia Vann,01/14/14,09:37,PM
+16,Frydos Autosupply n' More,Isia Vann,01/19/14,03:40,PM
+16,Frydos Autosupply n' More,Isia Vann,01/06/14,05:57,PM
+16,Frydos Autosupply n' More,Isia Vann,01/12/14,07:39,PM
+16,Frydos Autosupply n' More,Isia Vann,01/17/14,08:45,PM
+16,Frydos Autosupply n' More,Isia Vann,01/08/14,05:31,PM
+16,Brew've Been Served,Isia Vann,01/09/14,06:51,PM
+16,Brew've Been Served,Isia Vann,01/13/14,07:18,PM
+16,Roberts and Sons,Isia Vann,01/06/14,11:54,AM
+16,Frydos Autosupply n' More,Isia Vann,01/06/14,06:07,PM
+16,Frydos Autosupply n' More,Isia Vann,01/06/14,09:04,PM
+16,Brew've Been Served,Isia Vann,01/07/14,11:59,AM
+16,Frydos Autosupply n' More,Isia Vann,01/07/14,05:43,PM
+16,Brew've Been Served,Isia Vann,01/07/14,07:16,PM
+16,Brew've Been Served,Isia Vann,01/08/14,06:21,PM
+16,Brew've Been Served,Isia Vann,01/09/14,12:00,PM
+16,Frydos Autosupply n' More,Isia Vann,01/09/14,05:33,PM
+16,Frydos Autosupply n' More,Isia Vann,01/10/14,05:33,PM
+16,Roberts and Sons,Isia Vann,01/10/14,07:39,PM
+16,Frydos Autosupply n' More,Isia Vann,01/10/14,09:31,PM
+16,Brew've Been Served,Isia Vann,01/12/14,06:33,PM
+16,Albert's Fine Clothing,Isia Vann,01/13/14,11:59,AM
+16,Frydos Autosupply n' More,Isia Vann,01/13/14,05:34,PM
+16,Frydos Autosupply n' More,Isia Vann,01/14/14,05:53,PM
+16,Brew've Been Served,Isia Vann,01/14/14,07:45,PM
+16,Brew've Been Served,Isia Vann,01/15/14,11:59,AM
+16,Frydos Autosupply n' More,Isia Vann,01/15/14,05:33,PM
+16,Brew've Been Served,Isia Vann,01/15/14,07:03,PM
+16,Albert's Fine Clothing,Isia Vann,01/16/14,12:24,PM
+16,Frydos Autosupply n' More,Isia Vann,01/16/14,05:30,PM
+16,Roberts and Sons,Isia Vann,01/16/14,07:18,PM
+16,Roberts and Sons,Isia Vann,01/17/14,12:04,PM
+16,Frydos Autosupply n' More,Isia Vann,01/17/14,05:54,PM
+16,Brew've Been Served,Isia Vann,01/19/14,06:20,PM
+16,Brew've Been Served,Isia Vann,01/11/14,06:05,PM
+16,Frydos Autosupply n' More,Isia Vann,01/19/14,03:42,PM
+16,Frydos Autosupply n' More,Isia Vann,01/11/14,03:35,AM
+16,Frydos Autosupply n' More,Isia Vann,01/11/14,11:00,AM
+22,Guy's Gyros,Adra Nubarron,01/08/14,08:22,PM
+22,Guy's Gyros,Adra Nubarron,01/12/14,07:59,PM
+22,Brew've Been Served,Adra Nubarron,01/13/14,07:51,PM
+22,Guy's Gyros,Adra Nubarron,01/08/14,05:39,PM
+22,Brew've Been Served,Adra Nubarron,01/09/14,07:45,PM
+22,General Grocer,Adra Nubarron,01/12/14,01:03,PM
+22,Brew've Been Served,Adra Nubarron,01/13/14,07:55,PM
+22,Roberts and Sons,Adra Nubarron,01/06/14,12:21,PM
+22,General Grocer,Adra Nubarron,01/08/14,12:19,PM
+22,General Grocer,Adra Nubarron,01/12/14,06:42,PM
+22,Roberts and Sons,Adra Nubarron,01/13/14,12:02,PM
+22,Guy's Gyros,Adra Nubarron,01/13/14,05:57,PM
+22,Guy's Gyros,Adra Nubarron,01/15/14,05:57,PM
+22,Brew've Been Served,Adra Nubarron,01/15/14,07:18,PM
+22,Roberts and Sons,Adra Nubarron,01/16/14,12:13,PM
+22,Guy's Gyros,Adra Nubarron,01/16/14,05:35,PM
+22,Guy's Gyros,Adra Nubarron,01/17/14,05:52,PM
+22,Albert's Fine Clothing,Adra Nubarron,01/18/14,06:46,PM
+22,Brew've Been Served,Adra Nubarron,01/19/14,06:35,PM
+22,Guy's Gyros,Adra Nubarron,01/09/14,05:40,PM
+22,Guy's Gyros,Adra Nubarron,01/12/14,03:38,PM
+22,Ahaggo Museum,Adra Nubarron,01/18/14,01:31,PM
+7,Chostus Hotel,Elsa Orilla,01/10/14,11:07,AM
+7,Chostus Hotel,Elsa Orilla,01/17/14,11:27,AM
+7,Roberts and Sons,Elsa Orilla,01/18/14,12:44,PM
+7,Albert's Fine Clothing,Elsa Orilla,01/17/14,07:27,PM
+7,Brew've Been Served,Elsa Orilla,01/07/14,12:12,PM
+7,Albert's Fine Clothing,Elsa Orilla,01/07/14,07:24,PM
+7,Chostus Hotel,Elsa Orilla,01/08/14,11:17,AM
+7,Albert's Fine Clothing,Elsa Orilla,01/08/14,06:27,PM
+7,General Grocer,Elsa Orilla,01/09/14,11:57,AM
+7,Albert's Fine Clothing,Elsa Orilla,01/09/14,06:50,PM
+7,Roberts and Sons,Elsa Orilla,01/11/14,12:37,PM
+7,Brew've Been Served,Elsa Orilla,01/13/14,12:00,PM
+7,Chostus Hotel,Elsa Orilla,01/14/14,11:20,AM
+7,Albert's Fine Clothing,Elsa Orilla,01/14/14,07:43,PM
+7,Albert's Fine Clothing,Elsa Orilla,01/15/14,12:25,PM
+7,Albert's Fine Clothing,Elsa Orilla,01/16/14,12:20,PM
+7,Albert's Fine Clothing,Elsa Orilla,01/19/14,06:29,PM
+7,Chostus Hotel,Elsa Orilla,01/10/14,11:10,AM
+7,Albert's Fine Clothing,Elsa Orilla,01/12/14,05:59,PM
+7,Chostus Hotel,Elsa Orilla,01/17/14,11:34,AM
+7,Roberts and Sons,Elsa Orilla,01/18/14,01:06,PM
+7,Shoppers' Delight,Elsa Orilla,01/10/14,07:12,PM
+8,Brew've Been Served,Lucas Alcazar,01/09/14,06:59,PM
+8,Hallowed Grounds,Lucas Alcazar,01/10/14,07:19,AM
+8,Hallowed Grounds,Lucas Alcazar,01/06/14,07:37,AM
+8,Hallowed Grounds,Lucas Alcazar,01/07/14,07:15,AM
+8,Hallowed Grounds,Lucas Alcazar,01/08/14,07:33,AM
+8,Hallowed Grounds,Lucas Alcazar,01/09/14,07:44,AM
+8,Hallowed Grounds,Lucas Alcazar,01/13/14,07:17,AM
+8,Hallowed Grounds,Lucas Alcazar,01/14/14,07:16,AM
+8,Hallowed Grounds,Lucas Alcazar,01/16/14,07:28,AM
+8,Hallowed Grounds,Lucas Alcazar,01/10/14,07:21,AM
+8,Albert's Fine Clothing,Lucas Alcazar,01/12/14,01:07,PM
+8,Hallowed Grounds,Lucas Alcazar,01/15/14,07:11,AM
+8,Roberts and Sons,Lucas Alcazar,01/15/14,12:31,PM
+8,Brew've Been Served,Lucas Alcazar,01/16/14,12:32,PM
+8,Hallowed Grounds,Lucas Alcazar,01/17/14,07:02,AM
+8,General Grocer,Lucas Alcazar,01/06/14,12:24,PM
+8,General Grocer,Lucas Alcazar,01/08/14,12:17,PM
+8,Brew've Been Served,Lucas Alcazar,01/09/14,12:09,PM
+8,Brew've Been Served,Lucas Alcazar,01/09/14,07:04,PM
+8,Albert's Fine Clothing,Lucas Alcazar,01/14/14,12:14,PM
+8,Shoppers' Delight,Lucas Alcazar,01/10/14,07:12,PM
+25,Coffee Cameleon,Kanon Herrero,01/06/14,07:45,AM
+25,Coffee Cameleon,Kanon Herrero,01/07/14,07:50,AM
+25,Coffee Cameleon,Kanon Herrero,01/08/14,07:49,AM
+25,Coffee Cameleon,Kanon Herrero,01/09/14,07:43,AM
+25,Coffee Cameleon,Kanon Herrero,01/10/14,07:54,AM
+25,Albert's Fine Clothing,Kanon Herrero,01/12/14,01:03,PM
+25,Coffee Cameleon,Kanon Herrero,01/13/14,07:55,AM
+25,Coffee Cameleon,Kanon Herrero,01/14/14,07:41,AM
+25,General Grocer,Kanon Herrero,01/14/14,12:42,PM
+25,Coffee Cameleon,Kanon Herrero,01/15/14,07:09,AM
+25,Coffee Cameleon,Kanon Herrero,01/17/14,07:22,AM
+25,Albert's Fine Clothing,Kanon Herrero,01/19/14,12:44,PM
+25,Albert's Fine Clothing,Kanon Herrero,01/09/14,12:22,PM
+25,Brew've Been Served,Kanon Herrero,01/13/14,12:24,PM
+25,Brew've Been Served,Kanon Herrero,01/15/14,12:11,PM
+25,Roberts and Sons,Kanon Herrero,01/17/14,12:29,PM
+25,Albert's Fine Clothing,Kanon Herrero,01/12/14,01:27,PM
+25,Albert's Fine Clothing,Kanon Herrero,01/19/14,01:34,PM
+25,Shoppers' Delight,Kanon Herrero,01/10/14,07:04,PM
+30,Guy's Gyros,Felix Resumir,01/08/14,08:59,PM
+30,Guy's Gyros,Felix Resumir,01/13/14,08:59,PM
+30,Guy's Gyros,Felix Resumir,01/12/14,07:05,PM
+30,General Grocer,Felix Resumir,01/18/14,06:52,PM
+30,Guy's Gyros,Felix Resumir,01/18/14,08:23,PM
+30,Roberts and Sons,Felix Resumir,01/19/14,01:20,PM
+30,Brew've Been Served,Felix Resumir,01/06/14,07:22,PM
+30,Guy's Gyros,Felix Resumir,01/11/14,02:37,PM
+30,Brew've Been Served,Felix Resumir,01/12/14,11:32,AM
+30,Brew've Been Served,Felix Resumir,01/17/14,07:16,PM
+30,Guy's Gyros,Felix Resumir,01/18/14,02:28,PM
+30,Roberts and Sons,Felix Resumir,01/19/14,01:26,PM
+30,Guy's Gyros,Felix Resumir,01/19/14,02:33,PM
+30,Guy's Gyros,Felix Resumir,01/06/14,05:26,PM
+30,Guy's Gyros,Felix Resumir,01/07/14,05:24,PM
+30,Guy's Gyros,Felix Resumir,01/08/14,05:45,PM
+30,Brew've Been Served,Felix Resumir,01/08/14,07:23,PM
+30,Brew've Been Served,Felix Resumir,01/09/14,12:36,PM
+30,Guy's Gyros,Felix Resumir,01/09/14,05:38,PM
+30,Albert's Fine Clothing,Felix Resumir,01/10/14,12:26,PM
+30,Guy's Gyros,Felix Resumir,01/10/14,05:33,PM
+30,Brew've Been Served,Felix Resumir,01/10/14,07:08,PM
+30,Roberts and Sons,Felix Resumir,01/11/14,01:02,PM
+30,Brew've Been Served,Felix Resumir,01/12/14,12:26,PM
+30,Brew've Been Served,Felix Resumir,01/13/14,12:31,PM
+30,Guy's Gyros,Felix Resumir,01/13/14,05:43,PM
+30,Albert's Fine Clothing,Felix Resumir,01/14/14,12:32,PM
+30,Guy's Gyros,Felix Resumir,01/14/14,05:34,PM
+30,Roberts and Sons,Felix Resumir,01/16/14,12:22,PM
+30,Guy's Gyros,Felix Resumir,01/16/14,05:29,PM
+30,Brew've Been Served,Felix Resumir,01/16/14,06:49,PM
+30,Brew've Been Served,Felix Resumir,01/17/14,12:37,PM
+30,Guy's Gyros,Felix Resumir,01/17/14,05:43,PM
+30,General Grocer,Felix Resumir,01/18/14,07:04,PM
+30,Brew've Been Served,Felix Resumir,01/19/14,07:02,PM
+30,Guy's Gyros,Felix Resumir,01/11/14,03:22,PM
+30,Ahaggo Museum,Felix Resumir,01/12/14,01:42,PM
+30,Guy's Gyros,Felix Resumir,01/18/14,03:13,PM
+30,Guy's Gyros,Felix Resumir,01/19/14,03:15,PM
+1,Shoppers' Delight,Nils Calixto,01/10/14,07:17,PM
+1,Albert's Fine Clothing,Nils Calixto,01/06/14,07:42,PM
+1,Hallowed Grounds,Nils Calixto,01/08/14,07:49,AM
+1,Hallowed Grounds,Nils Calixto,01/09/14,07:23,AM
+1,Hallowed Grounds,Nils Calixto,01/10/14,07:52,AM
+1,Hallowed Grounds,Nils Calixto,01/15/14,07:35,AM
+1,Hallowed Grounds,Nils Calixto,01/16/14,07:50,AM
+1,Hallowed Grounds,Nils Calixto,01/17/14,07:47,AM
+1,Hallowed Grounds,Nils Calixto,01/06/14,07:22,AM
+1,Albert's Fine Clothing,Nils Calixto,01/06/14,12:26,PM
+1,Albert's Fine Clothing,Nils Calixto,01/06/14,07:49,PM
+1,Hallowed Grounds,Nils Calixto,01/07/14,07:22,AM
+1,Albert's Fine Clothing,Nils Calixto,01/11/14,12:46,PM
+1,Hallowed Grounds,Nils Calixto,01/13/14,07:38,AM
+1,Hallowed Grounds,Nils Calixto,01/14/14,07:26,AM
+1,Roberts and Sons,Nils Calixto,01/18/14,12:55,PM
+1,General Grocer,Nils Calixto,01/07/14,12:15,PM
+1,Albert's Fine Clothing,Nils Calixto,01/08/14,12:17,PM
+1,Roberts and Sons,Nils Calixto,01/09/14,12:17,PM
+1,Albert's Fine Clothing,Nils Calixto,01/11/14,01:41,PM
+1,Albert's Fine Clothing,Nils Calixto,01/12/14,12:51,PM
+1,Albert's Fine Clothing,Nils Calixto,01/13/14,12:24,PM
+1,Brew've Been Served,Nils Calixto,01/16/14,12:26,PM
+1,Kronos Mart,Nils Calixto,01/18/14,01:36,PM
+1,Shoppers' Delight,Nils Calixto,01/10/14,07:20,PM
+31,Hallowed Grounds,Sten Sanjorge Jr.,01/17/14,07:36,AM
+31,Chostus Hotel,Sten Sanjorge Jr.,01/18/14,01:52,PM
+31,Roberts and Sons,Sten Sanjorge Jr.,01/17/14,12:23,PM
+31,Brew've Been Served,Sten Sanjorge Jr.,01/19/14,06:45,PM
+31,Desafio Golf Course,Sten Sanjorge Jr.,01/19/14,01:19,PM
+31,Chostus Hotel,Sten Sanjorge Jr.,01/19/14,03:54,PM
+24,Albert's Fine Clothing,Minke Mies,01/13/14,11:25,AM
+24,Albert's Fine Clothing,Minke Mies,01/11/14,01:03,PM
+24,Albert's Fine Clothing,Minke Mies,01/13/14,11:46,AM
+24,Jack's Magical Beans,Minke Mies,01/13/14,12:35,PM
+24,Coffee Cameleon,Minke Mies,01/17/14,07:22,AM
+24,Brew've Been Served,Minke Mies,01/08/14,12:23,PM
+24,Brew've Been Served,Minke Mies,01/08/14,06:42,PM
+24,Albert's Fine Clothing,Minke Mies,01/09/14,12:42,PM
+24,General Grocer,Minke Mies,01/10/14,07:35,PM
+24,Roberts and Sons,Minke Mies,01/14/14,12:25,PM
+24,Albert's Fine Clothing,Minke Mies,01/15/14,12:33,PM
+24,Brew've Been Served,Minke Mies,01/15/14,06:25,PM
+24,Roberts and Sons,Minke Mies,01/16/14,07:27,PM
+24,Albert's Fine Clothing,Minke Mies,01/06/14,06:49,PM
+24,Brew've Been Served,Minke Mies,01/09/14,07:06,PM
+24,Albert's Fine Clothing,Minke Mies,01/11/14,01:39,PM
+24,Brew've Been Served,Minke Mies,01/17/14,06:55,PM
+24,Brew've Been Served,Minke Mies,01/19/14,06:34,PM
+24,General Grocer,Minke Mies,01/16/14,12:39,PM
+9,Albert's Fine Clothing,Gustav Cazar,01/06/14,07:16,PM
+9,Albert's Fine Clothing,Gustav Cazar,01/17/14,06:51,PM
+9,Albert's Fine Clothing,Gustav Cazar,01/09/14,06:21,PM
+9,Albert's Fine Clothing,Gustav Cazar,01/07/14,07:17,AM
+9,Bean There Done That,Gustav Cazar,01/10/14,07:27,AM
+9,Bean There Done That,Gustav Cazar,01/15/14,07:39,AM
+9,Bean There Done That,Gustav Cazar,01/17/14,07:38,AM
+9,Albert's Fine Clothing,Gustav Cazar,01/18/14,12:51,PM
+9,Albert's Fine Clothing,Gustav Cazar,01/06/14,12:17,PM
+9,Roberts and Sons,Gustav Cazar,01/07/14,12:26,PM
+9,Albert's Fine Clothing,Gustav Cazar,01/09/14,06:26,PM
+9,General Grocer,Gustav Cazar,01/14/14,12:29,PM
+9,Albert's Fine Clothing,Gustav Cazar,01/14/14,06:13,PM
+9,Albert's Fine Clothing,Gustav Cazar,01/17/14,06:53,PM
+9,Albert's Fine Clothing,Gustav Cazar,01/18/14,06:23,PM
+9,Albert's Fine Clothing,Gustav Cazar,01/19/14,06:22,PM
+9,Octavio's Office Supplies,Gustav Cazar,01/06/14,08:37,AM
+9,Octavio's Office Supplies,Gustav Cazar,01/09/14,08:39,AM
+9,Shoppers' Delight,Gustav Cazar,01/10/14,07:12,PM
+9,Ouzeri Elian,Gustav Cazar,01/14/14,01:59,PM
+23,Guy's Gyros,Varja Lagos,01/06/14,08:18,PM
+23,Brew've Been Served,Varja Lagos,01/07/14,06:31,PM
+23,Brew've Been Served,Varja Lagos,01/08/14,06:42,PM
+23,Guy's Gyros,Varja Lagos,01/09/14,07:38,PM
+23,Guy's Gyros,Varja Lagos,01/17/14,08:19,PM
+23,Kronos Mart,Varja Lagos,01/18/14,01:46,PM
+23,Jack's Magical Beans,Varja Lagos,01/06/14,04:50,PM
+23,Jack's Magical Beans,Varja Lagos,01/06/14,05:12,PM
+23,Guy's Gyros,Varja Lagos,01/07/14,07:55,PM
+23,Guy's Gyros,Varja Lagos,01/18/14,07:13,PM
+23,Guy's Gyros,Varja Lagos,01/19/14,03:33,PM
+23,Guy's Gyros,Varja Lagos,01/07/14,05:32,PM
+23,Brew've Been Served,Varja Lagos,01/12/14,06:32,PM
+23,Guy's Gyros,Varja Lagos,01/16/14,05:23,PM
+23,Brew've Been Served,Varja Lagos,01/18/14,06:16,PM
+23,Guy's Gyros,Varja Lagos,01/06/14,05:36,PM
+23,Brew've Been Served,Varja Lagos,01/06/14,06:45,PM
+23,Brew've Been Served,Varja Lagos,01/07/14,06:36,PM
+23,General Grocer,Varja Lagos,01/08/14,12:02,PM
+23,Guy's Gyros,Varja Lagos,01/08/14,05:32,PM
+23,Brew've Been Served,Varja Lagos,01/08/14,06:45,PM
+23,Roberts and Sons,Varja Lagos,01/09/14,12:22,PM
+23,Guy's Gyros,Varja Lagos,01/09/14,05:14,PM
+23,Guy's Gyros,Varja Lagos,01/14/14,05:30,PM
+23,Albert's Fine Clothing,Varja Lagos,01/14/14,06:49,PM
+23,Guy's Gyros,Varja Lagos,01/15/14,05:08,PM
+23,Brew've Been Served,Varja Lagos,01/15/14,06:46,PM
+23,Brew've Been Served,Varja Lagos,01/16/14,06:08,PM
+23,Brew've Been Served,Varja Lagos,01/17/14,12:24,PM
+23,Guy's Gyros,Varja Lagos,01/17/14,05:16,PM
+23,Brew've Been Served,Varja Lagos,01/17/14,06:55,PM
+23,Kronos Mart,Varja Lagos,01/18/14,01:48,PM
+23,Brew've Been Served,Varja Lagos,01/19/14,06:16,PM
+23,Guy's Gyros,Varja Lagos,01/18/14,03:24,PM
+23,Guy's Gyros,Varja Lagos,01/19/14,03:39,PM
+6,General Grocer,Linnea Bergen,01/07/14,12:01,PM
+6,Coffee Cameleon,Linnea Bergen,01/13/14,07:53,AM
+6,Coffee Cameleon,Linnea Bergen,01/15/14,07:32,AM
+6,Coffee Cameleon,Linnea Bergen,01/17/14,07:33,AM
+6,Roberts and Sons,Linnea Bergen,01/18/14,12:29,PM
+6,Coffee Cameleon,Linnea Bergen,01/06/14,07:20,AM
+6,Coffee Cameleon,Linnea Bergen,01/07/14,07:19,AM
+6,Coffee Cameleon,Linnea Bergen,01/08/14,07:26,AM
+6,Coffee Cameleon,Linnea Bergen,01/09/14,07:09,AM
+6,Coffee Cameleon,Linnea Bergen,01/10/14,07:08,AM
+6,Coffee Cameleon,Linnea Bergen,01/14/14,07:23,AM
+6,Albert's Fine Clothing,Linnea Bergen,01/14/14,12:21,PM
+6,Coffee Cameleon,Linnea Bergen,01/16/14,07:10,AM
+6,Roberts and Sons,Linnea Bergen,01/18/14,12:35,PM
+6,General Grocer,Linnea Bergen,01/06/14,12:07,PM
+6,General Grocer,Linnea Bergen,01/07/14,12:03,PM
+6,Albert's Fine Clothing,Linnea Bergen,01/08/14,12:19,PM
+6,Brew've Been Served,Linnea Bergen,01/09/14,07:06,PM
+6,Brew've Been Served,Linnea Bergen,01/10/14,12:14,PM
+6,General Grocer,Linnea Bergen,01/10/14,02:46,PM
+6,Roberts and Sons,Linnea Bergen,01/11/14,12:41,PM
+6,Albert's Fine Clothing,Linnea Bergen,01/13/14,11:55,AM
+6,Albert's Fine Clothing,Linnea Bergen,01/16/14,12:02,PM
+6,Roberts and Sons,Linnea Bergen,01/18/14,01:27,PM
+6,Shoppers' Delight,Linnea Bergen,01/10/14,06:51,PM
+4,Albert's Fine Clothing,Ingrid Barranco,01/10/14,07:44,PM
+4,Roberts and Sons,Ingrid Barranco,01/06/14,12:42,PM
+4,Roberts and Sons,Ingrid Barranco,01/06/14,01:00,PM
+4,Albert's Fine Clothing,Ingrid Barranco,01/10/14,07:48,PM
+4,Albert's Fine Clothing,Ingrid Barranco,01/06/14,07:57,PM
+4,Albert's Fine Clothing,Ingrid Barranco,01/11/14,01:01,PM
+4,Albert's Fine Clothing,Ingrid Barranco,01/11/14,06:28,PM
+4,Albert's Fine Clothing,Ingrid Barranco,01/15/14,07:20,PM
+4,Brew've Been Served,Ingrid Barranco,01/17/14,12:22,PM
+4,Roberts and Sons,Ingrid Barranco,01/07/14,12:17,PM
+4,Albert's Fine Clothing,Ingrid Barranco,01/07/14,07:33,PM
+4,Albert's Fine Clothing,Ingrid Barranco,01/08/14,07:18,PM
+4,Kronos Mart,Ingrid Barranco,01/09/14,07:59,PM
+4,Roberts and Sons,Ingrid Barranco,01/13/14,12:28,PM
+4,Albert's Fine Clothing,Ingrid Barranco,01/13/14,07:31,PM
+4,Albert's Fine Clothing,Ingrid Barranco,01/14/14,12:18,PM
+4,Roberts and Sons,Ingrid Barranco,01/15/14,12:19,PM
+4,Albert's Fine Clothing,Ingrid Barranco,01/16/14,07:43,PM
+4,Albert's Fine Clothing,Ingrid Barranco,01/17/14,07:12,PM
+4,Roberts and Sons,Ingrid Barranco,01/18/14,06:31,PM
+4,Desafio Golf Course,Ingrid Barranco,01/12/14,01:06,PM
+4,Albert's Fine Clothing,Ingrid Barranco,01/12/14,06:43,PM
+4,Desafio Golf Course,Ingrid Barranco,01/19/14,12:36,PM
+21,Frydos Autosupply n' More,Hennie Osvaldo,01/09/14,08:22,PM
+21,Roberts and Sons,Hennie Osvaldo,01/14/14,07:24,PM
+21,Frydos Autosupply n' More,Hennie Osvaldo,01/07/14,09:09,PM
+21,Hallowed Grounds,Hennie Osvaldo,01/09/14,07:44,AM
+21,Frydos Autosupply n' More,Hennie Osvaldo,01/13/14,09:26,PM
+21,Frydos Autosupply n' More,Hennie Osvaldo,01/14/14,09:27,PM
+21,Hallowed Grounds,Hennie Osvaldo,01/16/14,07:51,AM
+21,Frydos Autosupply n' More,Hennie Osvaldo,01/17/14,09:18,PM
+21,General Grocer,Hennie Osvaldo,01/08/14,12:31,PM
+21,Hallowed Grounds,Hennie Osvaldo,01/13/14,07:14,AM
+21,Frydos Autosupply n' More,Hennie Osvaldo,01/14/14,06:38,AM
+21,Roberts and Sons,Hennie Osvaldo,01/06/14,12:31,PM
+21,General Grocer,Hennie Osvaldo,01/07/14,12:17,PM
+21,General Grocer,Hennie Osvaldo,01/09/14,12:30,PM
+21,Frydos Autosupply n' More,Hennie Osvaldo,01/13/14,09:32,PM
+21,Roberts and Sons,Hennie Osvaldo,01/14/14,12:20,PM
+21,Roberts and Sons,Hennie Osvaldo,01/14/14,07:26,PM
+21,Albert's Fine Clothing,Hennie Osvaldo,01/15/14,12:34,PM
+21,General Grocer,Hennie Osvaldo,01/16/14,12:23,PM
+21,Frydos Autosupply n' More,Hennie Osvaldo,01/14/14,03:43,AM
+34,Brew've Been Served,Edvard Vann,01/07/14,06:56,PM
+34,Albert's Fine Clothing,Edvard Vann,01/08/14,12:17,PM
+34,General Grocer,Edvard Vann,01/10/14,02:01,PM
+34,Albert's Fine Clothing,Edvard Vann,01/06/14,12:23,PM
+34,Brew've Been Served,Edvard Vann,01/07/14,07:01,PM
+34,General Grocer,Edvard Vann,01/09/14,12:03,PM
+34,General Grocer,Edvard Vann,01/09/14,06:54,PM
+34,Albert's Fine Clothing,Edvard Vann,01/10/14,12:13,PM
+34,Brew've Been Served,Edvard Vann,01/10/14,06:49,PM
+34,Albert's Fine Clothing,Edvard Vann,01/11/14,06:15,PM
+34,Brew've Been Served,Edvard Vann,01/13/14,07:12,PM
+34,Brew've Been Served,Edvard Vann,01/14/14,06:44,PM
+34,Brew've Been Served,Edvard Vann,01/15/14,12:21,PM
+34,General Grocer,Edvard Vann,01/15/14,07:35,PM
+34,Roberts and Sons,Edvard Vann,01/16/14,12:12,PM
+34,Brew've Been Served,Edvard Vann,01/16/14,06:20,PM
+34,Albert's Fine Clothing,Edvard Vann,01/17/14,12:13,PM
+34,Brew've Been Served,Edvard Vann,01/17/14,06:02,PM
+34,Roberts and Sons,Edvard Vann,01/18/14,06:24,PM
+34,Ahaggo Museum,Edvard Vann,01/11/14,02:18,PM
+29,Coffee Cameleon,Bertrand Ovan,01/07/14,07:33,AM
+29,Coffee Cameleon,Bertrand Ovan,01/08/14,07:39,AM
+29,Brew've Been Served,Bertrand Ovan,01/11/14,10:12,PM
+29,Albert's Fine Clothing,Bertrand Ovan,01/11/14,10:58,PM
+29,Jack's Magical Beans,Bertrand Ovan,01/11/14,11:25,PM
+29,Coffee Cameleon,Bertrand Ovan,01/14/14,07:18,AM
+29,Coffee Cameleon,Bertrand Ovan,01/15/14,07:34,AM
+29,Roberts and Sons,Bertrand Ovan,01/15/14,12:50,PM
+29,Coffee Cameleon,Bertrand Ovan,01/16/14,07:18,AM
+29,Coffee Cameleon,Bertrand Ovan,01/17/14,07:28,AM
+29,Coffee Cameleon,Bertrand Ovan,01/06/14,07:24,AM
+29,Coffee Cameleon,Bertrand Ovan,01/09/14,07:06,AM
+29,Coffee Cameleon,Bertrand Ovan,01/10/14,07:06,AM
+29,Coffee Cameleon,Bertrand Ovan,01/13/14,07:08,AM
+29,Roberts and Sons,Bertrand Ovan,01/15/14,01:09,PM
+29,Roberts and Sons,Bertrand Ovan,01/16/14,12:33,PM
+29,General Grocer,Bertrand Ovan,01/07/14,12:36,PM
+29,Brew've Been Served,Bertrand Ovan,01/09/14,12:46,PM
+29,General Grocer,Bertrand Ovan,01/10/14,12:47,PM
+29,General Grocer,Bertrand Ovan,01/18/14,01:40,PM
+33,Brew've Been Served,Brand Tempestad,01/08/14,07:12,PM
+33,Brew've Been Served,Brand Tempestad,01/13/14,07:19,PM
+33,Brew've Been Served,Brand Tempestad,01/19/14,05:52,PM
+33,Roberts and Sons,Brand Tempestad,01/07/14,12:25,PM
+33,Brew've Been Served,Brand Tempestad,01/07/14,06:49,PM
+33,Brew've Been Served,Brand Tempestad,01/08/14,07:14,PM
+33,Albert's Fine Clothing,Brand Tempestad,01/09/14,12:23,PM
+33,Chostus Hotel,Brand Tempestad,01/10/14,11:22,AM
+33,Albert's Fine Clothing,Brand Tempestad,01/11/14,06:29,PM
+33,Roberts and Sons,Brand Tempestad,01/12/14,12:41,PM
+33,Roberts and Sons,Brand Tempestad,01/13/14,12:10,PM
+33,Brew've Been Served,Brand Tempestad,01/13/14,07:23,PM
+33,Albert's Fine Clothing,Brand Tempestad,01/15/14,11:58,AM
+33,Brew've Been Served,Brand Tempestad,01/16/14,06:50,PM
+33,Brew've Been Served,Brand Tempestad,01/17/14,07:33,PM
+33,Chostus Hotel,Brand Tempestad,01/08/14,11:09,AM
+33,Chostus Hotel,Brand Tempestad,01/14/14,11:08,AM
+33,Chostus Hotel,Brand Tempestad,01/17/14,11:22,AM
+33,Brew've Been Served,Brand Tempestad,01/19/14,06:13,PM
+33,Shoppers' Delight,Brand Tempestad,01/10/14,07:30,PM
+33,Ahaggo Museum,Brand Tempestad,01/11/14,12:37,PM
+26,Hallowed Grounds,Marin Onda,01/07/14,07:33,AM
+26,Hallowed Grounds,Marin Onda,01/17/14,07:05,AM
+26,Hallowed Grounds,Marin Onda,01/06/14,07:22,AM
+26,Hallowed Grounds,Marin Onda,01/07/14,07:36,AM
+26,Hallowed Grounds,Marin Onda,01/09/14,07:14,AM
+26,Hallowed Grounds,Marin Onda,01/15/14,07:42,AM
+26,Hallowed Grounds,Marin Onda,01/16/14,07:26,AM
+26,Hallowed Grounds,Marin Onda,01/17/14,07:08,AM
+26,Hallowed Grounds,Marin Onda,01/08/14,07:05,AM
+26,Hallowed Grounds,Marin Onda,01/10/14,07:17,AM
+26,Roberts and Sons,Marin Onda,01/11/14,12:56,PM
+26,Hallowed Grounds,Marin Onda,01/13/14,07:17,AM
+26,Hallowed Grounds,Marin Onda,01/14/14,07:14,AM
+26,Brew've Been Served,Marin Onda,01/06/14,12:03,PM
+26,General Grocer,Marin Onda,01/07/14,12:09,PM
+26,Albert's Fine Clothing,Marin Onda,01/09/14,12:10,PM
+26,Roberts and Sons,Marin Onda,01/10/14,12:04,PM
+26,Roberts and Sons,Marin Onda,01/14/14,12:28,PM
+26,Albert's Fine Clothing,Marin Onda,01/16/14,12:07,PM
+26,General Grocer,Marin Onda,01/17/14,12:21,PM
+26,Roberts and Sons,Marin Onda,01/11/14,01:33,PM
+3,Bean There Done That,Felix Balas,01/06/14,07:22,AM
+3,Bean There Done That,Felix Balas,01/10/14,07:43,AM
+3,Bean There Done That,Felix Balas,01/13/14,07:09,AM
+3,Bean There Done That,Felix Balas,01/14/14,07:42,AM
+3,Bean There Done That,Felix Balas,01/08/14,07:06,AM
+3,Bean There Done That,Felix Balas,01/15/14,07:24,AM
+3,Bean There Done That,Felix Balas,01/16/14,07:27,AM
+3,Bean There Done That,Felix Balas,01/17/14,07:04,AM
+3,Brew've Been Served,Felix Balas,01/06/14,12:12,PM
+3,Brew've Been Served,Felix Balas,01/07/14,12:14,PM
+3,Albert's Fine Clothing,Felix Balas,01/08/14,12:22,PM
+3,Albert's Fine Clothing,Felix Balas,01/08/14,06:58,PM
+3,Albert's Fine Clothing,Felix Balas,01/09/14,12:25,PM
+3,Albert's Fine Clothing,Felix Balas,01/09/14,07:47,PM
+3,Brew've Been Served,Felix Balas,01/10/14,12:26,PM
+3,Albert's Fine Clothing,Felix Balas,01/11/14,06:11,PM
+3,Albert's Fine Clothing,Felix Balas,01/12/14,06:37,PM
+3,Roberts and Sons,Felix Balas,01/13/14,12:17,PM
+3,Albert's Fine Clothing,Felix Balas,01/14/14,07:20,PM
+3,Roberts and Sons,Felix Balas,01/15/14,12:02,PM
+3,Albert's Fine Clothing,Felix Balas,01/15/14,06:51,PM
+3,Albert's Fine Clothing,Felix Balas,01/16/14,06:39,PM
+3,General Grocer,Felix Balas,01/17/14,12:21,PM
+3,Albert's Fine Clothing,Felix Balas,01/19/14,06:23,PM
+3,Albert's Fine Clothing,Felix Balas,01/17/14,07:48,PM
+27,Hallowed Grounds,Kare Orilla,01/16/14,07:06,AM
+27,Hallowed Grounds,Kare Orilla,01/06/14,07:36,AM
+27,Hallowed Grounds,Kare Orilla,01/10/14,07:27,AM
+27,Hallowed Grounds,Kare Orilla,01/13/14,07:27,AM
+27,Hallowed Grounds,Kare Orilla,01/14/14,07:50,AM
+27,Hallowed Grounds,Kare Orilla,01/15/14,07:38,AM
+27,Hallowed Grounds,Kare Orilla,01/07/14,07:24,AM
+27,Hallowed Grounds,Kare Orilla,01/08/14,07:21,AM
+27,Hallowed Grounds,Kare Orilla,01/09/14,07:27,AM
+27,Hallowed Grounds,Kare Orilla,01/16/14,07:08,AM
+27,Hallowed Grounds,Kare Orilla,01/17/14,07:35,AM
+27,General Grocer,Kare Orilla,01/06/14,12:23,PM
+27,Albert's Fine Clothing,Kare Orilla,01/07/14,12:34,PM
+27,Roberts and Sons,Kare Orilla,01/09/14,12:38,PM
+27,Roberts and Sons,Kare Orilla,01/10/14,12:33,PM
+27,Roberts and Sons,Kare Orilla,01/15/14,12:23,PM
+27,General Grocer,Kare Orilla,01/17/14,12:34,PM
+32,Kronos Mart,Orhan Strum,01/11/14,01:35,PM
+32,Albert's Fine Clothing,Orhan Strum,01/06/14,08:05,PM
+32,Jack's Magical Beans,Orhan Strum,01/07/14,07:18,AM
+32,Jack's Magical Beans,Orhan Strum,01/08/14,07:22,AM
+32,Albert's Fine Clothing,Orhan Strum,01/12/14,06:09,PM
+32,Jack's Magical Beans,Orhan Strum,01/13/14,06:53,AM
+32,Jack's Magical Beans,Orhan Strum,01/16/14,07:20,AM
+32,Roberts and Sons,Orhan Strum,01/18/14,12:49,PM
+32,Desafio Golf Course,Orhan Strum,01/19/14,12:36,PM
+32,Jack's Magical Beans,Orhan Strum,01/06/14,07:05,AM
+32,Albert's Fine Clothing,Orhan Strum,01/06/14,12:21,PM
+32,Jack's Magical Beans,Orhan Strum,01/09/14,07:12,AM
+32,Jack's Magical Beans,Orhan Strum,01/10/14,07:06,AM
+32,Brew've Been Served,Orhan Strum,01/10/14,12:13,PM
+32,Jack's Magical Beans,Orhan Strum,01/13/14,06:59,AM
+32,Jack's Magical Beans,Orhan Strum,01/14/14,07:15,AM
+32,Jack's Magical Beans,Orhan Strum,01/15/14,07:13,AM
+32,Albert's Fine Clothing,Orhan Strum,01/18/14,06:11,PM
+32,Albert's Fine Clothing,Orhan Strum,01/06/14,08:12,PM
+32,Brew've Been Served,Orhan Strum,01/07/14,12:06,PM
+32,Albert's Fine Clothing,Orhan Strum,01/07/14,07:37,PM
+32,Albert's Fine Clothing,Orhan Strum,01/09/14,07:44,PM
+32,Albert's Fine Clothing,Orhan Strum,01/10/14,07:30,PM
+32,Albert's Fine Clothing,Orhan Strum,01/11/14,06:09,PM
+32,Albert's Fine Clothing,Orhan Strum,01/12/14,06:15,PM
+32,General Grocer,Orhan Strum,01/13/14,12:04,PM
+32,Albert's Fine Clothing,Orhan Strum,01/13/14,07:36,PM
+32,Albert's Fine Clothing,Orhan Strum,01/16/14,12:27,PM
+32,General Grocer,Orhan Strum,01/17/14,12:16,PM
+32,Albert's Fine Clothing,Orhan Strum,01/19/14,06:34,PM
+32,Kronos Mart,Orhan Strum,01/11/14,01:37,PM
+32,Albert's Fine Clothing,Orhan Strum,01/15/14,07:39,PM
+32,Desafio Golf Course,Orhan Strum,01/19/14,12:51,PM
+2,Albert's Fine Clothing,Lars Azada,01/06/14,06:57,PM
+2,Shoppers' Delight,Lars Azada,01/11/14,08:31,PM
+2,Albert's Fine Clothing,Lars Azada,01/14/14,06:25,PM
+2,Albert's Fine Clothing,Lars Azada,01/15/14,06:36,PM
+2,Bean There Done That,Lars Azada,01/07/14,08:06,AM
+2,Bean There Done That,Lars Azada,01/08/14,07:47,AM
+2,Bean There Done That,Lars Azada,01/09/14,08:05,AM
+2,Bean There Done That,Lars Azada,01/10/14,07:46,AM
+2,Bean There Done That,Lars Azada,01/13/14,07:43,AM
+2,Shoppers' Delight,Lars Azada,01/14/14,07:47,PM
+2,Bean There Done That,Lars Azada,01/16/14,08:00,AM
+2,Bean There Done That,Lars Azada,01/06/14,07:34,AM
+2,Shoppers' Delight,Lars Azada,01/08/14,05:17,PM
+2,Albert's Fine Clothing,Lars Azada,01/12/14,06:30,PM
+2,Bean There Done That,Lars Azada,01/14/14,07:53,AM
+2,Shoppers' Delight,Lars Azada,01/14/14,05:31,PM
+2,Bean There Done That,Lars Azada,01/17/14,07:35,AM
+2,Brew've Been Served,Lars Azada,01/06/14,12:20,PM
+2,Shoppers' Delight,Lars Azada,01/06/14,05:27,PM
+2,Albert's Fine Clothing,Lars Azada,01/06/14,07:00,PM
+2,Roberts and Sons,Lars Azada,01/07/14,12:13,PM
+2,Shoppers' Delight,Lars Azada,01/07/14,05:41,PM
+2,Albert's Fine Clothing,Lars Azada,01/07/14,06:49,PM
+2,Roberts and Sons,Lars Azada,01/08/14,12:09,PM
+2,Albert's Fine Clothing,Lars Azada,01/08/14,06:20,PM
+2,Brew've Been Served,Lars Azada,01/09/14,12:21,PM
+2,General Grocer,Lars Azada,01/10/14,12:15,PM
+2,Shoppers' Delight,Lars Azada,01/10/14,05:16,PM
+2,Albert's Fine Clothing,Lars Azada,01/10/14,06:44,PM
+2,General Grocer,Lars Azada,01/13/14,12:04,PM
+2,Shoppers' Delight,Lars Azada,01/13/14,05:28,PM
+2,Brew've Been Served,Lars Azada,01/14/14,12:03,PM
+2,Albert's Fine Clothing,Lars Azada,01/14/14,06:28,PM
+2,Brew've Been Served,Lars Azada,01/15/14,12:21,PM
+2,Shoppers' Delight,Lars Azada,01/15/14,05:27,PM
+2,Albert's Fine Clothing,Lars Azada,01/15/14,06:39,PM
+2,Albert's Fine Clothing,Lars Azada,01/16/14,12:08,PM
+2,Shoppers' Delight,Lars Azada,01/16/14,05:30,PM
+2,Kronos Mart,Lars Azada,01/16/14,06:55,PM
+2,Albert's Fine Clothing,Lars Azada,01/18/14,06:25,PM
+2,Albert's Fine Clothing,Lars Azada,01/11/14,06:14,PM
+2,Albert's Fine Clothing,Lars Azada,01/13/14,06:41,PM
+2,Albert's Fine Clothing,Lars Azada,01/19/14,06:18,PM
+28,Guy's Gyros,Isande Borrasca,01/06/14,06:34,PM
+28,Guy's Gyros,Isande Borrasca,01/06/14,06:40,PM
+28,Roberts and Sons,Isande Borrasca,01/12/14,06:39,PM
+28,Guy's Gyros,Isande Borrasca,01/14/14,12:05,PM
+28,Guy's Gyros,Isande Borrasca,01/19/14,06:27,PM
+28,Octavio's Office Supplies,Isande Borrasca,01/06/14,08:13,AM
+28,Octavio's Office Supplies,Isande Borrasca,01/07/14,08:01,AM
+28,Octavio's Office Supplies,Isande Borrasca,01/08/14,08:12,AM
+28,Octavio's Office Supplies,Isande Borrasca,01/09/14,08:05,AM
+28,Octavio's Office Supplies,Isande Borrasca,01/09/14,01:58,PM
+28,Octavio's Office Supplies,Isande Borrasca,01/10/14,07:56,AM
+28,Octavio's Office Supplies,Isande Borrasca,01/13/14,07:58,AM
+28,Octavio's Office Supplies,Isande Borrasca,01/14/14,08:09,AM
+28,Octavio's Office Supplies,Isande Borrasca,01/14/14,01:46,PM
+28,Octavio's Office Supplies,Isande Borrasca,01/15/14,08:07,AM
+28,Octavio's Office Supplies,Isande Borrasca,01/16/14,08:06,AM
+28,Octavio's Office Supplies,Isande Borrasca,01/17/14,08:07,AM
+28,Octavio's Office Supplies,Isande Borrasca,01/17/14,01:52,PM
+5,Jack's Magical Beans,Isak Baza,01/06/14,08:00,AM
+5,Jack's Magical Beans,Isak Baza,01/14/14,07:44,AM
+5,Jack's Magical Beans,Isak Baza,01/16/14,07:45,AM
+5,Jack's Magical Beans,Isak Baza,01/17/14,07:42,AM
+5,Jack's Magical Beans,Isak Baza,01/07/14,07:21,AM
+5,Jack's Magical Beans,Isak Baza,01/08/14,07:39,AM
+5,Jack's Magical Beans,Isak Baza,01/09/14,07:13,AM
+5,Jack's Magical Beans,Isak Baza,01/10/14,07:12,AM
+5,Jack's Magical Beans,Isak Baza,01/13/14,07:23,AM
+5,Jack's Magical Beans,Isak Baza,01/15/14,06:59,AM
+5,Roberts and Sons,Isak Baza,01/07/14,12:16,PM
+5,General Grocer,Isak Baza,01/09/14,12:08,PM
+5,Roberts and Sons,Isak Baza,01/10/14,12:00,PM
+5,Kronos Mart,Isak Baza,01/13/14,07:12,PM
+5,Albert's Fine Clothing,Isak Baza,01/15/14,12:01,PM
+5,Albert's Fine Clothing,Isak Baza,01/16/14,12:24,PM
+5,Shoppers' Delight,Isak Baza,01/10/14,07:02,PM
+35,Jack's Magical Beans,Willem Vasco-Pais,01/06/14,06:30,AM
+35,Jack's Magical Beans,Willem Vasco-Pais,01/07/14,06:39,AM
+35,Jack's Magical Beans,Willem Vasco-Pais,01/09/14,06:56,AM
+35,Roberts and Sons,Willem Vasco-Pais,01/09/14,12:50,PM
+35,Albert's Fine Clothing,Willem Vasco-Pais,01/09/14,07:34,PM
+35,General Grocer,Willem Vasco-Pais,01/15/14,12:37,PM
+35,Jack's Magical Beans,Willem Vasco-Pais,01/07/14,06:42,AM
+35,Jack's Magical Beans,Willem Vasco-Pais,01/08/14,06:25,AM
+35,Jack's Magical Beans,Willem Vasco-Pais,01/08/14,06:46,AM
+35,Jack's Magical Beans,Willem Vasco-Pais,01/09/14,06:38,AM
+35,Jack's Magical Beans,Willem Vasco-Pais,01/10/14,06:23,AM
+35,Jack's Magical Beans,Willem Vasco-Pais,01/10/14,06:40,AM
+35,Jack's Magical Beans,Willem Vasco-Pais,01/13/14,06:49,AM
+35,Albert's Fine Clothing,Willem Vasco-Pais,01/13/14,07:42,PM
+35,Jack's Magical Beans,Willem Vasco-Pais,01/14/14,06:40,AM
+35,Jack's Magical Beans,Willem Vasco-Pais,01/14/14,07:00,AM
+35,Jack's Magical Beans,Willem Vasco-Pais,01/15/14,06:26,AM
+35,Jack's Magical Beans,Willem Vasco-Pais,01/15/14,06:41,AM
+35,Jack's Magical Beans,Willem Vasco-Pais,01/16/14,07:04,AM
+35,Jack's Magical Beans,Willem Vasco-Pais,01/06/14,06:33,AM
+35,General Grocer,Willem Vasco-Pais,01/07/14,12:41,PM
+35,Albert's Fine Clothing,Willem Vasco-Pais,01/07/14,08:23,PM
+35,Roberts and Sons,Willem Vasco-Pais,01/08/14,12:26,PM
+35,Roberts and Sons,Willem Vasco-Pais,01/09/14,12:54,PM
+35,Albert's Fine Clothing,Willem Vasco-Pais,01/13/14,07:51,PM
+35,General Grocer,Willem Vasco-Pais,01/14/14,12:43,PM
+35,General Grocer,Willem Vasco-Pais,01/15/14,12:41,PM
+35,General Grocer,Willem Vasco-Pais,01/16/14,12:46,PM
+35,Jack's Magical Beans,Willem Vasco-Pais,01/17/14,06:15,AM
+35,Brew've Been Served,Willem Vasco-Pais,01/06/14,12:25,PM
+35,Albert's Fine Clothing,Willem Vasco-Pais,01/08/14,07:48,PM
+35,Albert's Fine Clothing,Willem Vasco-Pais,01/09/14,07:35,PM
+35,Albert's Fine Clothing,Willem Vasco-Pais,01/10/14,12:23,PM
+35,Brew've Been Served,Willem Vasco-Pais,01/13/14,12:21,PM
+35,Albert's Fine Clothing,Willem Vasco-Pais,01/14/14,07:12,PM
+35,Albert's Fine Clothing,Willem Vasco-Pais,01/16/14,07:13,PM
+35,Albert's Fine Clothing,Willem Vasco-Pais,01/18/14,06:25,PM
+35,Albert's Fine Clothing,Willem Vasco-Pais,01/19/14,06:46,PM
+35,Albert's Fine Clothing,Willem Vasco-Pais,01/10/14,08:08,PM
+35,General Grocer,Willem Vasco-Pais,01/15/14,07:45,PM
+35,Albert's Fine Clothing,Willem Vasco-Pais,01/17/14,07:26,PM
+35,Desafio Golf Course,Willem Vasco-Pais,01/12/14,12:49,PM
+35,Desafio Golf Course,Willem Vasco-Pais,01/19/14,12:41,PM
+20,Brew've Been Served,Stenig Fusil,01/06/14,06:49,PM
+20,Brew've Been Served,Stenig Fusil,01/09/14,06:34,PM
+20,Brew've Been Served,Stenig Fusil,01/14/14,06:30,PM
+20,Brew've Been Served,Stenig Fusil,01/17/14,06:27,PM
+20,Brew've Been Served,Stenig Fusil,01/11/14,06:52,PM
+20,Brew've Been Served,Stenig Fusil,01/15/14,07:22,PM
+20,Coffee Cameleon,Stenig Fusil,01/17/14,07:25,AM
+20,Brew've Been Served,Stenig Fusil,01/17/14,06:37,PM
+20,Brew've Been Served,Stenig Fusil,01/06/14,06:52,PM
+20,Brew've Been Served,Stenig Fusil,01/07/14,11:57,AM
+20,Brew've Been Served,Stenig Fusil,01/09/14,06:36,PM
+20,Brew've Been Served,Stenig Fusil,01/10/14,12:04,PM
+20,Brew've Been Served,Stenig Fusil,01/10/14,06:44,PM
+20,Kronos Mart,Stenig Fusil,01/12/14,06:42,PM
+20,Roberts and Sons,Stenig Fusil,01/13/14,12:15,PM
+20,Roberts and Sons,Stenig Fusil,01/14/14,12:25,PM
+20,General Grocer,Stenig Fusil,01/14/14,02:19,PM
+20,Brew've Been Served,Stenig Fusil,01/14/14,06:36,PM
+20,Albert's Fine Clothing,Stenig Fusil,01/15/14,12:14,PM
+20,Brew've Been Served,Stenig Fusil,01/16/14,12:21,PM
+20,Brew've Been Served,Stenig Fusil,01/16/14,06:52,PM
+20,Albert's Fine Clothing,Stenig Fusil,01/17/14,12:14,PM
+20,Brew've Been Served,Stenig Fusil,01/18/14,06:17,PM
+20,Brew've Been Served,Stenig Fusil,01/19/14,06:16,PM

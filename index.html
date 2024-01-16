@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+      <title>Document</title>
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css">
+      <style>
+        #chartarea {
+          width: 800px;
+          height: 600px;
+        }
+        #calendartimesliderdiv {
+          height: 160px;
+          border-color: black;
+          border-radius: 10px;
+          border-style: solid;
+          border-width: 1px;
+        }
+        #calendar {
+          float:left;
+          height: 160px;
+          width: 350px;
+          padding:10px;
+          border-color: black;
+          border-radius: 10px;
+          border-style: solid;
+          border-width: 1px;
+        }
+        #time_slider {
+          float:left;
+          width: 644px;
+          height: 160px;
+          border-color: black;
+          border-radius: 10px;
+          border-style: solid;
+          border-width: 1px;
+        }
+
+        #membernames {
+          float:left;
+          width: 400px;
+          height: 160px;
+          border-color: black;
+          border-radius: 10px;
+          border-style: solid;
+          border-width: 1px;
+        }
+
+        .selected {
+          background-color: lightblue;
+        }
+        .timerange {
+          float:left;
+          width:500px;
+          padding:10px;
+          margin-top:10px;
+          margin-bottom:10px;
+        }
+        .timerange-slider {
+          top: 60px;
+          height: 4px;
+          position: relative;
+          background-color: #e1e9f6;
+          border-radius: 5px;
+          /* width: 50% */
+        }
+        .timerange-selected {
+          height: 100%;
+          left: 0%;
+          right: 0%;
+          position: absolute;
+          border-radius: 5px;
+          background-color: #1b53c0;
+        }
+        .timerange-input {
+          position: relative;
+          top:50px;
+        }
+        .timerange-input input {
+          position: absolute;
+          width: 100%;
+          background: none;
+          pointer-events: none;
+          /* -moz-appearance: none; */
+        }
+        .timerange-input input::-moz-range-thumb {
+          height: 20px;
+          width: 20px;
+          border-radius: 50%;
+          border: 3px solid #1b53c0;
+          background-color: #fff;
+          pointer-events: auto;
+          -moz-appearance: none;
+        }
+        #selected-time {
+          float: left;
+          padding: 10px;
+          margin-top: 60px;
+          margin-bottom: 10px;
+        }
+        .selected_calendar {
+          background-color: rgb(41, 168, 210);
+        }
+
+        #barchartheatmapdiv {
+          height: 550px;
+          border-color: black;
+          border-radius: 10px;
+          border-style: solid;
+          border-width: 1px;
+        }
+        #barchart {
+          float:left;
+          height: 550px;
+          border-color: black;
+          border-radius: 10px;
+          border-style: solid;
+          border-width: 1px;
+        }
+        #heatmap {
+          float:left;
+          height: 550px;
+          border-color: black;
+          border-radius: 10px;
+          border-style: solid;
+          border-width: 1px;
+        }
+        #ganttchartabilamapdiv {
+          height: 600px;
+          border-color: black;
+          border-radius: 10px;
+          border-style: solid;
+          border-width: 1px;
+        }
+        #ganttchartdiv {
+          height: 600px;
+          border-color: black;
+          border-radius: 10px;
+          border-style: solid;
+          border-width: 1px;
+        }
+        #abilamapdiv {
+          height: 600px;
+          border-color: black;
+          border-radius: 10px;
+          border-style: solid;
+          border-width: 1px;
+        }
+        .trajectory{
+          opacity: 200%;
+        }
+        #histogramclocknetworkdiv {
+          height: 750;
+          border-color: black;
+          border-radius: 10px;
+          border-style: solid;
+          border-width: 1px;
+        }
+        #clockchartdiv {
+          /* width: 1460px; */
+          height: 750px; 
+          border-color: black;
+          border-radius: 10px;
+          border-style: solid;
+          border-width: 1px;
+          padding: 30px;       
+        }
+
+        #polardiv {
+          /* width: 1660px; */
+          height: 550px; 
+          border-color: black;
+          border-radius: 10px;
+          border-style: solid;
+          border-width: 1px;
+        }
+
+      </style>
+      <script src="https://d3js.org/d3.v7.min.js"></script>
+  </head>
+  <body>
+      <div class='container-fluid' style="width: 1400px;">
+          <h2 class="text-center">VAST Challenge 2021: Mini-Challenge 2</h2>
+          <h3 class="text-center">'The Kronos Incident'</h3>
+          <div class="row" id="calendartimesliderdiv">
+            <div class="col-xl-3" id="calendar">
+              <div style="font-weight: 600; text-align: center">Calendar</div>
+              <div class="calendar-table">
+                <table id="calendar-table"></table>
+              </div>
+            </div>
+
+            <div class="col-xl-6" id="time_slider">
+              <div class="timerange">
+                <div class="timerange-slider">
+                  <span class="timerange-selected"></span>
+                </div>
+                <div class="timerange-input">
+                  <input type="range" class="timestart" min="0" max="1439" value="0" step="1">
+                  <input type="range" class="timeend" min="0" max="1439" value="1439" step="1">
+                </div>
+              </div>
+              <div id="selected-time">00:00 - 23:59</div>
+            </div>
+
+            <div class="col-xl-3" id="membernames">
+              <ul>
+                <li>Alimohammad Beigi - abeigi@asu.edu</li>
+                <li>Soham Nag - snag8@asu.edu</li>
+                <li>Chaehwan Yoon - cyoon8@asu.edu</li>
+                <li>Jisoo Lee - jlee815@asu.edu</li>
+                <li>Rene Marceline - rimarcel@asu.edu</li>
+                <li>Nayoung Kim - nkim48@asu.edu</li>
+              </ul>
+            </div>
+          </div>
+        <div class="row" id="barchartheatmapdiv">
+          <div class="col-xl-6" id="barchart">
+            <br>
+            <label for="bar-dropdown">Selected Category:</label>
+            <select id="bar-dropdown">
+              <option value="Number of Visited People">Number of Visited People</option>
+              <option value="Transaction Count">Transaction Count</option>
+              <option value="Transaction Amount">Transaction Amount</option>
+            </select>
+            <svg id="barChart_svg"></svg>
+          </div>
+          <div class="col-xl-6" id="heatmap">
+            <svg id="heatmap_svg"></svg>
+          </div>
+        </div>
+          <div class="row" id="ganttchartabilamapdiv">
+              <div class="col-xl-5" id="ganttchartdiv">
+              </div>
+              <div class="col-xl-7" id="abilamapdiv">
+              </div>    
+          </div>
+          <div class="row" id="histogramclocknetworkdiv">
+              <div class="col-xl-12" id="clockchartdiv">
+                <label for="date-dropdown">Select a date:</label>
+                <select id="date-dropdown"></select>
+
+                <br>
+                
+                <label for="AM-PM-toggle">Select a Time:</label>
+                <label>
+                    <input type="radio" id="AM-toggle" name="AM-PM-toggle" value="AM" checked > AM
+                </label>
+                <label>
+                    <input type="radio" id="PM-toggle" name="AM-PM-toggle" value="PM"> PM
+                </label>
+                
+                <div id="clock"></div>            
+              </div>
+          </div>
+          <div class="row" id="polardiv">
+
+          </div>
+      </div>
+  </body>
+  <script src="main.js" type="module"></script>
+</html>
+
