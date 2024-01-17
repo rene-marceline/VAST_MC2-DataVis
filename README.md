@@ -1,10 +1,11 @@
 # Vast Challenge 2021 - The Kronos Incident : Mini-Challenge 2
 
+Authors:
+- Rene Marceline (rimarcel@asu.edu)
 - Alimohammad Beigi (abeigi@gmail.com)
 - Chaehwan Yoon (cyoon8@asu.edu)
 - Jisoo Lee (jlee815@asu.edu)
 - Nayoung Kim (nkim48@asu.edu)
-- Rene Marceline (rimarcel@asu.edu)
 - Soham Nag (snag8@asu.edu)
 
 This project is a solution for the VAST 2021 Mini - Challenge 2 through nested visualization
