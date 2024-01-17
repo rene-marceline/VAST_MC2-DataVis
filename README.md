@@ -1,14 +1,6 @@
 # Vast Challenge 2021 - The Kronos Incident : Mini-Challenge 2
 
-Authors:
-- Rene Marceline (rimarcel@asu.edu)
-- Alimohammad Beigi (abeigi@gmail.com)
-- Chaehwan Yoon (cyoon8@asu.edu)
-- Jisoo Lee (jlee815@asu.edu)
-- Nayoung Kim (nkim48@asu.edu)
-- Soham Nag (snag8@asu.edu)
-
-This project is a solution for the VAST 2021 Mini - Challenge 2 through nested visualization
+# This project is a solution for the VAST 2021 Mini - Challenge 2 through nested visualization
 
 #####################################################################################
 
@@ -57,3 +49,11 @@ The credit card and loyalty transaction data sets were merged based on the indiv
 ![framework2](https://user-images.githubusercontent.com/118316065/233920974-1d37d932-3fa6-4fbb-8223-926cf1ee9844.png)  
 
 ### For information about the methodology and results refer to the report.
+
+Authors:
+- Rene Marceline 
+- Alimohammad Beigi 
+- Chaehwan Yoon 
+- Jisoo Lee 
+- Nayoung Kim 
+- Soham Nag 
