@@ -1,6 +1,6 @@
 # Vast Challenge 2021 - The Kronos Incident : Mini-Challenge 2
 
-# This project is a solution for the VAST 2021 Mini - Challenge 2 through nested visualization
+### This project is a solution for the VAST 2021 Mini - Challenge 2 through nested visualization
 
 #####################################################################################
 
