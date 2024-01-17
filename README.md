@@ -12,7 +12,7 @@ Default Scaling of Web Browser: 100%
 Default Scaling of Display: 125%  
 Git clone the entire folder to your system and run the index.html file on the web browser using simple http server to view the visualization.
 Use Simple HTTP Server to launch the project.
-##########################################################################################
+#########################################################################################
 
 ## Tools Used
 Data transformation and analysis: Python  
